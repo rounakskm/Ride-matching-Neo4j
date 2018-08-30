@@ -1,0 +1,8 @@
+Node lables (type of nodes in the graph):
+- Person (with a unique constraint on some attribute, preferably phone number)
+	person may be a passenger
+	person may be a driver driving others 
+
+- Car (with a unique constraint on some attribute like vehicle number)
+
+- Cities (name,country combination must be unique)

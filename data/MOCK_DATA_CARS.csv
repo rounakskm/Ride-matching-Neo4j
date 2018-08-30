@@ -1,0 +1,4001 @@
+id,car_make,car_model,model_year,plate_no,capacity,color,active
+1,Mazda,MPV,1996,3C4PDD,4,Crimson,TRUE
+2,BMW,X6 M,2013,1FTEW1,4,Pink,TRUE
+3,Kia,Rio,2002,WUAYU4,4,Green,TRUE
+4,Dodge,Durango,2008,1YVHZ8,3,Violet,TRUE
+5,Kia,Sorento,2012,SAJWA0,5,Orange,TRUE
+6,Audi,4000s Quattro,1986,3G5DA0,4,Goldenrod,TRUE
+7,BMW,M3,1996,1G4GE5,5,Turquoise,TRUE
+8,Ford,Econoline E350,1999,1G4PS5,3,Pink,TRUE
+9,Buick,LeSabre,1999,2LMHJ5,3,Puce,TRUE
+10,Acura,NSX,2001,WAUVT5,6,Puce,TRUE
+11,Lincoln,MKX,2007,1FTWW3,5,Red,TRUE
+12,Ford,Mustang,2011,1GKS1E,6,Turquoise,TRUE
+13,Nissan,Pathfinder,1996,WAUPN9,4,Maroon,TRUE
+14,Hyundai,Sonata,1993,1GYS3C,6,Crimson,TRUE
+15,Nissan,Titan,2007,3D4PG4,4,Indigo,TRUE
+16,GMC,Sonoma Club Coupe,1998,TRUVD3,5,Puce,TRUE
+17,Buick,Electra,1985,1N6AA0,3,Pink,TRUE
+18,MINI,Cooper Clubman,2011,KNADH4,6,Red,TRUE
+19,Oldsmobile,Alero,2001,1C4RDH,3,Green,TRUE
+20,Chevrolet,Corvette,1959,5YMGY0,3,Turquoise,TRUE
+21,Dodge,Spirit,1993,JN1BJ0,6,Goldenrod,TRUE
+22,Chevrolet,Camaro,1969,1G6DF8,4,Purple,TRUE
+23,Jeep,Compass,2008,SCBGT3,5,Orange,TRUE
+24,Mercury,Grand Marquis,1997,WAUEH9,5,Yellow,TRUE
+25,Mitsubishi,Eclipse,2010,3VW4A7,4,Yellow,TRUE
+26,Land Rover,Discovery,1999,1FTSW2,5,Blue,TRUE
+27,Land Rover,Range Rover,1992,WAUEG7,5,Aquamarine,TRUE
+28,Ford,Bronco II,1989,WAUA2A,5,Orange,TRUE
+29,Toyota,FJ Cruiser,2010,WAUGGB,6,Crimson,TRUE
+30,Mercedes-Benz,SLK-Class,2004,1FMJK1,5,Orange,TRUE
+31,Volkswagen,Jetta,1991,WAUBFA,3,Indigo,TRUE
+32,Jensen,Interceptor,1966,JTJBM7,5,Maroon,TRUE
+33,Hyundai,XG350,2003,WBA3B1,6,Red,TRUE
+34,GMC,Yukon XL 1500,2000,KNADH4,6,Khaki,TRUE
+35,Ford,Explorer Sport Trac,2003,WAUBFC,5,Purple,TRUE
+36,Chevrolet,Colorado,2007,1GKS1G,4,Khaki,TRUE
+37,Ford,E150,2010,5GADV3,6,Yellow,TRUE
+38,Subaru,Alcyone SVX,1996,1G6DK5,4,Pink,TRUE
+39,Ford,Crown Victoria,2011,WBAFR9,3,Fuscia,TRUE
+40,Jaguar,X-Type,2008,KMHTC6,5,Mauv,TRUE
+41,GMC,Savana 1500,1997,3C3CFF,4,Fuscia,TRUE
+42,Maserati,Quattroporte,2007,3D73M4,6,Pink,TRUE
+43,Subaru,Impreza,1999,WAUEH9,4,Green,TRUE
+44,Chevrolet,Suburban 2500,1994,WAUVC6,3,Red,TRUE
+45,Cadillac,Escalade,2000,WAUYP6,4,Green,TRUE
+46,Nissan,Altima,2000,JH4DC5,5,Aquamarine,TRUE
+47,Ford,Transit Connect,2011,3D73Y4,5,Red,TRUE
+48,Lincoln,Navigator,2007,WBA4C9,5,Teal,TRUE
+49,Plymouth,Grand Voyager,2000,WBA3A5,4,Aquamarine,TRUE
+50,Lamborghini,Gallardo,2009,WBAKA4,5,Red,TRUE
+51,Cadillac,Escalade ESV,2007,5J6TF3,5,Purple,TRUE
+52,Land Rover,Freelander,2002,WP0AA2,6,Pink,TRUE
+53,Mitsubishi,Eclipse,2010,JH4DC5,4,Pink,TRUE
+54,Dodge,Magnum,2005,WAUWFA,6,Pink,TRUE
+55,Cadillac,SRX,2007,WBABD3,3,Red,TRUE
+56,Pontiac,Aztek,2003,1FTSX2,3,Mauv,TRUE
+57,Toyota,Prius,2007,2C3CK3,6,Aquamarine,TRUE
+58,Mitsubishi,Pajero,1990,1C4RJE,6,Mauv,TRUE
+59,Audi,S4,2013,3G5DA0,6,Yellow,TRUE
+60,Infiniti,QX,2010,2T1BUR,6,Violet,TRUE
+61,Mercedes-Benz,300E,1992,WVGAV7,6,Indigo,TRUE
+62,Lexus,LX,1997,WBAYE8,3,Crimson,TRUE
+63,Volvo,S60,2003,1G6DK1,6,Yellow,TRUE
+64,Cadillac,Escalade ESV,2007,2T1BUR,6,Goldenrod,TRUE
+65,Lotus,Esprit,1994,1D4PT2,6,Green,TRUE
+66,Nissan,GT-R,2010,WAUDH7,4,Red,TRUE
+67,Nissan,Pathfinder,2011,1G6DK8,4,Maroon,TRUE
+68,Pontiac,Montana,2005,JN8AZ1,6,Puce,TRUE
+69,Dodge,Durango,2002,WAUPFB,6,Indigo,TRUE
+70,Mitsubishi,Truck,1990,3VW4A7,3,Aquamarine,TRUE
+71,Infiniti,QX,2012,WBANV1,6,Khaki,TRUE
+72,Toyota,Tercel,1994,SAJWA4,5,Maroon,TRUE
+73,Chrysler,Town & Country,1995,5TDBK3,3,Orange,TRUE
+74,Lexus,IS F,2010,3N1AB6,5,Khaki,TRUE
+75,Chevrolet,G-Series G30,1996,WAULT6,3,Puce,TRUE
+76,Ford,F150,1992,5XYKT3,5,Indigo,TRUE
+77,Pontiac,LeMans,1966,SCFAB4,3,Maroon,TRUE
+78,Plymouth,Neon,2001,1FTWF3,6,Yellow,TRUE
+79,Cadillac,XLR-V,2007,WVGAV7,3,Violet,TRUE
+80,Volkswagen,Jetta III,1994,WAUFEA,5,Green,TRUE
+81,Pontiac,Trans Sport,1992,1N4AB7,4,Pink,TRUE
+82,Chevrolet,Traverse,2012,5TDBK3,5,Pink,TRUE
+83,Volkswagen,Cabriolet,1988,1G6AB5,4,Red,TRUE
+84,Chevrolet,3500,1993,WVWAN7,6,Turquoise,TRUE
+85,Lincoln,LS,2003,WVWBN7,5,Aquamarine,TRUE
+86,Toyota,FJ Cruiser,2011,WDCGG0,3,Yellow,TRUE
+87,Mercury,Capri,1993,SALSF2,6,Aquamarine,TRUE
+88,Lexus,LX,2001,WAUFGB,4,Green,TRUE
+89,Chrysler,Town & Country,2000,2G61P5,5,Purple,TRUE
+90,Volvo,S80,2012,SCFBB0,6,Blue,TRUE
+91,Buick,Electra,1988,1GYS4J,5,Indigo,TRUE
+92,Lexus,HS,2012,WAUCFA,3,Purple,TRUE
+93,Mitsubishi,Galant,2001,1N4AL2,5,Crimson,TRUE
+94,Chevrolet,Suburban,2011,WAUAH7,5,Red,TRUE
+95,Cadillac,XLR-V,2007,WBA3N5,4,Red,TRUE
+96,Volkswagen,R32,2004,1G6AP5,3,Green,TRUE
+97,Chevrolet,Blazer,1999,SCFAB0,3,Puce,TRUE
+98,Chevrolet,Corvette,1962,2FMHK6,3,Yellow,TRUE
+99,GMC,Savana 1500,2006,WAURVA,4,Purple,TRUE
+100,GMC,Yukon,1996,1FMEU7,6,Khaki,TRUE
+101,Acura,Legend,1994,5N1AT2,6,Khaki,TRUE
+102,Chevrolet,Suburban 2500,2000,JTEBC3,5,Pink,TRUE
+103,Ford,F-Series,1986,3TMJU4,3,Blue,TRUE
+104,Dodge,Viper,1999,WAUHE9,6,Pink,TRUE
+105,Kia,Sportage,1995,WBA6B4,6,Orange,TRUE
+106,GMC,Savana 2500,2007,WAUUL7,3,Aquamarine,TRUE
+107,Nissan,Maxima,1996,JTHBW1,4,Red,TRUE
+108,Mitsubishi,Lancer,2012,5J6TF2,4,Goldenrod,TRUE
+109,Dodge,Ram 2500 Club,1996,NM0AE8,3,Turquoise,TRUE
+110,Audi,Q5,2009,1G6KS5,3,Turquoise,TRUE
+111,Hummer,H1,1995,WBAGN8,5,Purple,TRUE
+112,Jaguar,S-Type,2000,WBAPT7,5,Goldenrod,TRUE
+113,Dodge,Durango,1999,1G6YV3,6,Fuscia,TRUE
+114,Jeep,Wrangler,1993,1G6AE1,5,Turquoise,TRUE
+115,Oldsmobile,98,1996,SCBFR7,5,Violet,TRUE
+116,Dodge,Challenger,2011,WBANV1,4,Pink,TRUE
+117,Jeep,Wrangler,2003,ZFBCFA,6,Yellow,TRUE
+118,Mercedes-Benz,CLS-Class,2012,2T1BU4,4,Red,TRUE
+119,Ford,C-MAX Hybrid,2013,1C4RDJ,6,Red,TRUE
+120,Lexus,GX,2005,5TDDK3,4,Purple,TRUE
+121,Mazda,B-Series,1988,WAULK7,3,Khaki,TRUE
+122,Dodge,D250 Club,1993,WAUJF7,3,Violet,TRUE
+123,GMC,Savana 2500,2012,3GYEK6,3,Puce,TRUE
+124,Mitsubishi,Galant,2003,WBAKA4,5,Green,TRUE
+125,Chevrolet,S10,1993,JN8AZ2,3,Pink,TRUE
+126,GMC,Yukon Denali,2006,1N4AL3,4,Khaki,TRUE
+127,Chevrolet,Express 3500,2006,WAUDF9,5,Blue,TRUE
+128,Kia,Forte,2012,WAUKH9,3,Red,TRUE
+129,Lincoln,Continental Mark VII,1988,TRURD3,6,Pink,TRUE
+130,Ford,E350,2010,WBAEV5,4,Yellow,TRUE
+131,BMW,X6 M,2011,5GADV3,4,Khaki,TRUE
+132,Mercedes-Benz,CLK-Class,2005,W04GW5,5,Aquamarine,TRUE
+133,Oldsmobile,Aurora,2002,19UUA5,6,Yellow,TRUE
+134,Ford,Laser,1986,1G6DW6,6,Puce,TRUE
+135,Nissan,Sentra,2010,1FTEX1,4,Green,TRUE
+136,Toyota,Camry,1992,5XYKT3,5,Crimson,TRUE
+137,Mercedes-Benz,S-Class,2000,19UUA8,3,Red,TRUE
+138,BMW,7 Series,2004,WAUYGB,4,Teal,TRUE
+139,Kia,Sportage,2007,WVGAV7,3,Mauv,TRUE
+140,Chevrolet,SSR,2006,WBADW3,3,Fuscia,TRUE
+141,Mazda,RX-7,1989,19XFA1,3,Goldenrod,TRUE
+142,Suzuki,SJ,1987,5UXFB9,3,Yellow,TRUE
+143,Volvo,960,1997,KMHFH4,5,Maroon,TRUE
+144,Mitsubishi,Galant,1997,WBADW7,5,Fuscia,TRUE
+145,Spyker,C8 Laviolette,2004,WAUVT5,5,Red,TRUE
+146,Audi,V8,1994,WBALL5,3,Turquoise,TRUE
+147,Lincoln,Continental,1994,3N1CN7,4,Maroon,TRUE
+148,Toyota,Tacoma,2010,5YMKT6,6,Khaki,TRUE
+149,Infiniti,FX,2005,WAUDG7,3,Fuscia,TRUE
+150,Pontiac,Grand Prix,1982,WBAUN7,5,Violet,TRUE
+151,BMW,Z4 M Roadster,2009,WAUEG7,4,Orange,TRUE
+152,Mazda,929,1990,3VW507,6,Yellow,TRUE
+153,Toyota,Land Cruiser,1995,WA1EY7,4,Maroon,TRUE
+154,Chevrolet,Suburban 1500,1992,2HNYD2,6,Purple,TRUE
+155,Isuzu,Hombre,1997,WAUHF9,6,Indigo,TRUE
+156,Volkswagen,Cabriolet,1997,KNADH4,3,Fuscia,TRUE
+157,Mercedes-Benz,E-Class,1992,1FMEU7,6,Goldenrod,TRUE
+158,Chevrolet,Suburban 2500,1995,SCBBB7,6,Violet,TRUE
+159,Toyota,Land Cruiser,1997,2B3CK9,6,Teal,TRUE
+160,Mazda,Mazda6 Sport,2006,JN1CV6,4,Puce,TRUE
+161,Aston Martin,Vantage,2007,WAUBF9,3,Blue,TRUE
+162,Subaru,Impreza,2008,WAUGFA,6,Turquoise,TRUE
+163,Mitsubishi,Eclipse,2010,JHMZE2,4,Red,TRUE
+164,Buick,Century,1984,WBASN2,3,Puce,TRUE
+165,Toyota,Tundra,2002,YV440M,4,Fuscia,TRUE
+166,Chevrolet,SSR,2005,1FADP5,5,Turquoise,TRUE
+167,Chrysler,Town & Country,2008,5N1AA0,6,Pink,TRUE
+168,Chevrolet,Caprice,1977,WBABW3,4,Teal,TRUE
+169,Dodge,Dynasty,1992,1GKMCA,3,Crimson,TRUE
+170,Mercedes-Benz,E-Class,2003,WBA3C3,3,Goldenrod,TRUE
+171,Chevrolet,Suburban 2500,2011,JN1AZ4,6,Aquamarine,TRUE
+172,Chevrolet,Silverado 3500,2011,WAUVF9,4,Blue,TRUE
+173,Bentley,Brooklands,2010,5N1CR2,6,Orange,TRUE
+174,Suzuki,Vitara,2003,WAUEG9,4,Turquoise,TRUE
+175,Volvo,V40,2000,WDDEJ7,4,Maroon,TRUE
+176,Dodge,Monaco,1992,3C3CFF,5,Fuscia,TRUE
+177,Mitsubishi,Lancer,2010,YV4902,6,Violet,TRUE
+178,McLaren,MP4-12C,2012,5UXFF0,5,Fuscia,TRUE
+179,Isuzu,Space,1992,1N6AA0,3,Violet,TRUE
+180,Mercury,Mystique,1996,WBAFR7,6,Teal,TRUE
+181,Mercedes-Benz,CL-Class,2001,JN1BY0,3,Violet,TRUE
+182,Volkswagen,Jetta,1997,3C6TD5,4,Fuscia,TRUE
+183,Chevrolet,Impala,2002,WBAVC9,3,Yellow,TRUE
+184,Toyota,Tacoma,1998,2FMGK5,5,Pink,TRUE
+185,GMC,Yukon XL 1500,2012,JN8AS5,4,Maroon,TRUE
+186,Toyota,Camry,2004,SALFR2,4,Puce,TRUE
+187,Jeep,Compass,2010,2C4RDG,3,Goldenrod,TRUE
+188,Buick,Lucerne,2006,WAUJGB,3,Blue,TRUE
+189,Jeep,Grand Cherokee,2005,1GYFC2,4,Red,TRUE
+190,Suzuki,XL7,2006,3N1CE2,5,Pink,TRUE
+191,Isuzu,i-Series,2007,1GKS2G,3,Indigo,TRUE
+192,BMW,7 Series,2003,2C3CCA,5,Teal,TRUE
+193,Volkswagen,Passat,1993,1G6DJ5,5,Turquoise,TRUE
+194,Porsche,928,1994,1N6AA0,3,Yellow,TRUE
+195,Pontiac,G3,2009,5UXFG4,3,Goldenrod,TRUE
+196,Saab,3-Sep,2004,WA1VMB,4,Mauv,TRUE
+197,Mazda,Protege,2001,3VW4A7,6,Indigo,TRUE
+198,Aston Martin,Vantage,2007,KMHTC6,5,Orange,TRUE
+199,Chevrolet,Avalanche 2500,2006,19XFB2,5,Blue,TRUE
+200,Pontiac,G8,2009,SCBLE3,6,Puce,TRUE
+201,Saturn,VUE,2005,WBADW3,3,Purple,TRUE
+202,Pontiac,Grand Am,2002,WAUEKA,4,Crimson,TRUE
+203,Infiniti,FX,2007,1GYS3K,5,Green,TRUE
+204,Mazda,RX-7,1993,WA1BV9,3,Pink,TRUE
+205,Dodge,Ramcharger,1992,JTDKDT,4,Mauv,TRUE
+206,Hyundai,Tucson,2006,1G6DD6,3,Green,TRUE
+207,Toyota,Corolla,2000,WBAFZ9,6,Indigo,TRUE
+208,Jeep,Liberty,2004,1GYS3J,3,Blue,TRUE
+209,Ford,Escape,2004,WAUGL9,6,Aquamarine,TRUE
+210,Mitsubishi,Cordia,1988,WAUCFA,6,Blue,TRUE
+211,Cadillac,Seville,1993,SALFR2,3,Goldenrod,TRUE
+212,Mitsubishi,Truck,1985,WBA5A7,5,Puce,TRUE
+213,Mercedes-Benz,SL-Class,1987,1D7CE3,4,Puce,TRUE
+214,Dodge,Viper,1992,3D7TP2,5,Indigo,TRUE
+215,Chevrolet,3500,1995,WA1UFB,3,Green,TRUE
+216,Jeep,Grand Cherokee,2011,WAUFFA,3,Orange,TRUE
+217,GMC,Sonoma,2001,1G4HP5,5,Yellow,TRUE
+218,Subaru,Legacy,2012,1D7RE3,5,Aquamarine,TRUE
+219,Volkswagen,rio,1999,WBAEJ1,3,Fuscia,TRUE
+220,Lexus,IS,2008,5UMCL9,3,Puce,TRUE
+221,Mazda,RX-8,2009,KNAFX6,6,Indigo,TRUE
+222,Honda,CR-X,1988,5XYZT3,3,Aquamarine,TRUE
+223,Volkswagen,Eurovan,1992,5TDBK3,6,Violet,TRUE
+224,Audi,90,1994,WAUMGB,6,Yellow,TRUE
+225,Suzuki,SX4,2010,SALFR2,4,Maroon,TRUE
+226,Chevrolet,Tahoe,2001,WA1LGB,5,Blue,TRUE
+227,Lexus,LS,2001,WBA1F7,3,Mauv,TRUE
+228,Dodge,Caravan,2009,5TDBKR,6,Violet,TRUE
+229,Lexus,LS,1996,1G6AB5,5,Maroon,TRUE
+230,Dodge,Caravan,2003,WAUDFA,4,Mauv,TRUE
+231,Mercury,Cougar,1986,WAUAH9,6,Red,TRUE
+232,Hyundai,Tucson,2005,1GD02Z,3,Indigo,TRUE
+233,Lexus,RX,2001,WBADX7,4,Violet,TRUE
+234,Saab,900,1997,1GD312,4,Pink,TRUE
+235,Cadillac,Escalade,2005,4T1BF3,5,Yellow,TRUE
+236,Ford,Excursion,2004,WBABN3,3,Violet,TRUE
+237,Volkswagen,Eurovan,2001,WBA5M0,3,Violet,TRUE
+238,Chevrolet,Silverado 1500,2002,SALFR2,4,Aquamarine,TRUE
+239,Oldsmobile,98,1995,4JGCB2,3,Mauv,TRUE
+240,Nissan,Pathfinder,2000,WA1YD6,6,Purple,TRUE
+241,Dodge,Caravan,2008,1HGCR2,6,Fuscia,TRUE
+242,Oldsmobile,Alero,2001,19UYA4,5,Teal,TRUE
+243,Mercedes-Benz,S-Class,1992,1N4AL3,4,Yellow,TRUE
+244,Plymouth,Colt,1993,3D7LP2,5,Puce,TRUE
+245,Volvo,V70,1999,WBA3N3,6,Pink,TRUE
+246,Chevrolet,Equinox,2006,KM8NU4,3,Green,TRUE
+247,GMC,2500,1997,JH4DC5,3,Puce,TRUE
+248,BMW,X5 M,2012,JN8AF5,6,Crimson,TRUE
+249,Mercedes-Benz,C-Class,1999,WAUCFA,4,Puce,TRUE
+250,Plymouth,Grand Voyager,2000,2T1BU4,3,Fuscia,TRUE
+251,Ford,EXP,1984,1GYS4K,3,Khaki,TRUE
+252,Infiniti,Q,2002,WUAW2B,4,Mauv,TRUE
+253,Ferrari,California,2009,JN1CV6,5,Turquoise,TRUE
+254,Volkswagen,Cabriolet,1996,3VW467,4,Red,TRUE
+255,Pontiac,Gemini,1987,1GYS3C,3,Crimson,TRUE
+256,Suzuki,Forenza,2006,WBAPM7,6,Violet,TRUE
+257,Toyota,T100 Xtra,1997,JTDKN3,5,Violet,TRUE
+258,Honda,Pilot,2004,WBAKG7,3,Khaki,TRUE
+259,Mazda,CX-9,2008,WBAEV3,5,Red,TRUE
+260,Infiniti,QX56,2010,3D7TT2,3,Mauv,TRUE
+261,Audi,A5,2008,JTHBE1,6,Fuscia,TRUE
+262,Dodge,Ram Van 1500,2003,WAULC5,4,Maroon,TRUE
+263,Cadillac,XLR-V,2008,WBAGH8,3,Maroon,TRUE
+264,Oldsmobile,Cutlass,1998,1FTEW1,5,Green,TRUE
+265,Infiniti,Q,1993,JH4CW2,4,Mauv,TRUE
+266,Chevrolet,Classic,2005,JM3TB2,6,Aquamarine,TRUE
+267,Saab,5-Sep,2006,3GTXCY,5,Purple,TRUE
+268,Buick,LeSabre,1995,3C63DP,3,Teal,TRUE
+269,Mercury,Grand Marquis,2009,1D4PU4,4,Mauv,TRUE
+270,GMC,Sierra 1500,2006,WBA6B4,4,Khaki,TRUE
+271,Ford,Econoline E250,1995,2HNYD1,4,Fuscia,TRUE
+272,Pontiac,Firebird,1991,WBAUC9,4,Pink,TRUE
+273,Mercury,Cougar,1997,WBAYE8,3,Red,TRUE
+274,Ford,Expedition,2008,SCBFC7,3,Crimson,TRUE
+275,Hyundai,Elantra,1994,3C3CFF,4,Blue,TRUE
+276,Ford,Escape,2007,3C3CFF,3,Indigo,TRUE
+277,Oldsmobile,Aurora,1999,1FTSX2,6,Teal,TRUE
+278,Mercedes-Benz,SL-Class,1985,1C3CDF,6,Violet,TRUE
+279,Pontiac,Vibe,2010,1G6KD5,5,Crimson,TRUE
+280,MINI,Cooper,2012,WBAYP9,4,Green,TRUE
+281,Suzuki,Verona,2004,WAUSF9,4,Puce,TRUE
+282,Lexus,ES,2011,WBSPM9,3,Blue,TRUE
+283,Dodge,D150,1993,WBABW3,5,Blue,TRUE
+284,Mitsubishi,3000GT,1993,3D4PG5,4,Indigo,TRUE
+285,Volvo,V70,2002,WAUJC6,5,Maroon,TRUE
+286,MINI,Clubman,2008,ZHWGU6,6,Purple,TRUE
+287,Mercury,Milan,2011,SCBCR6,3,Goldenrod,TRUE
+288,Ford,Expedition EL,2010,WDDGF4,4,Teal,TRUE
+289,GMC,Envoy,2007,KMHGC4,5,Blue,TRUE
+290,Saturn,Ion,2006,WA1LFB,4,Indigo,TRUE
+291,Porsche,911,2007,1FADP5,5,Yellow,TRUE
+292,Mitsubishi,Pajero,1992,19XFB2,3,Turquoise,TRUE
+293,Mercury,Grand Marquis,2010,1C3BC2,6,Violet,TRUE
+294,Infiniti,QX,2000,WDCGG0,6,Purple,TRUE
+295,Chevrolet,Lumina,1994,JTDKN3,4,Violet,TRUE
+296,Audi,Cabriolet,1997,1FBNE3,3,Mauv,TRUE
+297,Lexus,LX,2003,WBADR6,4,Turquoise,TRUE
+298,Toyota,Celica,1984,WAUWFA,4,Green,TRUE
+299,Saab,3-Sep,2009,WBALL5,4,Green,TRUE
+300,Lincoln,LS,2006,5LMJJ2,3,Aquamarine,TRUE
+301,Toyota,Venza,2009,1FTWX3,3,Indigo,TRUE
+302,Mazda,Familia,1991,1FMJK1,5,Yellow,TRUE
+303,Buick,Riviera,1979,1G6AC1,4,Blue,TRUE
+304,Chevrolet,Caprice Classic,1994,1D4PU6,5,Blue,TRUE
+305,Subaru,SVX,1995,1N6AD0,3,Orange,TRUE
+306,Lexus,GS,2008,WBA3V7,5,Orange,TRUE
+307,Lincoln,Blackwood,2002,JM3ER2,5,Maroon,TRUE
+308,Nissan,240SX,1997,1GT010,6,Green,TRUE
+309,Kia,Rio,2007,WAUJF7,3,Goldenrod,TRUE
+310,Cadillac,CTS,2008,2T1KU4,6,Puce,TRUE
+311,Volkswagen,Jetta,1994,WDCGG5,5,Red,TRUE
+312,Isuzu,Trooper,1995,1FTSW2,6,Orange,TRUE
+313,Lincoln,Continental,1990,3GYFK1,3,Red,TRUE
+314,BMW,600,1957,WDDJK7,3,Puce,TRUE
+315,Ford,Explorer,1995,1C4NJP,6,Turquoise,TRUE
+316,Ford,F-Series,1989,1D4RD4,4,Goldenrod,TRUE
+317,Toyota,Sienna,2011,SAJWJ0,4,Teal,TRUE
+318,Subaru,Justy,1994,WVWAB7,6,Mauv,TRUE
+319,Ford,Edge,2007,JTDKN3,4,Goldenrod,TRUE
+320,Audi,A4,2004,KMHEC4,3,Orange,TRUE
+321,Isuzu,i-290,2008,SCFEDC,4,Green,TRUE
+322,Ford,Probe,1991,WAUXL5,4,Blue,TRUE
+323,Mitsubishi,Challenger,2004,WAUHFA,4,Blue,TRUE
+324,GMC,Envoy,2003,5TDBK3,4,Teal,TRUE
+325,Nissan,NV1500,2012,1G4HD5,4,Aquamarine,TRUE
+326,Land Rover,Freelander,2004,1GTN1U,3,Purple,TRUE
+327,Toyota,Tacoma,1996,5GALRA,3,Green,TRUE
+328,Volvo,S80,2005,WAUKF9,4,Blue,TRUE
+329,Ford,Taurus,2003,WAULC6,5,Khaki,TRUE
+330,Mercedes-Benz,C-Class,2011,WVWAN7,4,Green,TRUE
+331,Buick,Terraza,2006,2LMDJ8,6,Maroon,TRUE
+332,Dodge,Ram 1500,1998,1G6KD5,5,Mauv,TRUE
+333,Cadillac,Escalade EXT,2005,3C63DR,6,Goldenrod,TRUE
+334,Land Rover,Discovery,1995,1G6DF5,5,Mauv,TRUE
+335,Lexus,GS,2003,1GYFC2,4,Green,TRUE
+336,Volvo,S80,2007,WBAUC9,3,Crimson,TRUE
+337,Dodge,Ram Van 3500,1996,WP0CB2,5,Indigo,TRUE
+338,Chevrolet,G-Series G20,1993,1C4SDH,4,Aquamarine,TRUE
+339,Volkswagen,Eurovan,2000,WAUAFA,6,Red,TRUE
+340,Lamborghini,Countach,1987,WAUHFB,6,Pink,TRUE
+341,Aston Martin,DBS,2011,3N1AB7,6,Khaki,TRUE
+342,Daewoo,Nubira,2000,JHMZF1,4,Fuscia,TRUE
+343,Land Rover,Range Rover Classic,1993,WAUEH9,3,Maroon,TRUE
+344,Toyota,Avalon,2012,1FMEU2,3,Violet,TRUE
+345,Cadillac,Escalade EXT,2011,YV4902,5,Blue,TRUE
+346,Chrysler,Town & Country,2006,WA1FFC,3,Turquoise,TRUE
+347,Mercury,Mountaineer,2007,2FMDK4,3,Indigo,TRUE
+348,Ford,Econoline E250,2000,WAUAVA,4,Turquoise,TRUE
+349,GMC,Yukon XL 1500,2013,JM3ER2,3,Violet,TRUE
+350,Toyota,Land Cruiser,2003,WAUDL7,6,Puce,TRUE
+351,Chevrolet,Silverado 1500,2000,WBAYE8,6,Purple,TRUE
+352,Mitsubishi,Mirage,1999,1N6AA0,6,Crimson,TRUE
+353,Nissan,Murano,2010,JN8AF5,6,Blue,TRUE
+354,Oldsmobile,Bravada,2003,JH4CU2,5,Fuscia,TRUE
+355,Dodge,Grand Caravan,2007,WVGDF9,4,Green,TRUE
+356,Honda,Civic,1988,1C4RDH,6,Maroon,TRUE
+357,Honda,Ridgeline,2012,1GYS4L,3,Red,TRUE
+358,Chevrolet,Express 1500,2006,WBAUL7,5,Yellow,TRUE
+359,BMW,X3,2004,WBAYP9,6,Teal,TRUE
+360,Chevrolet,Impala,1994,1G6DG8,5,Violet,TRUE
+361,Chevrolet,Camaro,2011,WDCYC3,5,Turquoise,TRUE
+362,Lincoln,Continental,2000,WAUD2A,5,Puce,TRUE
+363,Mitsubishi,Outlander,2008,3FADP4,5,Mauv,TRUE
+364,Ford,Econoline E150,1993,1FMJK1,5,Puce,TRUE
+365,Mercury,Lynx,1985,1HGCR2,4,Goldenrod,TRUE
+366,Lincoln,MKS,2012,WBALW7,5,Pink,TRUE
+367,Isuzu,Rodeo Sport,2001,19UYA4,4,Crimson,TRUE
+368,Lincoln,Continental,1985,3N1CN7,3,Green,TRUE
+369,Ford,Thunderbird,1988,4F2CY0,3,Goldenrod,TRUE
+370,Hyundai,Sonata,2009,JN8AE2,5,Mauv,TRUE
+371,Porsche,Boxster,1999,WAULK9,4,Teal,TRUE
+372,Mercury,Grand Marquis,1989,WAUVT5,6,Teal,TRUE
+373,GMC,Suburban 1500,1996,1G6DP5,6,Pink,TRUE
+374,Kia,Sorento,2011,WP0AA2,6,Goldenrod,TRUE
+375,Mitsubishi,Challenger,1999,WAUFFA,5,Indigo,TRUE
+376,Ford,Econoline E250,1993,1GYUKE,4,Goldenrod,TRUE
+377,Mitsubishi,Eclipse,1997,KNAFU6,6,Teal,TRUE
+378,Infiniti,Q,1997,SCFEBB,3,Red,TRUE
+379,Honda,Pilot,2002,SALSF2,5,Orange,TRUE
+380,Toyota,Previa,1996,KMHTC6,3,Green,TRUE
+381,Mazda,Familia,1992,4T1BD1,5,Pink,TRUE
+382,Lincoln,Navigator,2004,1G6DW6,4,Fuscia,TRUE
+383,Suzuki,SJ,1986,WBALM7,5,Mauv,TRUE
+384,Kia,Sedona,2002,WVGAV7,5,Blue,TRUE
+385,Subaru,Forester,2000,1GD21Z,3,Blue,TRUE
+386,Jeep,Compass,2010,SALGS2,6,Fuscia,TRUE
+387,Pontiac,Grand Prix,1992,1G6DF5,5,Maroon,TRUE
+388,Mazda,RX-8,2009,5UXKR2,4,Fuscia,TRUE
+389,Nissan,Xterra,2008,WAUDL6,6,Puce,TRUE
+390,Mitsubishi,Eclipse,1990,WA1FFC,5,Green,TRUE
+391,Land Rover,Range Rover,2010,4T1BD1,6,Khaki,TRUE
+392,Subaru,Impreza,2006,WBALM7,4,Goldenrod,TRUE
+393,Honda,Civic,1995,5GAEV2,4,Purple,TRUE
+394,Mitsubishi,Pajero,1998,WAUNF9,4,Green,TRUE
+395,Aston Martin,V8 Vantage,2009,JN1CV6,6,Yellow,TRUE
+396,Toyota,TundraMax,2012,1FMEU6,4,Yellow,TRUE
+397,Cadillac,DeVille,1995,TRUUT2,3,Turquoise,TRUE
+398,GMC,Savana 1500,1999,KNAFX6,5,Aquamarine,TRUE
+399,Ford,Mustang,1986,WAUXG9,6,Crimson,TRUE
+400,Isuzu,Trooper,1995,3D7TT2,3,Mauv,TRUE
+401,Toyota,Prius Plug-in,2012,3D73M3,4,Crimson,TRUE
+402,Volkswagen,Jetta III,1993,4T1BF3,6,Violet,TRUE
+403,GMC,Safari,2002,WBAKG7,5,Indigo,TRUE
+404,Pontiac,Grand Prix,1978,5UXWX9,3,Green,TRUE
+405,Audi,A8,1997,WAUGN9,6,Purple,TRUE
+406,GMC,Yukon,2012,2G61W5,5,Red,TRUE
+407,Mercury,Sable,1990,WAULC6,3,Aquamarine,TRUE
+408,Ford,Flex,2012,JN8AZ1,5,Red,TRUE
+409,Pontiac,LeMans,1992,1G6AH5,4,Pink,TRUE
+410,Audi,4000CS Quattro,1986,WAUEFA,3,Khaki,TRUE
+411,Ford,F-Series,1992,WBAPN7,6,Fuscia,TRUE
+412,BMW,X6,2009,WBXPC9,6,Teal,TRUE
+413,Land Rover,Discovery,2003,WBAUN1,6,Red,TRUE
+414,Eagle,Talon,1994,WBABD3,4,Orange,TRUE
+415,Chevrolet,Suburban 1500,2011,1D7RW2,3,Yellow,TRUE
+416,Nissan,Quest,1997,1G6AJ5,5,Blue,TRUE
+417,Chevrolet,Monte Carlo,1995,4T1BF1,5,Pink,TRUE
+418,Volvo,C70,2013,JTHDU1,3,Purple,TRUE
+419,Holden,Monaro,2004,2B3CA4,4,Red,TRUE
+420,Hyundai,Santa Fe,2009,JHMZF1,4,Indigo,TRUE
+421,GMC,Jimmy,1993,1G6AL5,5,Purple,TRUE
+422,Subaru,Forester,2006,WAUNF7,6,Purple,TRUE
+423,Ford,Windstar,2003,3VW217,4,Violet,TRUE
+424,Acura,RL,1998,2T1BU4,5,Goldenrod,TRUE
+425,Chevrolet,Tahoe,1997,1FTEW1,4,Blue,TRUE
+426,MINI,Clubman,2012,WP0AB2,3,Fuscia,TRUE
+427,Eagle,Vision,1994,1G6DN5,5,Teal,TRUE
+428,Kia,Sedona,2010,4T3BA3,4,Turquoise,TRUE
+429,Toyota,Camry Solara,2007,1C3CCB,5,Puce,TRUE
+430,Volkswagen,Golf,2012,4JGBF2,5,Purple,TRUE
+431,Ford,F150,2008,3D73Y3,6,Green,TRUE
+432,Mitsubishi,Galant,2006,WA1CMA,4,Crimson,TRUE
+433,Hyundai,Accent,2012,1G6DA8,5,Pink,TRUE
+434,Dodge,Intrepid,2001,2G4WC5,5,Crimson,TRUE
+435,Lincoln,Continental,1999,SCBLC4,5,Green,TRUE
+436,Land Rover,Range Rover,2011,YV1672,6,Pink,TRUE
+437,Mitsubishi,Precis,1986,2C3CK5,3,Green,TRUE
+438,Chevrolet,Impala SS,1995,19XFB2,3,Crimson,TRUE
+439,Kia,Amanti,2007,19VDE2,6,Purple,TRUE
+440,Mitsubishi,L300,1989,WAUFEA,4,Blue,TRUE
+441,Lotus,Esprit,1995,WAUAH9,5,Blue,TRUE
+442,Mitsubishi,Truck,1987,4A4AP3,5,Mauv,TRUE
+443,Hyundai,Accent,2000,JM1NC2,6,Puce,TRUE
+444,Subaru,Impreza,2005,1N6AA0,4,Blue,TRUE
+445,Chevrolet,Aveo,2010,WAUPN9,6,Indigo,TRUE
+446,Dodge,Neon,2005,WBA3C1,5,Red,TRUE
+447,Lincoln,Mark LT,2007,3D7JV1,5,Maroon,TRUE
+448,Toyota,T100,1997,WAULFA,4,Red,TRUE
+449,Volkswagen,Eos,2008,JN8AE2,3,Purple,TRUE
+450,Pontiac,Bonneville,1984,JTJBC1,4,Indigo,TRUE
+451,Toyota,Camry,2002,ZFF60F,3,Indigo,TRUE
+452,Porsche,911,2000,1ZVBP8,3,Turquoise,TRUE
+453,Pontiac,Firefly,1988,WAULC6,4,Violet,TRUE
+454,Toyota,Corolla,2002,1G6DF5,5,Purple,TRUE
+455,Mitsubishi,Eclipse,2004,WAULT6,6,Blue,TRUE
+456,Ford,Taurus,2013,1FTWF3,3,Mauv,TRUE
+457,BMW,7 Series,2000,3VW1K7,6,Violet,TRUE
+458,Kia,Mohave/Borrego,2009,1G6AM5,4,Green,TRUE
+459,GMC,3500,1997,WAUUL6,4,Purple,TRUE
+460,Kia,Spectra,2000,JH4CU2,4,Maroon,TRUE
+461,MINI,Cooper,2002,1FTEX1,6,Teal,TRUE
+462,Volkswagen,Eurovan,1997,WAUKGB,4,Crimson,TRUE
+463,Mercedes-Benz,CLK-Class,2009,WDDDJ7,6,Goldenrod,TRUE
+464,GMC,Envoy,2003,1D7RW3,5,Indigo,TRUE
+465,Land Rover,Range Rover,1994,JTHFE2,3,Purple,TRUE
+466,Chevrolet,Express 3500,1996,5N1BA0,3,Crimson,TRUE
+467,Mitsubishi,Pajero,2000,4T1BF3,6,Mauv,TRUE
+468,Land Rover,Discovery,1994,2C3CDX,5,Goldenrod,TRUE
+469,Ford,Focus,2010,5UXFG8,3,Fuscia,TRUE
+470,Saturn,Outlook,2008,1GD021,3,Khaki,TRUE
+471,Toyota,Land Cruiser,2006,WBA3R1,4,Yellow,TRUE
+472,Mercury,Monterey,2007,KMHHT6,3,Goldenrod,TRUE
+473,Volkswagen,Passat,2003,5GAKVC,5,Turquoise,TRUE
+474,Audi,100,1994,JN8AF5,3,Fuscia,TRUE
+475,Lincoln,Zephyr,2006,1G4GG5,5,Fuscia,TRUE
+476,Mitsubishi,Montero,2002,WAUAF7,4,Fuscia,TRUE
+477,Mazda,Miata MX-5,2008,1G6DD8,5,Yellow,TRUE
+478,Mitsubishi,L300,1990,5GADT1,4,Red,TRUE
+479,Pontiac,Grand Am,1998,KMHCT4,6,Pink,TRUE
+480,Mazda,RX-7,1995,WAUBFC,4,Violet,TRUE
+481,Mazda,MPV,2005,WAUDF9,3,Violet,TRUE
+482,Hyundai,Azera,2009,WA1AV9,6,Fuscia,TRUE
+483,Nissan,Pathfinder Armada,2004,WBAVB1,4,Violet,TRUE
+484,Porsche,Boxster,1997,WAUHFA,3,Green,TRUE
+485,Volkswagen,New Beetle,2001,TRUSC2,5,Blue,TRUE
+486,Lotus,Exige,2006,5GADS1,3,Fuscia,TRUE
+487,Honda,Insight,2005,WAULC6,3,Khaki,TRUE
+488,Chevrolet,Tahoe,2013,WAUHF6,4,Maroon,TRUE
+489,Chrysler,300M,2000,WA1CGB,6,Aquamarine,TRUE
+490,Lincoln,Navigator L,2011,4T1BK3,3,Pink,TRUE
+491,Chevrolet,G-Series G30,1996,1FTSW2,5,Purple,TRUE
+492,Volkswagen,GTI,2006,5TDBCR,4,Maroon,TRUE
+493,Mercedes-Benz,C-Class,2011,SCFKDC,3,Purple,TRUE
+494,Chevrolet,Silverado 3500HD,2006,3VW4A7,4,Fuscia,TRUE
+495,Mercury,Grand Marquis,1987,JH4CL9,6,Khaki,TRUE
+496,Toyota,4Runner,1999,1FMEU5,5,Turquoise,TRUE
+497,Panoz,Esperante,2005,1N6AF0,3,Blue,TRUE
+498,Lotus,Elan,1991,3D7TT2,6,Maroon,TRUE
+499,Lincoln,Aviator,2003,WBAXH5,4,Fuscia,TRUE
+500,Mazda,MPV,1996,SCBLC3,4,Red,TRUE
+501,Subaru,Baja,2004,WAUNE7,3,Crimson,TRUE
+502,Toyota,Tercel,1993,5UXZV4,4,Green,TRUE
+503,Volkswagen,Golf III,1993,JA4AP3,5,Turquoise,TRUE
+504,Toyota,Prius,2008,WAU2GA,5,Violet,TRUE
+505,Volvo,S60,2009,3D73M4,5,Mauv,TRUE
+506,Honda,CR-V,2010,WAUBFA,6,Green,TRUE
+507,Mitsubishi,Galant,2000,WBAUC9,4,Puce,TRUE
+508,Mercury,Mariner,2005,JTEBU4,4,Yellow,TRUE
+509,Spyker,C8 Spyder,2004,1G4HP5,6,Turquoise,TRUE
+510,GMC,Safari,1998,1FTWX3,3,Teal,TRUE
+511,Plymouth,Acclaim,1993,1G6DH8,4,Yellow,TRUE
+512,GMC,Sonoma,2003,2FMDK4,3,Turquoise,TRUE
+513,GMC,3500 Club Coupe,1998,2LMHJ5,4,Indigo,TRUE
+514,Cadillac,CTS,2012,WVGAV3,4,Puce,TRUE
+515,Chevrolet,Impala,2010,WAUAKA,6,Aquamarine,TRUE
+516,GMC,Savana 3500,2007,WAUVFA,5,Turquoise,TRUE
+517,Dodge,Ram 1500 Club,1997,1GYS4A,3,Purple,TRUE
+518,Infiniti,M,2012,2G61V5,5,Red,TRUE
+519,Mercedes-Benz,M-Class,2006,SALGR2,5,Indigo,TRUE
+520,Land Rover,Freelander,2008,WBALZ5,3,Red,TRUE
+521,Volvo,XC60,2009,WBA3B5,6,Blue,TRUE
+522,Honda,Fit,2008,3D7JV1,5,Maroon,TRUE
+523,Eagle,Premier,1992,WAUSF9,5,Aquamarine,TRUE
+524,GMC,Jimmy,1992,1D4SD6,3,Khaki,TRUE
+525,Ford,E-Series,2006,WBAXG5,4,Pink,TRUE
+526,Oldsmobile,Aurora,2002,WBAYM1,3,Puce,TRUE
+527,Dodge,Dakota Club,2007,WAUMFA,3,Red,TRUE
+528,Jaguar,XK Series,2001,1G6DE8,4,Khaki,TRUE
+529,Lincoln,Continental Mark VII,1989,2HKRM3,5,Blue,TRUE
+530,Land Rover,LR3,2007,WDDGF4,4,Mauv,TRUE
+531,Isuzu,Trooper,1998,1G6DA5,5,Puce,TRUE
+532,Ford,Mustang,2012,19UYA4,4,Yellow,TRUE
+533,GMC,Yukon XL 1500,2004,WBAUP9,5,Yellow,TRUE
+534,Maybach,62,2011,KNALW4,5,Blue,TRUE
+535,Infiniti,QX,1998,WBABN3,5,Maroon,TRUE
+536,Pontiac,Vibe,2004,1G4GB5,3,Red,TRUE
+537,MG,MGB,1977,2C3CDY,5,Red,TRUE
+538,Suzuki,Reno,2008,3GYFNB,3,Aquamarine,TRUE
+539,Mazda,Tribute,2004,2G4WC5,4,Mauv,TRUE
+540,Mitsubishi,Lancer,2010,WBA1F5,4,Blue,TRUE
+541,Toyota,Supra,1994,WAUCFA,3,Yellow,TRUE
+542,Ford,F-Series,2009,TRUSX2,4,Yellow,TRUE
+543,Kia,Sedona,2006,1D7RB1,3,Goldenrod,TRUE
+544,Mitsubishi,Montero,2002,WAUWFA,4,Purple,TRUE
+545,Ford,Bronco II,1987,WAUCD5,5,Mauv,TRUE
+546,Jeep,Liberty,2006,WBAUP7,6,Fuscia,TRUE
+547,Ford,F350,1999,WAUKF7,4,Orange,TRUE
+548,BMW,5 Series,2010,WAUBH7,5,Pink,TRUE
+549,BMW,Z4,2010,19XFA1,3,Puce,TRUE
+550,Volvo,V50,2007,1G6DL8,6,Puce,TRUE
+551,Volkswagen,Phaeton,2005,WVGAV3,5,Mauv,TRUE
+552,Pontiac,Sunfire,2003,WAULC5,5,Violet,TRUE
+553,Oldsmobile,98,1994,WP1AE2,4,Purple,TRUE
+554,Cadillac,SRX,2009,1FTNF2,5,Red,TRUE
+555,Infiniti,I,2000,SCFAD0,4,Crimson,TRUE
+556,Bentley,Continental GT,2006,JN8CS1,4,Indigo,TRUE
+557,MINI,Cooper,2006,1G6AL1,5,Green,TRUE
+558,Mitsubishi,Starion,1984,SCFBB0,5,Mauv,TRUE
+559,Volvo,V50,2007,WBAXA5,4,Mauv,TRUE
+560,Mazda,MPV,1998,3C6TD4,4,Yellow,TRUE
+561,GMC,Sierra 2500,2011,KMHGH4,6,Fuscia,TRUE
+562,Nissan,Maxima,1993,19XFB4,5,Indigo,TRUE
+563,Kia,Sportage,2012,WAUKF7,4,Aquamarine,TRUE
+564,Porsche,928,1989,5UXFE4,6,Crimson,TRUE
+565,Mercury,Sable,1989,WA1WMA,6,Maroon,TRUE
+566,GMC,Yukon XL 1500,2009,WAUVT5,5,Mauv,TRUE
+567,Ford,Th!nk,2002,2T2BK1,6,Goldenrod,TRUE
+568,Honda,Pilot,2010,1G6KD5,5,Turquoise,TRUE
+569,Subaru,SVX,1995,1FTWW3,6,Mauv,TRUE
+570,Mazda,B-Series Plus,1994,5J6TF2,6,Puce,TRUE
+571,Honda,Pilot,2003,1G6DG5,6,Violet,TRUE
+572,Jensen,Interceptor,1967,WBAXG5,5,Khaki,TRUE
+573,Mercedes-Benz,SLK-Class,2001,5UXFE8,4,Turquoise,TRUE
+574,Honda,Passport,1994,19UUA8,4,Maroon,TRUE
+575,Chevrolet,S10,2002,3VW467,5,Goldenrod,TRUE
+576,Volkswagen,Jetta III,1995,3FAHP0,6,Indigo,TRUE
+577,Dodge,Dakota,1999,JM3TB2,4,Khaki,TRUE
+578,Aston Martin,Vantage,2007,JM1BL1,6,Purple,TRUE
+579,Mercedes-Benz,300D,1993,1FTEX1,6,Fuscia,TRUE
+580,Lincoln,Navigator,2010,1N6AA0,4,Khaki,TRUE
+581,Infiniti,Q,1997,3N1CN7,6,Red,TRUE
+582,Mercury,Tracer,1998,WBAVB7,6,Fuscia,TRUE
+583,Porsche,968,1992,WAULFA,3,Indigo,TRUE
+584,BMW,7 Series,2011,JHMGE8,3,Maroon,TRUE
+585,Chevrolet,Avalanche 2500,2006,WP0CA2,6,Crimson,TRUE
+586,Toyota,Avalon,1997,WDDHF2,4,Crimson,TRUE
+587,GMC,Sierra 1500,1999,5N1AZ2,6,Violet,TRUE
+588,Land Rover,Range Rover,2010,JHMZF1,6,Goldenrod,TRUE
+589,Mercedes-Benz,CL-Class,2002,SCFFDC,4,Indigo,TRUE
+590,Chevrolet,Silverado 2500,2005,SAJWA4,5,Purple,TRUE
+591,Pontiac,Firebird,2001,1G6DM8,5,Blue,TRUE
+592,Hyundai,Tiburon,2000,YV1952,5,Fuscia,TRUE
+593,Chrysler,Town & Country,2010,1FTSW2,4,Puce,TRUE
+594,Toyota,Tundra,2006,WA1BY7,6,Red,TRUE
+595,Jaguar,XK Series,2013,WA1WMA,5,Violet,TRUE
+596,Saturn,S-Series,2002,5FRYD4,4,Red,TRUE
+597,Suzuki,Sidekick,1993,1FMJU1,6,Pink,TRUE
+598,Chevrolet,2500,1998,WAUAH9,5,Red,TRUE
+599,Infiniti,M,2007,1G4HE5,3,Teal,TRUE
+600,Mitsubishi,Expo,1995,19UUA6,3,Mauv,TRUE
+601,Volkswagen,GTI,1997,WAUDF7,5,Crimson,TRUE
+602,Lexus,LS,2001,JH4CW2,6,Teal,TRUE
+603,Lincoln,Continental,1990,SAJWA0,6,Purple,TRUE
+604,Pontiac,Firefly,1995,5BZBF0,3,Orange,TRUE
+605,Toyota,Tacoma,2009,1GYFC2,4,Aquamarine,TRUE
+606,Lotus,Esprit,2003,KMHHT6,5,Khaki,TRUE
+607,Dodge,Caravan,2003,WAUGL9,4,Khaki,TRUE
+608,Buick,Regal,2012,ML32A3,3,Orange,TRUE
+609,Lexus,LS,2004,19XFB4,4,Puce,TRUE
+610,GMC,Savana 1500,1998,3GYEK6,6,Goldenrod,TRUE
+611,Pontiac,G3,2010,3D7TT2,3,Purple,TRUE
+612,Mazda,B-Series,1989,1VWAP7,5,Aquamarine,TRUE
+613,Pontiac,GTO,1971,WBAKG1,5,Mauv,TRUE
+614,GMC,2500,1992,WAUUL7,6,Maroon,TRUE
+615,Lincoln,Navigator,2010,JTHDU5,6,Puce,TRUE
+616,Dodge,Ram Van 1500,1996,SCFAB0,5,Indigo,TRUE
+617,Ford,Courier,1989,WBA3C1,5,Turquoise,TRUE
+618,Ford,Thunderbird,1986,WAUXL6,4,Puce,TRUE
+619,Chevrolet,Suburban 1500,1993,WVWAN7,6,Teal,TRUE
+620,BMW,5 Series,2007,SCFFDE,5,Pink,TRUE
+621,Ford,Escort,1986,3D73Y3,5,Crimson,TRUE
+622,Mercury,Grand Marquis,1995,KM8NU4,4,Pink,TRUE
+623,Volvo,XC90,2010,SCBZK2,5,Indigo,TRUE
+624,Chevrolet,Malibu,2012,JH4KA9,5,Puce,TRUE
+625,Infiniti,G,2001,WAUEF9,3,Crimson,TRUE
+626,Ford,Windstar,1995,2HNYD2,6,Teal,TRUE
+627,Chevrolet,Silverado,2006,WAUCFA,3,Indigo,TRUE
+628,Audi,A6,2001,JTDKN3,3,Teal,TRUE
+629,GMC,Yukon XL 2500,2009,WAUKG7,4,Orange,TRUE
+630,Ford,GT,2006,JN1CV6,5,Indigo,TRUE
+631,Chevrolet,Silverado,2009,JTHFE2,3,Indigo,TRUE
+632,Mazda,MPV,2001,5UMCL9,6,Teal,TRUE
+633,Chevrolet,Citation,1980,WBSBL9,4,Crimson,TRUE
+634,Ford,Ranger,2011,KMHTC6,3,Violet,TRUE
+635,Mazda,Protege,1993,1C3CDF,3,Turquoise,TRUE
+636,Saturn,S-Series,1992,JTHBP5,5,Goldenrod,TRUE
+637,Lexus,SC,2007,3N1BC1,4,Mauv,TRUE
+638,Toyota,Paseo,1995,5TFCW5,6,Orange,TRUE
+639,Pontiac,Chevette,1987,5J8TB3,5,Orange,TRUE
+640,Nissan,350Z,2005,WBA1F5,6,Orange,TRUE
+641,Ford,Explorer Sport Trac,2010,19XFA1,6,Violet,TRUE
+642,Honda,Insight,2002,1G6AJ5,5,Teal,TRUE
+643,Toyota,FJ Cruiser,2009,WA1DKA,5,Pink,TRUE
+644,Cadillac,Escalade,2000,4A31K3,5,Crimson,TRUE
+645,Dodge,Ram 1500,2000,WBAFU9,4,Indigo,TRUE
+646,Ford,Crown Victoria,2010,1FAHP3,5,Teal,TRUE
+647,BMW,M Roadster,2006,YV1672,4,Crimson,TRUE
+648,Chevrolet,Impala,2008,5FRYD4,6,Purple,TRUE
+649,Rolls-Royce,Ghost,2011,5UXZW0,4,Pink,TRUE
+650,Mazda,Millenia,2001,5FNYF3,4,Blue,TRUE
+651,Mercedes-Benz,CLK-Class,2002,WAUHMA,6,Blue,TRUE
+652,Dodge,Viper,1999,JTEBU4,6,Orange,TRUE
+653,Dodge,Grand Caravan,1996,WA1AV7,6,Fuscia,TRUE
+654,GMC,Yukon,2005,WAUMFA,3,Blue,TRUE
+655,Lexus,SC,2009,1ZVBP8,6,Violet,TRUE
+656,Mazda,B2500,2001,3GYT4N,4,Maroon,TRUE
+657,Toyota,Tacoma,2012,SALWG2,6,Turquoise,TRUE
+658,GMC,1500 Club Coupe,1993,5YMGY0,3,Khaki,TRUE
+659,Honda,Odyssey,2012,WAUBNB,6,Goldenrod,TRUE
+660,Subaru,Legacy,2000,WAUAH9,6,Orange,TRUE
+661,Nissan,Titan,2011,SCBCU7,3,Pink,TRUE
+662,Mercedes-Benz,CL-Class,2007,JH4DC5,6,Orange,TRUE
+663,Mercury,Sable,1996,1FTNF1,5,Fuscia,TRUE
+664,Kia,Rio5,2008,WAUXD6,4,Crimson,TRUE
+665,Nissan,350Z,2003,WAULK7,4,Fuscia,TRUE
+666,GMC,Savana 2500,2002,WAUKF6,4,Mauv,TRUE
+667,Toyota,Corolla,1994,1G6AT5,6,Khaki,TRUE
+668,Subaru,Tribeca,2008,WBAET3,5,Goldenrod,TRUE
+669,Pontiac,Grand Prix,2002,1G4HF5,6,Red,TRUE
+670,Chevrolet,Cavalier,1996,3C63DR,5,Teal,TRUE
+671,Audi,RS 4,2007,KMHHT6,4,Red,TRUE
+672,Infiniti,EX,2010,WA1BV7,6,Khaki,TRUE
+673,Toyota,Land Cruiser,2011,3VWKX7,6,Mauv,TRUE
+674,Suzuki,Swift,1992,3N1AB6,5,Purple,TRUE
+675,Nissan,Pathfinder,1992,JH4NA1,6,Turquoise,TRUE
+676,Jaguar,XJ Series,1995,3GTU1Y,3,Turquoise,TRUE
+677,Dodge,Caravan,2010,1FTEX1,5,Purple,TRUE
+678,Saturn,S-Series,1996,KNAFU6,6,Purple,TRUE
+679,Geo,Prizm,1992,WBAKF5,3,Pink,TRUE
+680,Audi,Q5,2012,1G6DP5,5,Fuscia,TRUE
+681,Oldsmobile,Silhouette,2001,WDDJK7,3,Yellow,TRUE
+682,Chevrolet,Camaro,2010,1FTWW3,5,Goldenrod,TRUE
+683,Jeep,Wrangler,2005,5N1AA0,5,Fuscia,TRUE
+684,Mazda,Mazdaspeed6,2007,5N1AT2,5,Pink,TRUE
+685,Ford,Focus,2002,1GD422,3,Maroon,TRUE
+686,Lexus,CT,2011,WBA5A7,6,Blue,TRUE
+687,Nissan,Altima,1997,3C4PDC,5,Khaki,TRUE
+688,Volkswagen,GTI,2005,1G4GC5,6,Red,TRUE
+689,Infiniti,QX56,2008,JTDJTU,5,Orange,TRUE
+690,Mazda,B-Series,1991,WBAPT7,5,Purple,TRUE
+691,Ford,E-Series,2011,1GYFC2,5,Crimson,TRUE
+692,Cadillac,XLR,2007,2T1BUR,3,Mauv,TRUE
+693,Chevrolet,Monte Carlo,1998,WAUSF7,5,Violet,TRUE
+694,Mercedes-Benz,C-Class,1998,WBANW1,3,Mauv,TRUE
+695,Eagle,Talon,1996,1G6AS5,5,Orange,TRUE
+696,Chevrolet,Traverse,2011,YV1612,5,Goldenrod,TRUE
+697,Ford,Mustang,1969,19XFA1,5,Fuscia,TRUE
+698,Hummer,H2,2009,KNAFU6,4,Fuscia,TRUE
+699,Honda,Accord,1985,JM1BL1,4,Orange,TRUE
+700,Audi,R8,2008,WBAFR9,6,Goldenrod,TRUE
+701,Hyundai,Elantra,1995,JN8AZ2,4,Khaki,TRUE
+702,Audi,Quattro,1985,1GYS3B,4,Teal,TRUE
+703,Ford,Explorer,2004,4F2CY0,6,Puce,TRUE
+704,Toyota,Avalon,1996,WA1DGA,5,Maroon,TRUE
+705,Mercury,Cougar,1994,1FTFW1,4,Red,TRUE
+706,Bentley,Mulsanne,2012,1FTFW1,6,Indigo,TRUE
+707,Smart,Fortwo,2011,JN8AZ2,5,Indigo,TRUE
+708,Dodge,Caliber,2010,WBAET3,6,Indigo,TRUE
+709,Chevrolet,Colorado,2006,19UUA6,6,Indigo,TRUE
+710,Chevrolet,Corvair,1960,WBSBL9,4,Crimson,TRUE
+711,Ford,Explorer Sport Trac,2001,5N1AZ2,3,Goldenrod,TRUE
+712,Maserati,GranTurismo,2008,WAUDF4,4,Yellow,TRUE
+713,Buick,LeSabre,2003,2HNYD1,5,Maroon,TRUE
+714,Ford,Taurus,2008,SCBLC3,6,Turquoise,TRUE
+715,Jaguar,S-Type,2000,1G4HP5,5,Khaki,TRUE
+716,Mercury,Mystique,1997,1C3BCB,3,Goldenrod,TRUE
+717,Dodge,Caravan,2009,JN1BJ0,6,Aquamarine,TRUE
+718,Dodge,Ram 2500,1998,4T1BF1,3,Mauv,TRUE
+719,Dodge,Ram 1500 Club,2001,1C4RDJ,5,Aquamarine,TRUE
+720,Buick,Electra,1984,5N1AR1,6,Khaki,TRUE
+721,Chevrolet,Suburban,2011,JN8AS5,5,Puce,TRUE
+722,Mercury,Grand Marquis,1999,JH4KA9,6,Puce,TRUE
+723,Ford,Econoline E150,1992,WAUAFA,4,Aquamarine,TRUE
+724,Toyota,Tacoma,2009,KNADH5,3,Aquamarine,TRUE
+725,Acura,NSX,1998,1FBNE3,3,Goldenrod,TRUE
+726,Mitsubishi,GTO,1997,SCFPDC,4,Indigo,TRUE
+727,BMW,525,2006,WVGEP9,6,Violet,TRUE
+728,Aptera,Typ-1,2008,WBALL5,6,Fuscia,TRUE
+729,Subaru,Alcyone SVX,1993,1G6AF5,6,Mauv,TRUE
+730,Ford,Ranger,1986,KMHDB8,6,Indigo,TRUE
+731,Buick,Century,1985,1G4CW5,6,Puce,TRUE
+732,Lexus,RX Hybrid,2007,1C3BCB,4,Violet,TRUE
+733,Ford,Ranger,1998,WVWED7,6,Teal,TRUE
+734,Saab,900,1986,WBABS3,3,Khaki,TRUE
+735,Hyundai,Azera,2010,1FTSX2,4,Yellow,TRUE
+736,Infiniti,M,2008,1FTWW3,6,Green,TRUE
+737,Cadillac,XLR-V,2006,JTDKDT,5,Indigo,TRUE
+738,Audi,Q7,2009,WAUWFA,6,Violet,TRUE
+739,Ford,Ranger,1992,1FTEW1,5,Aquamarine,TRUE
+740,Mercedes-Benz,E-Class,2001,1GKS1H,3,Indigo,TRUE
+741,Ford,Expedition EL,2011,KNDJT2,5,Goldenrod,TRUE
+742,Buick,LeSabre,1997,YV4960,3,Purple,TRUE
+743,Land Rover,Discovery,2004,19XFB2,4,Puce,TRUE
+744,Toyota,T100,1996,JM1GJ1,5,Yellow,TRUE
+745,Mazda,626,1994,3C6LD5,5,Violet,TRUE
+746,Mazda,Tribute,2002,1G6DD8,5,Teal,TRUE
+747,Volvo,S40,2001,WA1CM7,3,Purple,TRUE
+748,Nissan,Frontier,2003,WAUDF9,3,Mauv,TRUE
+749,Mitsubishi,Chariot,1986,3VW1K7,3,Indigo,TRUE
+750,Lamborghini,Diablo,1997,JN8AZ1,6,Yellow,TRUE
+751,Chevrolet,Camaro,1996,5UXFE4,3,Pink,TRUE
+752,Chevrolet,Avalanche 2500,2004,1FMCU5,5,Orange,TRUE
+753,Chevrolet,Prizm,1998,WBA3N3,4,Mauv,TRUE
+754,Mercedes-Benz,E-Class,1994,1GYS3B,3,Aquamarine,TRUE
+755,Honda,CR-V,2005,SCFAD0,6,Pink,TRUE
+756,Pontiac,Sunbird,1987,SCFFDC,4,Fuscia,TRUE
+757,Plymouth,Voyager,1997,2C3CDX,4,Fuscia,TRUE
+758,Lexus,LX,2011,JTEBU5,3,Puce,TRUE
+759,Smart,Fortwo,2008,TRUTC2,3,Maroon,TRUE
+760,Nissan,Armada,2009,1GYS4C,6,Maroon,TRUE
+761,Toyota,Tundra,2008,1GT01Z,4,Blue,TRUE
+762,Aston Martin,DB9 Volante,2006,1C3CCB,4,Khaki,TRUE
+763,Lincoln,Town Car,2000,WBAUL7,6,Red,TRUE
+764,Toyota,Avalon,2011,KL4CJA,4,Orange,TRUE
+765,Cadillac,Escalade EXT,2005,5J8TB4,3,Fuscia,TRUE
+766,Chevrolet,Avalanche 1500,2005,WAUDV9,6,Green,TRUE
+767,Volkswagen,Corrado,1992,WVGAV7,3,Khaki,TRUE
+768,Honda,Insight,2001,WAUVFA,5,Blue,TRUE
+769,Lexus,GS,1996,1G4GJ5,5,Green,TRUE
+770,Buick,Estate,1989,1G6DS5,4,Mauv,TRUE
+771,Chevrolet,SSR,2006,WAULVB,6,Khaki,TRUE
+772,Subaru,Forester,2003,1GYFK4,3,Orange,TRUE
+773,Plymouth,Grand Voyager,1997,2T2BK1,6,Violet,TRUE
+774,Hummer,H1,1996,SCFEFB,3,Purple,TRUE
+775,Volvo,C70,2012,1G6DX6,6,Aquamarine,TRUE
+776,Porsche,Cayman,2011,1GD11Z,4,Orange,TRUE
+777,Audi,S4,2008,WBXPC9,4,Green,TRUE
+778,Toyota,Sequoia,2011,1FTEX1,5,Khaki,TRUE
+779,Chevrolet,Monte Carlo,1996,1FTSW2,3,Maroon,TRUE
+780,Lamborghini,Murciélago,2005,5J6TF1,3,Green,TRUE
+781,Kia,Rio,2009,1G6KF5,3,Violet,TRUE
+782,Geo,Prizm,1993,1GKUCF,3,Violet,TRUE
+783,Saturn,S-Series,1998,2G4G05,3,Crimson,TRUE
+784,Chrysler,Aspen,2008,1C3CCB,3,Aquamarine,TRUE
+785,Mercedes-Benz,300SD,1992,WAULD6,6,Red,TRUE
+786,Mitsubishi,RVR,1993,JM1DE1,5,Teal,TRUE
+787,Land Rover,Range Rover,2006,KMHHT6,6,Maroon,TRUE
+788,Ford,E-Series,2005,1G6AH5,5,Green,TRUE
+789,Toyota,FJ Cruiser,2007,3G5DA0,3,Khaki,TRUE
+790,Dodge,Neon,1998,WAUMGB,6,Khaki,TRUE
+791,Pontiac,Vibe,2003,WAUJT6,6,Crimson,TRUE
+792,Dodge,Colt,1993,1G6KD5,6,Orange,TRUE
+793,Nissan,Sentra,2002,KL4CJG,4,Violet,TRUE
+794,Cadillac,XLR-V,2006,WBAEV5,4,Violet,TRUE
+795,Maybach,Landaulet,2011,1FTWF3,3,Pink,TRUE
+796,Ford,Laser,1987,1GYS4G,3,Indigo,TRUE
+797,Chevrolet,Malibu,2013,WDDGF4,6,Orange,TRUE
+798,Chrysler,Sebring,2007,1GTN1T,5,Green,TRUE
+799,Volkswagen,GTI,1986,19UUB3,6,Orange,TRUE
+800,Hyundai,Elantra,2007,2C3CCA,4,Purple,TRUE
+801,Porsche,911,2006,1G6DC8,6,Maroon,TRUE
+802,Ford,Windstar,2004,5N1AL0,5,Orange,TRUE
+803,MINI,MINI,2002,JN8AF5,4,Blue,TRUE
+804,GMC,Yukon XL 1500,2002,1GYS3H,3,Maroon,TRUE
+805,Mercedes-Benz,300TE,1993,WAUGL7,5,Crimson,TRUE
+806,Mercedes-Benz,E-Class,1994,WAUEFA,6,Maroon,TRUE
+807,Mercedes-Benz,CL-Class,1999,KNAFU5,5,Fuscia,TRUE
+808,Chevrolet,Suburban 2500,2012,WAUCFA,4,Purple,TRUE
+809,Chevrolet,Venture,2003,1G4PR5,3,Puce,TRUE
+810,Lexus,ES,2007,JHMZE2,3,Red,TRUE
+811,Land Rover,Freelander,2005,WAUHGB,4,Khaki,TRUE
+812,Mitsubishi,Eclipse,2003,WAUMGA,4,Orange,TRUE
+813,Volvo,V90,1997,WBA3D5,5,Yellow,TRUE
+814,Ford,Explorer,2007,3N1AB7,5,Khaki,TRUE
+815,Toyota,Camry Solara,2006,WVWED7,3,Orange,TRUE
+816,Mazda,CX-9,2009,1HGCR6,6,Yellow,TRUE
+817,Buick,Regal,2004,JM1NC2,6,Pink,TRUE
+818,Buick,Park Avenue,1994,1G6KD5,3,Khaki,TRUE
+819,Dodge,Dakota Club,2003,WP1AE2,4,Orange,TRUE
+820,Volkswagen,Jetta,2006,1G6DS1,6,Turquoise,TRUE
+821,MINI,Countryman,2012,1G6KY5,6,Teal,TRUE
+822,Ford,Explorer,1998,KMHTC6,6,Turquoise,TRUE
+823,Hyundai,Santa Fe,2002,WAUJGA,4,Goldenrod,TRUE
+824,Dodge,Dakota Club,1997,1G4HP5,4,Red,TRUE
+825,Audi,A5,2010,SCFEDC,3,Crimson,TRUE
+826,Infiniti,M,1992,JH4KB1,5,Goldenrod,TRUE
+827,Infiniti,G,2001,3C4PDD,5,Crimson,TRUE
+828,Mercedes-Benz,S-Class,1998,WBAEN3,5,Teal,TRUE
+829,Audi,A6,2006,JM1NC2,5,Goldenrod,TRUE
+830,Ford,Club Wagon,1994,WAUFFB,5,Crimson,TRUE
+831,Chevrolet,G-Series G20,1994,WBAYA8,4,Puce,TRUE
+832,Volvo,C70,2006,WAULC6,4,Violet,TRUE
+833,BMW,6 Series,2009,JM3TB2,4,Teal,TRUE
+834,Honda,Element,2006,1G4CU5,3,Maroon,TRUE
+835,Isuzu,Hombre Space,1999,1G6KD5,6,Goldenrod,TRUE
+836,Ford,F450,2008,WBAEV3,5,Blue,TRUE
+837,Suzuki,Daewoo Lacetti,2004,2C3CDX,5,Khaki,TRUE
+838,Nissan,Quest,1998,1C3BCB,4,Red,TRUE
+839,Dodge,Monaco,1992,1FBSS3,4,Goldenrod,TRUE
+840,Volkswagen,GTI,1992,5N1AR1,6,Violet,TRUE
+841,Ford,Crown Victoria,2001,1C3CC5,4,Violet,TRUE
+842,Maybach,57,2006,2G4WF5,4,Violet,TRUE
+843,Ford,Club Wagon,1997,3VW1K7,5,Violet,TRUE
+844,Chevrolet,Tahoe,2011,WAUVC6,3,Orange,TRUE
+845,Toyota,Supra,1996,5TFCW5,5,Khaki,TRUE
+846,Citroën,SM,1972,WAUCFA,4,Orange,TRUE
+847,Toyota,Corolla,2008,1D7RB1,3,Fuscia,TRUE
+848,Infiniti,QX56,2009,1G6AF5,3,Maroon,TRUE
+849,Jaguar,X-Type,2005,1D7RB1,6,Teal,TRUE
+850,Plymouth,Reliant,1981,3GYFNG,4,Fuscia,TRUE
+851,Bentley,Arnage,2009,2G4GS5,6,Green,TRUE
+852,Mitsubishi,Montero,1998,1G6DG5,5,Yellow,TRUE
+853,Mercedes-Benz,E-Class,1989,JA4AS3,4,Yellow,TRUE
+854,Mazda,626,1986,1GYS3P,5,Turquoise,TRUE
+855,Volkswagen,Jetta,1985,KNDPB3,5,Mauv,TRUE
+856,BMW,Z4,2009,1FTEW1,5,Puce,TRUE
+857,Mercury,Grand Marquis,2009,3D4PH6,5,Puce,TRUE
+858,Maserati,Quattroporte,1984,WBAWC7,3,Crimson,TRUE
+859,Dodge,Ram 2500,1997,WAUHFB,6,Red,TRUE
+860,Saab,900,1988,5J6TF1,3,Fuscia,TRUE
+861,Nissan,Frontier,2008,WAUA2A,6,Indigo,TRUE
+862,Ford,Taurus X,2008,WAUKH7,5,Orange,TRUE
+863,Hyundai,Sonata,2009,WAUNF7,4,Violet,TRUE
+864,Chevrolet,Express 1500,2000,JH4CL9,4,Orange,TRUE
+865,Toyota,4Runner,1992,2T1BUR,5,Fuscia,TRUE
+866,Toyota,Sienna,2005,1VWAP7,5,Violet,TRUE
+867,Jeep,Patriot,2010,2T1BPR,3,Orange,TRUE
+868,Mazda,MX-5,1995,WBA3A9,5,Turquoise,TRUE
+869,Chevrolet,Silverado 3500,2009,JN8AZ1,3,Yellow,TRUE
+870,Cadillac,SRX,2007,WAUAH6,6,Yellow,TRUE
+871,Dodge,Dakota Club,2003,1G6DK1,6,Yellow,TRUE
+872,Chrysler,Pacifica,2008,KMHHT6,6,Aquamarine,TRUE
+873,Toyota,Celica,2003,WBA3A5,4,Red,TRUE
+874,Pontiac,Bonneville,1964,3VW517,3,Goldenrod,TRUE
+875,Honda,Element,2010,1G6YX3,5,Puce,TRUE
+876,Mazda,B-Series,1989,JA32U1,4,Red,TRUE
+877,Ford,Bronco II,1987,5TDDK3,4,Violet,TRUE
+878,Suzuki,Samurai,1994,KMHFG4,3,Puce,TRUE
+879,Chevrolet,Malibu,2007,3GYFNE,3,Orange,TRUE
+880,BMW,Alpina B7,2008,JH4NA2,5,Orange,TRUE
+881,Isuzu,Axiom,2003,ZFBCFA,3,Purple,TRUE
+882,GMC,Rally Wagon G2500,1995,WAUWFA,5,Orange,TRUE
+883,Cadillac,Seville,2003,JH4DB7,3,Maroon,TRUE
+884,Morgan,Aero 8,2009,3N1AB7,3,Yellow,TRUE
+885,Toyota,Highlander Hybrid,2007,2C3CCA,5,Teal,TRUE
+886,Chrysler,Prowler,2002,YV1952,5,Puce,TRUE
+887,Volvo,V50,2008,2HNYD1,3,Teal,TRUE
+888,GMC,1500 Club Coupe,1997,1G6KY5,5,Purple,TRUE
+889,Mercury,Cougar,1994,3C63D2,5,Mauv,TRUE
+890,Mitsubishi,Eclipse,1992,2B3CK3,6,Mauv,TRUE
+891,Toyota,4Runner,2009,2G4GS5,3,Green,TRUE
+892,GMC,Envoy XL,2002,1FTNX2,3,Blue,TRUE
+893,Mazda,B-Series,2003,WAUGGB,3,Red,TRUE
+894,Ford,Probe,1990,4A31K2,4,Aquamarine,TRUE
+895,Infiniti,G35,2004,JM3TB2,3,Aquamarine,TRUE
+896,Mercury,Milan,2009,WAUJ2A,3,Purple,TRUE
+897,Panoz,Esperante,2008,WAUEL7,3,Green,TRUE
+898,Mercedes-Benz,M-Class,2006,WAUPL6,6,Pink,TRUE
+899,Mitsubishi,Outlander Sport,2012,2G4WS5,6,Pink,TRUE
+900,Bentley,Continental Super,2010,WBAPK5,4,Purple,TRUE
+901,Chrysler,Sebring,2005,5FRYD4,5,Crimson,TRUE
+902,Mercedes-Benz,300CE,1993,3VWJX7,3,Teal,TRUE
+903,GMC,Yukon XL 2500,2001,1C4NJP,4,Maroon,TRUE
+904,Chevrolet,Impala,2011,WA1LFB,4,Green,TRUE
+905,Mitsubishi,Eclipse,1997,2B3CA5,3,Crimson,TRUE
+906,Ford,E250,2004,5YMGZ0,4,Green,TRUE
+907,Land Rover,Discovery,1996,3VW4A7,6,Aquamarine,TRUE
+908,Ford,Edge,2012,4T1BF3,4,Red,TRUE
+909,Lexus,SC,1997,1D7RB1,4,Khaki,TRUE
+910,Mitsubishi,Precis,1990,1C4RDJ,4,Mauv,TRUE
+911,MINI,Cooper,2008,5GAEV1,3,Turquoise,TRUE
+912,GMC,3500,1999,3VW507,3,Aquamarine,TRUE
+913,Honda,Odyssey,1999,JTHBL5,5,Khaki,TRUE
+914,Chevrolet,Suburban,2006,1FTEX1,3,Indigo,TRUE
+915,Subaru,Impreza,1999,1GT3CZ,4,Green,TRUE
+916,Mercury,Villager,1993,1G6DP5,6,Purple,TRUE
+917,Infiniti,G,1996,WBAWV1,3,Fuscia,TRUE
+918,Buick,Century,1988,WBAUC9,4,Maroon,TRUE
+919,Honda,Pilot,2012,WA1YD6,5,Pink,TRUE
+920,Audi,A4,2001,JM1NC2,6,Indigo,TRUE
+921,Pontiac,Montana,2001,1C3CCB,6,Purple,TRUE
+922,Kia,Sephia,1999,JN1CV6,3,Maroon,TRUE
+923,Mercedes-Benz,SL-Class,1989,1GYUCB,5,Green,TRUE
+924,Ford,Tempo,1992,WAUKF7,5,Turquoise,TRUE
+925,Lamborghini,Murciélago,2010,1FTEX1,5,Yellow,TRUE
+926,Chevrolet,Prizm,1998,WAULC5,3,Puce,TRUE
+927,Mazda,Protege5,2002,JN1BV7,6,Pink,TRUE
+928,GMC,2500 Club Coupe,1992,WA1WMA,3,Goldenrod,TRUE
+929,Isuzu,Ascender,2004,WP0AA2,4,Turquoise,TRUE
+930,Suzuki,Forenza,2008,WAUHFA,3,Indigo,TRUE
+931,GMC,Rally Wagon 2500,1992,5GAKRC,6,Purple,TRUE
+932,Plymouth,Grand Voyager,1992,JTJBM7,4,Indigo,TRUE
+933,Lexus,GS,2013,3GYFNJ,6,Purple,TRUE
+934,Dodge,D350 Club,1992,1G4HR5,4,Blue,TRUE
+935,Pontiac,Firefly,1991,WBA3N7,4,Yellow,TRUE
+936,Mitsubishi,Mirage,1988,1GKS1A,5,Khaki,TRUE
+937,Volkswagen,Scirocco,1988,5FRYD3,4,Red,TRUE
+938,Hyundai,Entourage,2009,1GYS4J,4,Indigo,TRUE
+939,Suzuki,Equator,2010,SALWR2,6,Pink,TRUE
+940,Infiniti,J,1997,WAUSH9,6,Pink,TRUE
+941,GMC,Rally Wagon 2500,1992,1G6DS5,3,Pink,TRUE
+942,Mercedes-Benz,E-Class,1985,2C3CDX,6,Red,TRUE
+943,Chevrolet,Express 1500,2003,WBAFU9,6,Maroon,TRUE
+944,Mercedes-Benz,CL-Class,2011,2T3BFR,5,Goldenrod,TRUE
+945,Volkswagen,Golf,1983,WBADN6,5,Crimson,TRUE
+946,Alfa Romeo,164,1993,JH4DC5,4,Teal,TRUE
+947,Volvo,V40,2001,WAURFA,6,Blue,TRUE
+948,Mazda,Miata MX-5,1994,WBA3C1,5,Blue,TRUE
+949,Acura,Legend,1988,JTJHY7,3,Indigo,TRUE
+950,Toyota,MR2,2004,WAUDT4,3,Crimson,TRUE
+951,Mercedes-Benz,SLK-Class,2003,2C3CCA,4,Goldenrod,TRUE
+952,BMW,3 Series,2000,KMHDB8,3,Goldenrod,TRUE
+953,Audi,80/90,1988,1GYS3A,3,Crimson,TRUE
+954,Infiniti,QX,1999,1GKS1A,5,Purple,TRUE
+955,Mitsubishi,Pajero,1996,2G4GU5,6,Teal,TRUE
+956,Mazda,RX-8,2008,WAUDH9,3,Khaki,TRUE
+957,Chevrolet,Silverado 2500,2004,WAULK9,6,Orange,TRUE
+958,Ford,E-Series,2004,2D4RN6,6,Maroon,TRUE
+959,Volvo,S90,1997,SCBBR9,6,Crimson,TRUE
+960,Porsche,968,1995,3D73Y4,3,Teal,TRUE
+961,Mercury,Mountaineer,1998,WBA3A5,3,Teal,TRUE
+962,GMC,Rally Wagon 2500,1993,WA1CM7,4,Crimson,TRUE
+963,Mazda,MX-3,1994,WAUHE7,3,Yellow,TRUE
+964,Dodge,Avenger,2000,3C6LD4,6,Fuscia,TRUE
+965,Buick,Skyhawk,1985,1C4RDJ,3,Violet,TRUE
+966,Aston Martin,V8 Vantage S,2012,5UXFE8,3,Violet,TRUE
+967,Bentley,Mulsanne,2012,1ZVBP8,4,Blue,TRUE
+968,Chevrolet,Camaro,1995,JH4DC5,4,Pink,TRUE
+969,Dodge,Neon,2000,WVWED7,5,Orange,TRUE
+970,Pontiac,Firebird Trans Am,1986,SCFEBB,4,Indigo,TRUE
+971,Infiniti,G,2011,5N1AA0,4,Blue,TRUE
+972,Buick,Riviera,1995,1G6DC1,4,Violet,TRUE
+973,Honda,Prelude,1993,WBAVL1,4,Khaki,TRUE
+974,Mercedes-Benz,400SEL,1993,WAULT6,3,Orange,TRUE
+975,GMC,Savana 1500,1999,WBSBR9,4,Indigo,TRUE
+976,Mercedes-Benz,CLK-Class,2004,WUAAU3,6,Indigo,TRUE
+977,Cadillac,XLR-V,2006,WAUAFA,5,Khaki,TRUE
+978,BMW,760,2005,WP0CA2,4,Purple,TRUE
+979,Ford,Aerostar,1989,JTJBC1,3,Teal,TRUE
+980,Hyundai,Sonata,1998,5N1AN0,3,Aquamarine,TRUE
+981,Ford,Freestyle,2006,JH4DC5,4,Khaki,TRUE
+982,Ford,Escape,2011,1G6AB5,3,Puce,TRUE
+983,Hyundai,Santa Fe,2002,JN1CV6,4,Indigo,TRUE
+984,BMW,3 Series,2012,WBAVL1,3,Violet,TRUE
+985,Infiniti,M,2006,1FAHP2,3,Purple,TRUE
+986,Nissan,Altima,1994,SALAG2,5,Red,TRUE
+987,Kia,Sportage,2001,WBAFR7,5,Crimson,TRUE
+988,Jeep,Compass,2008,2HNYD2,4,Crimson,TRUE
+989,Land Rover,LR3,2009,WDDHF5,5,Green,TRUE
+990,Cadillac,DeVille,1993,3GYFNF,3,Fuscia,TRUE
+991,Mitsubishi,Pajero,1993,1G6KF5,3,Teal,TRUE
+992,Honda,del Sol,1996,WAUEFB,3,Purple,TRUE
+993,Ferrari,599 GTB Fiorano,2009,WAURFA,6,Maroon,TRUE
+994,GMC,Savana 1500,1998,JN1AZ4,6,Yellow,TRUE
+995,Kia,Sedona,2006,3VW217,4,Green,TRUE
+996,Mercedes-Benz,SLK-Class,1997,137FA9,6,Yellow,TRUE
+997,Jeep,Cherokee,2000,JTDBT4,5,Yellow,TRUE
+998,Mercedes-Benz,SL-Class,1984,5LMJJ2,5,Yellow,TRUE
+999,Mitsubishi,i-MiEV,2012,SCFAB0,4,Pink,TRUE
+1000,Lexus,GS,1998,1FTWF3,5,Turquoise,TRUE
+1001,Honda,CR-V,2000,1N4AB7,6,Maroon,TRUE
+1002,Land Rover,LR4,2011,3CZRE3,5,Crimson,TRUE
+1003,Pontiac,Firebird,1998,WBAWC7,6,Crimson,TRUE
+1004,Dodge,Durango,2007,WAUXD6,4,Goldenrod,TRUE
+1005,Lincoln,Zephyr,2006,1FADP3,6,Green,TRUE
+1006,Chevrolet,Camaro,1977,JTDZN3,3,Puce,TRUE
+1007,Daewoo,Leganza,2000,WAUGFA,6,Goldenrod,TRUE
+1008,Buick,Rainier,2006,5N1BA0,4,Red,TRUE
+1009,Mercedes-Benz,S-Class,2005,1D7RB1,4,Maroon,TRUE
+1010,Pontiac,Sunfire,2002,JN1EY1,5,Purple,TRUE
+1011,Mazda,B-Series Plus,2002,WBAKG1,4,Purple,TRUE
+1012,Acura,NSX,2002,4A31K2,4,Mauv,TRUE
+1013,Suzuki,Daewoo Magnus,2005,3N1BC1,4,Red,TRUE
+1014,Mazda,MX-6,1993,WBAPH5,3,Pink,TRUE
+1015,Ford,F450,2009,WA1CGA,5,Pink,TRUE
+1016,Mitsubishi,Precis,1992,1G6ET1,6,Blue,TRUE
+1017,Volkswagen,Golf,2000,1G6DM5,4,Yellow,TRUE
+1018,Mercury,Montego,2007,19XFB4,6,Goldenrod,TRUE
+1019,Toyota,Paseo,1995,WBS3U9,4,Violet,TRUE
+1020,Volvo,S40,2008,WAUVT6,5,Fuscia,TRUE
+1021,GMC,Canyon,2011,1G6DF5,6,Aquamarine,TRUE
+1022,Volkswagen,Golf,2006,WBA3A9,6,Purple,TRUE
+1023,Subaru,Justy,1992,JH4KC1,4,Khaki,TRUE
+1024,Chrysler,Cirrus,1995,2G61T5,5,Teal,TRUE
+1025,Porsche,Boxster,2002,JH4CU2,5,Puce,TRUE
+1026,Mercury,Marquis,1984,WDDHF5,5,Green,TRUE
+1027,Chevrolet,Astro,2004,WBADX7,6,Puce,TRUE
+1028,Scion,xD,2012,3C4PDC,6,Maroon,TRUE
+1029,BMW,M5,1993,KNDPB3,4,Yellow,TRUE
+1030,BMW,525,2003,WAULC6,6,Orange,TRUE
+1031,Toyota,RAV4,1997,4T1BF3,3,Teal,TRUE
+1032,Honda,Accord,1998,WBANE7,4,Turquoise,TRUE
+1033,Mercedes-Benz,E-Class,2010,1G6KD5,4,Fuscia,TRUE
+1034,Chevrolet,Classic,2005,JM1NC2,5,Purple,TRUE
+1035,Lexus,LS,2001,WBANV1,3,Violet,TRUE
+1036,Chevrolet,Traverse,2012,3VW4T7,4,Maroon,TRUE
+1037,Mercedes-Benz,W201,1990,3N1CN7,5,Puce,TRUE
+1038,Chevrolet,Equinox,2012,1N4AB7,5,Purple,TRUE
+1039,Nissan,Leaf,2012,WAU4GA,5,Violet,TRUE
+1040,Lexus,IS,2011,JN1AV7,4,Fuscia,TRUE
+1041,Mitsubishi,Montero Sport,2004,5GADV2,4,Turquoise,TRUE
+1042,Dodge,D150,1993,WVGEF9,6,Teal,TRUE
+1043,Chevrolet,Impala,2002,SALWR2,4,Green,TRUE
+1044,Land Rover,Freelander,2004,5BZBF0,4,Turquoise,TRUE
+1045,GMC,Envoy,2000,1N6AA0,5,Goldenrod,TRUE
+1046,Lexus,RX,2008,WBABS3,6,Goldenrod,TRUE
+1047,Mitsubishi,Cordia,1988,1G4PT5,3,Pink,TRUE
+1048,Mercury,Mountaineer,2003,1G4HR5,4,Orange,TRUE
+1049,Volvo,S70,1999,3D73Y3,6,Aquamarine,TRUE
+1050,Volvo,S80,2004,5N1AL0,5,Maroon,TRUE
+1051,Isuzu,Rodeo Sport,2001,5N1CR2,4,Mauv,TRUE
+1052,Nissan,Versa,2008,19XFB4,4,Crimson,TRUE
+1053,Chevrolet,Venture,1998,JTDKDT,5,Indigo,TRUE
+1054,Mitsubishi,Eclipse,2009,WAUVT6,5,Teal,TRUE
+1055,Chevrolet,Suburban 2500,1993,1FTMF1,6,Maroon,TRUE
+1056,Honda,Ridgeline,2008,JTHBW1,6,Green,TRUE
+1057,Mazda,MX-5,1996,WAUXG9,3,Goldenrod,TRUE
+1058,Honda,Accord,1991,TRUWT2,4,Khaki,TRUE
+1059,Subaru,Impreza WRX,2010,YV1902,6,Goldenrod,TRUE
+1060,Chevrolet,Cavalier,1998,1G6DE8,3,Indigo,TRUE
+1061,Nissan,Quest,2005,JN1CV6,5,Aquamarine,TRUE
+1062,Toyota,RAV4,2000,TRUWX2,3,Mauv,TRUE
+1063,Toyota,Highlander,2002,WAUML4,5,Green,TRUE
+1064,Hyundai,XG350,2005,1N4AL2,3,Green,TRUE
+1065,GMC,Sierra 1500,2004,1FAHP3,5,Mauv,TRUE
+1066,Scion,xB,2008,1N4AL2,6,Puce,TRUE
+1067,Audi,S4,2007,5GADV2,3,Pink,TRUE
+1068,Toyota,RAV4,2011,WBAPH7,4,Orange,TRUE
+1069,Ford,Probe,1990,WAUSF7,5,Pink,TRUE
+1070,Ford,Taurus X,2008,1N6AA0,4,Teal,TRUE
+1071,Isuzu,Stylus,1993,WBA3B1,4,Mauv,TRUE
+1072,Lincoln,Town Car,1986,TRUUT2,3,Teal,TRUE
+1073,Nissan,350Z,2006,SCFFDC,6,Maroon,TRUE
+1074,Volvo,V70,2004,TRUSX2,3,Turquoise,TRUE
+1075,Mercedes-Benz,E-Class,2011,WA1CGA,4,Fuscia,TRUE
+1076,Oldsmobile,Silhouette,1997,WA1WYB,5,Blue,TRUE
+1077,Pontiac,Firefly,1986,1G6KD5,5,Aquamarine,TRUE
+1078,Chevrolet,Lumina APV,1992,1J4AA2,4,Yellow,TRUE
+1079,Isuzu,i-370,2007,19UYA4,3,Maroon,TRUE
+1080,Kia,Rio,2009,1G6DG5,3,Pink,TRUE
+1081,Kia,Sephia,1994,WAUWGB,6,Violet,TRUE
+1082,Land Rover,Defender,1997,3VWF17,4,Mauv,TRUE
+1083,Ram,1500,2012,WBAFU9,3,Aquamarine,TRUE
+1084,Subaru,Forester,2011,1GT01X,4,Crimson,TRUE
+1085,Maybach,Landaulet,2011,WBA5B1,4,Yellow,TRUE
+1086,Jeep,Grand Cherokee,2011,1G4HD5,3,Violet,TRUE
+1087,Ford,Aerostar,1993,WBA3C1,6,Green,TRUE
+1088,Nissan,NX,1992,1GD22X,3,Pink,TRUE
+1089,Kia,Soul,2010,WAUML5,5,Crimson,TRUE
+1090,Lexus,RX,2008,1FMHK7,3,Turquoise,TRUE
+1091,Ford,Escort,1990,YV440M,4,Blue,TRUE
+1092,Lexus,LX,2009,WAUAFA,6,Maroon,TRUE
+1093,Suzuki,Kizashi,2010,WBAKF3,4,Purple,TRUE
+1094,Ford,F150,2006,WAUEH5,3,Red,TRUE
+1095,Dodge,Dakota Club,2005,2G4GU5,6,Red,TRUE
+1096,Infiniti,I,2002,KNAFX6,5,Red,TRUE
+1097,Cadillac,XLR,2009,WAUVVA,3,Yellow,TRUE
+1098,Volvo,S60,2008,3VWKZ8,5,Blue,TRUE
+1099,Honda,Insight,2003,1C6RD7,6,Teal,TRUE
+1100,Pontiac,1000,1985,3N1BC1,4,Maroon,TRUE
+1101,Chrysler,300,2009,1B3CB8,3,Indigo,TRUE
+1102,Ford,Mustang,1993,1GKS1A,4,Pink,TRUE
+1103,Honda,Fit,2010,5YMGY0,3,Orange,TRUE
+1104,Cadillac,Seville,2003,WAUWFA,5,Crimson,TRUE
+1105,Pontiac,Grand Prix,1965,WBA3F9,3,Fuscia,TRUE
+1106,BMW,M6,2007,1G6AC5,4,Pink,TRUE
+1107,Ford,Five Hundred,2007,WA1CFA,3,Mauv,TRUE
+1108,Cadillac,Fleetwood,1994,5GAEV1,5,Orange,TRUE
+1109,Bentley,Brooklands,2010,1G6DS5,5,Yellow,TRUE
+1110,Mercury,Villager,1997,1C3CDZ,5,Turquoise,TRUE
+1111,Honda,S2000,2007,4T1BD1,3,Blue,TRUE
+1112,Dodge,Ram 2500,1998,1N6AF0,4,Pink,TRUE
+1113,Ford,F350,2010,2G61V5,5,Khaki,TRUE
+1114,Kia,Rio,2007,1FTWW3,5,Mauv,TRUE
+1115,Ford,Ranger,2006,JH4DC5,3,Fuscia,TRUE
+1116,Chevrolet,Tahoe,2010,5NPEB4,3,Puce,TRUE
+1117,Chevrolet,Impala,2010,WA1CMB,6,Blue,TRUE
+1118,Subaru,SVX,1994,1C3CDF,3,Puce,TRUE
+1119,Jaguar,XK Series,2001,3C4PDC,5,Mauv,TRUE
+1120,Toyota,Prius,2007,5FRYD4,5,Khaki,TRUE
+1121,Buick,Regal,1997,WAUSF9,4,Khaki,TRUE
+1122,Cadillac,Escalade EXT,2009,YV1960,4,Mauv,TRUE
+1123,Volvo,V50,2007,JN8AS5,3,Teal,TRUE
+1124,Land Rover,Defender,1994,1GD120,4,Indigo,TRUE
+1125,Mercury,Tracer,1996,5GAKRC,5,Green,TRUE
+1126,Dodge,Ram 2500,2006,1N6AA0,3,Maroon,TRUE
+1127,Saturn,L-Series,2002,19UUA8,4,Orange,TRUE
+1128,Ford,E250,2008,3VWKP7,6,Red,TRUE
+1129,Maserati,Biturbo,1984,JH4DC5,6,Indigo,TRUE
+1130,Kia,Rio,2009,WAUBH7,6,Teal,TRUE
+1131,Toyota,RAV4,2003,1YVHZ8,4,Green,TRUE
+1132,Oldsmobile,Alero,2001,1G4HG5,4,Fuscia,TRUE
+1133,Chevrolet,Astro,2000,YV1382,5,Puce,TRUE
+1134,Chevrolet,Equinox,2010,1N6AA0,3,Indigo,TRUE
+1135,GMC,Savana 3500,2012,1GKS1G,3,Aquamarine,TRUE
+1136,Volkswagen,Type 2,1988,JTDKN3,6,Red,TRUE
+1137,Chevrolet,Silverado 3500,2009,WA1BV7,5,Purple,TRUE
+1138,GMC,Safari,2002,1GYFK6,6,Goldenrod,TRUE
+1139,Saab,5-Sep,2000,1C3BC5,4,Blue,TRUE
+1140,Ford,Bronco,1993,JN1BJ0,6,Goldenrod,TRUE
+1141,Chrysler,Pacifica,2008,KNAFT4,6,Goldenrod,TRUE
+1142,Mitsubishi,Galant,1992,19UUA6,6,Maroon,TRUE
+1143,Jaguar,XF,2009,WAUDH9,5,Goldenrod,TRUE
+1144,Scion,xB,2009,1G6KF5,6,Crimson,TRUE
+1145,Chevrolet,Express 3500,2011,JN8AZ2,3,Turquoise,TRUE
+1146,Chevrolet,Corvette,1998,1GTN2T,5,Goldenrod,TRUE
+1147,BMW,7 Series,2002,SCBCR6,6,Green,TRUE
+1148,Toyota,Camry Hybrid,2011,WAUAT4,5,Turquoise,TRUE
+1149,Audi,A8,2007,2G4GV5,3,Blue,TRUE
+1150,Dodge,Ram 2500 Club,1999,1N4AL3,4,Pink,TRUE
+1151,Ford,Ranger,1994,WP0AB2,5,Teal,TRUE
+1152,Lexus,ES,2008,1VWAH7,5,Orange,TRUE
+1153,Mercedes-Benz,SL-Class,1995,1C3CC4,6,Indigo,TRUE
+1154,Subaru,Alcyone SVX,1994,3GYFNK,4,Violet,TRUE
+1155,Lexus,GX,2007,WAUBFA,6,Orange,TRUE
+1156,Land Rover,Freelander,2009,WAUED5,5,Fuscia,TRUE
+1157,GMC,Yukon XL 1500,2006,WAUKFB,5,Teal,TRUE
+1158,Chevrolet,Express 3500,2007,3D73M3,6,Fuscia,TRUE
+1159,Dodge,Charger,2008,WAULT5,4,Yellow,TRUE
+1160,Ford,Tempo,1994,1G6AY5,6,Teal,TRUE
+1161,Acura,SLX,1996,SCBFT7,5,Yellow,TRUE
+1162,Aston Martin,V8 Vantage,2009,SCBLF3,6,Maroon,TRUE
+1163,Buick,Skylark,1991,1N4CL2,5,Goldenrod,TRUE
+1164,Porsche,911,1995,WAUKFB,6,Pink,TRUE
+1165,Land Rover,Range Rover,2000,1G6DS8,3,Fuscia,TRUE
+1166,Hyundai,Sonata,2004,WAUPN9,5,Fuscia,TRUE
+1167,Lincoln,Town Car,2009,5TDDK3,4,Indigo,TRUE
+1168,Scion,tC,2008,WP0AB2,3,Fuscia,TRUE
+1169,Cadillac,DeVille,2005,WBA5M4,4,Aquamarine,TRUE
+1170,GMC,Sierra 2500,2003,1FTMF1,6,Red,TRUE
+1171,Kia,Amanti,2009,2C3CCA,5,Yellow,TRUE
+1172,Toyota,TundraMax,2007,WA1WMB,4,Teal,TRUE
+1173,Chevrolet,S10,1996,WDDGF5,3,Goldenrod,TRUE
+1174,Jaguar,XJ,2008,1N4AA5,6,Violet,TRUE
+1175,Volkswagen,Cabriolet,1995,JN1AZ4,6,Indigo,TRUE
+1176,Chevrolet,Corvette,2006,WAUVFA,6,Red,TRUE
+1177,Hyundai,Accent,2008,JN1BJ0,4,Yellow,TRUE
+1178,Chevrolet,Suburban 2500,1993,WAUEFA,6,Green,TRUE
+1179,Toyota,Celica,1994,19XFB2,3,Violet,TRUE
+1180,Land Rover,Discovery Series II,1999,2G4WD5,5,Purple,TRUE
+1181,Nissan,Rogue,2010,WAUGL7,4,Red,TRUE
+1182,Dodge,Neon,2001,JM1NC2,4,Crimson,TRUE
+1183,Dodge,Durango,2005,JTHBL1,4,Pink,TRUE
+1184,Land Rover,Range Rover,2001,1GD02Z,3,Fuscia,TRUE
+1185,GMC,Savana 1500,2003,5TDBCR,6,Blue,TRUE
+1186,Ford,Escort,1990,WBANV1,3,Maroon,TRUE
+1187,Mazda,626,1984,SALSF2,6,Yellow,TRUE
+1188,Suzuki,XL7,2006,WAUDT4,6,Green,TRUE
+1189,Jaguar,XJ Series,1994,WAURVA,5,Mauv,TRUE
+1190,Hyundai,Santa Fe,2006,SAJWA6,4,Aquamarine,TRUE
+1191,Toyota,Camry,1997,ML32A3,3,Green,TRUE
+1192,Chevrolet,Cobalt,2005,2G4GS5,4,Red,TRUE
+1193,Volkswagen,Jetta,1995,3LN6L2,6,Green,TRUE
+1194,Ford,F-Series,1996,JN1AZ4,3,Maroon,TRUE
+1195,Mitsubishi,Lancer,2012,KMHTC6,5,Indigo,TRUE
+1196,Dodge,Magnum,2005,WAUXD6,4,Red,TRUE
+1197,Mercedes-Benz,S-Class,1986,WP0AA2,4,Yellow,TRUE
+1198,Chrysler,Sebring,2007,1GYS4H,6,Violet,TRUE
+1199,Mercedes-Benz,CLK-Class,2001,WBAFR7,5,Turquoise,TRUE
+1200,Toyota,Tacoma,2005,5N1CR2,5,Pink,TRUE
+1201,Maserati,430,1990,1G6KD5,3,Mauv,TRUE
+1202,Audi,200,1990,SCFEBB,3,Indigo,TRUE
+1203,Ford,F350,2004,WBA3B3,5,Yellow,TRUE
+1204,Ford,Expedition,2005,WDDGF4,3,Yellow,TRUE
+1205,Nissan,NX,1992,WAUJT5,4,Pink,TRUE
+1206,Aston Martin,V8 Vantage,2009,1D4PT7,6,Blue,TRUE
+1207,Chevrolet,Equinox,2011,3N1CN7,5,Green,TRUE
+1208,Dodge,Durango,2001,WP0AB2,6,Yellow,TRUE
+1209,Suzuki,Esteem,1999,WBADN5,6,Mauv,TRUE
+1210,GMC,Sonoma,1994,3N1AB7,5,Teal,TRUE
+1211,Dodge,Dakota,2006,WBA3N3,6,Pink,TRUE
+1212,Volvo,S80,2011,WAUKFA,6,Violet,TRUE
+1213,Chevrolet,Equinox,2012,1G6DF5,3,Maroon,TRUE
+1214,Mercedes-Benz,SLK-Class,1997,1N4AB7,5,Green,TRUE
+1215,Mitsubishi,Pajero,2004,WAUEH9,5,Pink,TRUE
+1216,Chevrolet,TrailBlazer,2003,WBAEJ1,4,Green,TRUE
+1217,Chevrolet,K5 Blazer,1995,WAUKH7,6,Blue,TRUE
+1218,Subaru,Justy,1988,1GD02Z,6,Purple,TRUE
+1219,Dodge,Daytona,1993,WUADUA,6,Pink,TRUE
+1220,Mazda,MX-6,1994,SCFFDC,5,Turquoise,TRUE
+1221,Lexus,LS,1995,JN8AF5,6,Crimson,TRUE
+1222,Suzuki,Forenza,2008,JH4DC4,3,Pink,TRUE
+1223,Lexus,GS,2001,5BZAF0,6,Orange,TRUE
+1224,Jaguar,XF,2011,WAUJGB,3,Mauv,TRUE
+1225,Dodge,Dakota,2007,WAUUL7,5,Teal,TRUE
+1226,Chevrolet,Cavalier,2003,WUAAU3,6,Puce,TRUE
+1227,Land Rover,Range Rover,2011,WBA3A9,4,Indigo,TRUE
+1228,Toyota,TundraMax,2009,1NXBU4,3,Green,TRUE
+1229,Hyundai,Veracruz,2009,KNAFU5,6,Maroon,TRUE
+1230,Chevrolet,Suburban 2500,2007,1C3CDZ,4,Violet,TRUE
+1231,Volvo,V50,2009,KNALN4,5,Puce,TRUE
+1232,Lincoln,Town Car,1995,WBABS5,3,Khaki,TRUE
+1233,Porsche,968,1993,1G6AC5,3,Indigo,TRUE
+1234,Aston Martin,V8 Vantage S,2012,WBAFA5,4,Yellow,TRUE
+1235,Pontiac,Bonneville,1985,5UXXW5,4,Red,TRUE
+1236,Acura,MDX,2012,5NPDH4,6,Blue,TRUE
+1237,Porsche,928,1995,SALME1,6,Blue,TRUE
+1238,Hyundai,Entourage,2007,JH4DC5,6,Blue,TRUE
+1239,Infiniti,Q,1997,JN1AZ4,6,Teal,TRUE
+1240,Volvo,S40,2010,1C4RDJ,6,Purple,TRUE
+1241,GMC,Acadia,2010,JTDKN3,5,Turquoise,TRUE
+1242,Saab,900,1992,SALSF2,5,Green,TRUE
+1243,Toyota,Xtra,1993,1C4RDH,5,Pink,TRUE
+1244,Subaru,Impreza,2004,JN1AZ4,4,Purple,TRUE
+1245,Bentley,Continental GT,2012,WAUVT6,4,Indigo,TRUE
+1246,Mercedes-Benz,CLK-Class,2008,WAUDF9,5,Green,TRUE
+1247,Jeep,Cherokee,2000,1D4PT5,5,Purple,TRUE
+1248,Chrysler,Voyager,2002,JH4DB7,5,Crimson,TRUE
+1249,GMC,1500,1993,WBA3B3,5,Indigo,TRUE
+1250,Volvo,S40,2002,1G6AH1,5,Orange,TRUE
+1251,Audi,Cabriolet,1995,3D73Y4,5,Teal,TRUE
+1252,Plymouth,Prowler,1997,1N4AB7,4,Yellow,TRUE
+1253,Ford,Mustang,1991,2T2BK1,4,Aquamarine,TRUE
+1254,Dodge,Ram 2500 Club,1998,WA1AGA,5,Puce,TRUE
+1255,Toyota,Camry,2007,3GYFNJ,5,Pink,TRUE
+1256,Volkswagen,Rabbit,2009,1GYEC6,6,Teal,TRUE
+1257,Hyundai,Sonata,2008,3C6TD5,5,Purple,TRUE
+1258,Austin,Mini Cooper,1961,3GYFNF,4,Blue,TRUE
+1259,Acura,TL,2000,WBAAZ3,3,Goldenrod,TRUE
+1260,Chevrolet,Monte Carlo,2007,SALGS2,5,Teal,TRUE
+1261,MG,MGB,1977,WAUHGA,3,Green,TRUE
+1262,Land Rover,Range Rover Sport,2009,JTEBU5,4,Orange,TRUE
+1263,Buick,LeSabre,1985,5FPYK1,5,Violet,TRUE
+1264,Volkswagen,Golf,1985,KNADH4,5,Violet,TRUE
+1265,Pontiac,Grand Am,1992,1GD22Z,6,Yellow,TRUE
+1266,Volvo,C70,2004,JH4CU2,6,Blue,TRUE
+1267,Cadillac,Sixty Special,1993,1C4AJW,4,Blue,TRUE
+1268,GMC,Savana 2500,1998,5N1AN0,4,Mauv,TRUE
+1269,Mitsubishi,GTO,1995,WAUSG9,5,Crimson,TRUE
+1270,Chevrolet,Express 3500,2004,1G6DJ8,4,Orange,TRUE
+1271,Chevrolet,Corvette,2006,JTDKTU,4,Green,TRUE
+1272,Ford,E-Series,1987,2G4WD5,6,Yellow,TRUE
+1273,Chevrolet,S10,1993,YV1612,6,Crimson,TRUE
+1274,Audi,A4,2012,2FMGK5,6,Purple,TRUE
+1275,Pontiac,Firebird Formula,1999,YV126M,5,Red,TRUE
+1276,Nissan,Murano,2010,3D7TT2,6,Orange,TRUE
+1277,GMC,Sierra 1500,2001,5UXFG8,5,Puce,TRUE
+1278,Ford,Bronco II,1986,2G61L5,3,Indigo,TRUE
+1279,Chevrolet,Tracker,2002,1N4AB7,3,Teal,TRUE
+1280,Mitsubishi,Lancer,2010,1G6DZ6,3,Fuscia,TRUE
+1281,Mitsubishi,Pajero,1993,WBA3A9,5,Yellow,TRUE
+1282,Mercedes-Benz,W201,1985,JN1BJ0,4,Aquamarine,TRUE
+1283,Spyker,C8,2006,2D4RN4,4,Crimson,TRUE
+1284,Volvo,C70,2011,JTHBK1,4,Aquamarine,TRUE
+1285,Mercedes-Benz,SLK-Class,2012,1D7RW3,3,Puce,TRUE
+1286,Buick,Century,1990,3GYFK1,4,Turquoise,TRUE
+1287,Ford,Econoline E150,1996,YV440M,6,Mauv,TRUE
+1288,Hyundai,Tucson,2007,JA32U1,6,Indigo,TRUE
+1289,Lincoln,Continental Mark VII,1989,WBAWL1,4,Khaki,TRUE
+1290,Ford,Club Wagon,1997,19UYA4,4,Purple,TRUE
+1291,GMC,Yukon,2005,SCBFR7,5,Pink,TRUE
+1292,Ford,Crown Victoria,2007,3FAHP0,4,Teal,TRUE
+1293,Suzuki,Kizashi,2010,KNAGM4,6,Khaki,TRUE
+1294,Land Rover,Discovery Series II,2002,WA1CGC,6,Violet,TRUE
+1295,Ford,F-Series,1994,WAUDH9,4,Mauv,TRUE
+1296,Nissan,Sentra,2007,1GYUKD,3,Yellow,TRUE
+1297,Subaru,Impreza,2000,WBAPN7,4,Crimson,TRUE
+1298,Land Rover,Freelander,2011,3D7JV1,5,Blue,TRUE
+1299,Chrysler,Fifth Ave,1993,YV1902,6,Mauv,TRUE
+1300,Chevrolet,Malibu,2005,1FTSX2,3,Red,TRUE
+1301,Kia,Rio,2001,JHMFB4,5,Red,TRUE
+1302,Bentley,Brooklands,2009,2G4WD5,6,Teal,TRUE
+1303,BMW,325,2006,WA1UFB,4,Blue,TRUE
+1304,Pontiac,Firefly,1988,1G6DM5,4,Turquoise,TRUE
+1305,Toyota,4Runner,2000,WP0AB2,5,Red,TRUE
+1306,GMC,Envoy XL,2006,WAU4FB,3,Green,TRUE
+1307,Ford,Thunderbird,1965,1N6AF0,6,Fuscia,TRUE
+1308,Chevrolet,S10 Blazer,1994,SCFBF0,3,Indigo,TRUE
+1309,Chevrolet,Blazer,2003,3D4PH1,6,Yellow,TRUE
+1310,Infiniti,G,1992,3C6TD5,4,Red,TRUE
+1311,Chevrolet,Suburban 2500,2011,WAUSF9,5,Fuscia,TRUE
+1312,Nissan,Maxima,1999,KMHCT4,5,Aquamarine,TRUE
+1313,Dodge,D150 Club,1993,YV1672,4,Maroon,TRUE
+1314,BMW,3 Series,2000,WBABW3,3,Blue,TRUE
+1315,Honda,Prelude,1999,WAUDFA,4,Khaki,TRUE
+1316,Audi,Q5,2009,WAUKH7,5,Fuscia,TRUE
+1317,GMC,Sierra 2500,1999,WVGAV7,4,Turquoise,TRUE
+1318,Chevrolet,Corvette,1992,1G6DA1,5,Orange,TRUE
+1319,Mazda,Miata MX-5,2011,WAUEF9,4,Mauv,TRUE
+1320,Subaru,Forester,2012,SALGS2,6,Red,TRUE
+1321,Dodge,Dakota Club,1996,1G6DU6,6,Fuscia,TRUE
+1322,Hyundai,Genesis Coupe,2010,WAUJC5,4,Red,TRUE
+1323,Pontiac,Grand Am,1994,1N6AA0,5,Goldenrod,TRUE
+1324,Lexus,HS,2012,4T1BF1,5,Puce,TRUE
+1325,Mitsubishi,Galant,2004,1G6DM5,3,Aquamarine,TRUE
+1326,Bentley,Continental GTC,2010,WAUFFB,6,Yellow,TRUE
+1327,Mitsubishi,Montero,1993,WUAUUA,6,Puce,TRUE
+1328,Pontiac,G5,2008,5UXFA1,4,Red,TRUE
+1329,Geo,Storm,1992,1GD12Z,5,Crimson,TRUE
+1330,Lincoln,Navigator,2001,JTDKDT,3,Aquamarine,TRUE
+1331,Chevrolet,Cobalt SS,2008,1N6AF0,3,Fuscia,TRUE
+1332,Audi,80/90,1988,1FTSW3,6,Pink,TRUE
+1333,Mitsubishi,Outlander,2010,3D7JV1,5,Puce,TRUE
+1334,Mercedes-Benz,CL-Class,2006,19XFB4,5,Teal,TRUE
+1335,Ford,Courier,1986,JTEBU4,4,Blue,TRUE
+1336,Volvo,S70,1998,WBA3C1,3,Blue,TRUE
+1337,Mercury,Tracer,1998,WAUAH9,4,Mauv,TRUE
+1338,Mercury,Lynx,1985,WBA1F5,3,Yellow,TRUE
+1339,Mercury,Villager,1993,1GYEE5,3,Purple,TRUE
+1340,Dodge,Viper,2004,3GYVKN,4,Violet,TRUE
+1341,Volvo,V70,2007,KNAFK4,3,Crimson,TRUE
+1342,Mercedes-Benz,C-Class,2008,1GTN1T,6,Purple,TRUE
+1343,Maserati,Biturbo,1986,JTEBU5,4,Fuscia,TRUE
+1344,Chevrolet,Suburban 1500,1993,1G4GG5,4,Purple,TRUE
+1345,Dodge,Ram Wagon B250,1994,1FTEX1,5,Red,TRUE
+1346,Volvo,C70,2003,JN1CV6,4,Teal,TRUE
+1347,Ford,F-Series,2007,WBAPK5,4,Purple,TRUE
+1348,Toyota,Tundra,2001,3GYFNG,4,Violet,TRUE
+1349,Volkswagen,Jetta,1988,1GTC5L,4,Aquamarine,TRUE
+1350,Saab,5-Sep,2008,1GYFC3,3,Yellow,TRUE
+1351,BMW,X5,2013,KNDJT2,5,Aquamarine,TRUE
+1352,Dodge,Dakota,1995,3VW507,6,Fuscia,TRUE
+1353,Dodge,Ram Van 1500,1996,WAUVT5,3,Blue,TRUE
+1354,Kia,Sephia,1997,WAU3FA,4,Maroon,TRUE
+1355,Jeep,Grand Cherokee,1993,JH4KA9,3,Mauv,TRUE
+1356,Mercedes-Benz,500SL,1992,SCBBB7,4,Pink,TRUE
+1357,Mazda,Mazda5,2006,WBAUN9,5,Maroon,TRUE
+1358,Buick,Skylark,1992,JN8AE2,3,Crimson,TRUE
+1359,Dodge,Ram Van 3500,2000,1G6DA1,3,Mauv,TRUE
+1360,Dodge,Ram Van 2500,2001,1GYS3J,3,Mauv,TRUE
+1361,Honda,Civic,1995,WAUGFA,5,Purple,TRUE
+1362,Kia,Optima,2009,2G4WE5,6,Puce,TRUE
+1363,Mitsubishi,Lancer Evolution,2002,2C4RRG,6,Aquamarine,TRUE
+1364,Chevrolet,Express 3500,2005,JTMHY7,5,Puce,TRUE
+1365,GMC,Yukon,2005,WBA6B8,4,Violet,TRUE
+1366,Mercury,Capri,1991,WA1CGA,6,Purple,TRUE
+1367,Pontiac,LeMans,1992,1D7RB1,5,Mauv,TRUE
+1368,Volkswagen,Golf,2010,WAUMGB,6,Red,TRUE
+1369,Nissan,Xterra,2009,WAUEF7,3,Crimson,TRUE
+1370,Hyundai,Azera,2006,5N1AA0,6,Purple,TRUE
+1371,Lexus,IS F,2009,SCBCR6,6,Goldenrod,TRUE
+1372,Geo,Storm,1992,1G4HP5,4,Purple,TRUE
+1373,Toyota,Echo,2000,4T1BF1,5,Mauv,TRUE
+1374,Ford,Econoline E150,1993,4T3BA3,4,Red,TRUE
+1375,Ford,Escort,2004,WBAYA6,5,Aquamarine,TRUE
+1376,GMC,Safari,2000,1G6DG1,4,Puce,TRUE
+1377,Hyundai,Sonata,1995,1D7CE2,5,Blue,TRUE
+1378,Mercury,Mountaineer,2010,1N6AF0,5,Crimson,TRUE
+1379,Nissan,Altima,2002,2C4RDG,5,Indigo,TRUE
+1380,Dodge,Durango,2002,SCBDR3,3,Puce,TRUE
+1381,Nissan,Armada,2012,JH4KB1,6,Violet,TRUE
+1382,Acura,TSX,2008,2C4RDG,6,Green,TRUE
+1383,Jaguar,XJ,2009,WBAVL1,3,Red,TRUE
+1384,GMC,Safari,2004,JH4CL9,6,Blue,TRUE
+1385,Kia,Sephia,1999,4JGBF2,4,Pink,TRUE
+1386,Bentley,Arnage,2008,5TFCY5,4,Blue,TRUE
+1387,Mitsubishi,Mighty Max Macro,1992,3C63D2,4,Maroon,TRUE
+1388,Cadillac,Escalade,2007,3VW1K7,3,Crimson,TRUE
+1389,Ford,F150,1995,WBAWC7,3,Mauv,TRUE
+1390,Saturn,Ion,2004,JA4AS2,4,Indigo,TRUE
+1391,Chevrolet,Silverado 1500,2007,3VW467,6,Goldenrod,TRUE
+1392,Acura,TL,2004,JN8AZ2,6,Aquamarine,TRUE
+1393,BMW,7 Series,1999,2C3CA9,3,Green,TRUE
+1394,Toyota,Previa,1993,1C3BC5,5,Puce,TRUE
+1395,BMW,7 Series,1994,1G4GE5,4,Pink,TRUE
+1396,Jeep,Grand Cherokee,2012,1G6AB5,3,Maroon,TRUE
+1397,Ford,F-350 Super Duty,2006,JM3KE2,4,Turquoise,TRUE
+1398,GMC,Sonoma Club Coupe,1996,3VWJX7,3,Orange,TRUE
+1399,GMC,Sierra 1500,2013,5UMCL9,6,Maroon,TRUE
+1400,Cadillac,XLR-V,2009,3GYT4N,5,Pink,TRUE
+1401,Volkswagen,Jetta,1995,WAUVT6,3,Mauv,TRUE
+1402,Nissan,Altima,1997,5TDDCR,6,Goldenrod,TRUE
+1403,Ford,Club Wagon,1993,WP0CA2,3,Purple,TRUE
+1404,Saturn,L-Series,2001,JH4CU2,3,Aquamarine,TRUE
+1405,Chrysler,Fifth Ave,1993,WAUEF7,4,Violet,TRUE
+1406,Subaru,Forester,2003,2B3CJ5,4,Red,TRUE
+1407,Porsche,Panamera,2011,WBXPC9,4,Mauv,TRUE
+1408,Ford,Festiva,1992,5N1AN0,6,Aquamarine,TRUE
+1409,BMW,760,2004,2T2BK1,4,Orange,TRUE
+1410,Kia,Optima,2005,2G4WC5,6,Mauv,TRUE
+1411,Pontiac,Grand Am,1996,WAUFEA,6,Aquamarine,TRUE
+1412,GMC,Sierra 1500,2010,5FNYF3,5,Orange,TRUE
+1413,Volkswagen,Eurovan,1992,3D73Y3,3,Pink,TRUE
+1414,GMC,Sierra 3500,2007,1D7RV1,6,Pink,TRUE
+1415,Chrysler,PT Cruiser,2005,JN1AZ4,5,Indigo,TRUE
+1416,BMW,330,2006,2FMPK4,5,Purple,TRUE
+1417,Honda,Odyssey,2002,5UXZV4,5,Crimson,TRUE
+1418,Dodge,Ram Wagon B150,1993,SCBGU3,4,Puce,TRUE
+1419,Lexus,SC,2008,5UXWX7,6,Yellow,TRUE
+1420,Porsche,Boxster,2012,WAUFL4,6,Green,TRUE
+1421,Toyota,Corolla,1995,SALGR2,5,Pink,TRUE
+1422,GMC,Vandura 3500,1992,WAUVT5,5,Purple,TRUE
+1423,Dodge,D350,1993,YV140M,6,Blue,TRUE
+1424,Lincoln,Continental Mark VII,1991,JTEBU5,5,Puce,TRUE
+1425,Mitsubishi,Eclipse,2003,1D7RW3,4,Blue,TRUE
+1426,Buick,Riviera,1989,SALAC2,5,Maroon,TRUE
+1427,GMC,1500 Club Coupe,1996,WBSBL9,5,Violet,TRUE
+1428,Land Rover,Range Rover,1990,KMHEC4,6,Pink,TRUE
+1429,Ford,Thunderbird,1988,1N6BF0,3,Khaki,TRUE
+1430,Chevrolet,Astro,1999,1N6BF0,5,Khaki,TRUE
+1431,Jaguar,XK Series,2004,1G4HE5,3,Pink,TRUE
+1432,Toyota,Corolla,1997,WUAUUA,3,Khaki,TRUE
+1433,Ram,3500,2012,WBANB5,6,Orange,TRUE
+1434,Ford,Explorer,1998,WBAEW5,3,Violet,TRUE
+1435,GMC,Savana 3500,1997,WAUAF7,5,Blue,TRUE
+1436,Toyota,Supra,1994,1G6YV3,3,Orange,TRUE
+1437,Cadillac,Escalade EXT,2006,KMHGC4,6,Aquamarine,TRUE
+1438,Subaru,Justy,1992,1HGCR2,5,Fuscia,TRUE
+1439,GMC,3500 Club Coupe,1993,1G6DL8,4,Mauv,TRUE
+1440,Ford,E250,2004,KMHFC4,5,Orange,TRUE
+1441,Chevrolet,Express 3500,2006,1C3BC4,5,Purple,TRUE
+1442,Lincoln,Mark VIII,1998,1FA6P8,4,Orange,TRUE
+1443,Volkswagen,Cabriolet,2000,1GKS2G,6,Violet,TRUE
+1444,Chevrolet,Cruze,2012,5N1CR2,6,Goldenrod,TRUE
+1445,Ford,F150,2008,JH4CU2,6,Maroon,TRUE
+1446,Mercedes-Benz,E-Class,2009,1GYS4G,4,Yellow,TRUE
+1447,Mercedes-Benz,E-Class,2012,WAUPL6,3,Mauv,TRUE
+1448,Cadillac,CTS-V,2009,4T1BD1,5,Blue,TRUE
+1449,Mitsubishi,Montero,1995,1G6AG5,6,Crimson,TRUE
+1450,Cadillac,Eldorado,2002,WAUAT4,3,Purple,TRUE
+1451,Pontiac,Grand Prix,1996,3GYFNA,5,Khaki,TRUE
+1452,Mitsubishi,Eclipse,1990,1C4RDH,4,Orange,TRUE
+1453,Audi,A3,2010,1GYS4C,4,Purple,TRUE
+1454,Lexus,ES,2008,KL4CJF,5,Yellow,TRUE
+1455,Buick,LeSabre,1998,WDDNG7,3,Maroon,TRUE
+1456,Suzuki,Reno,2005,WA1CFB,6,Green,TRUE
+1457,Buick,Reatta,1988,1G6DC6,5,Fuscia,TRUE
+1458,BMW,Z3,1999,5UXKS4,6,Crimson,TRUE
+1459,Mazda,Mazda5,2006,KMHTC6,4,Teal,TRUE
+1460,Chevrolet,Corvette,1997,WA1DGB,4,Orange,TRUE
+1461,Dodge,Dakota Club,2005,5FRYD4,5,Violet,TRUE
+1462,Aston Martin,V8 Vantage,2006,WAUUL7,6,Aquamarine,TRUE
+1463,Maserati,Coupe,2005,JH4NA1,6,Pink,TRUE
+1464,Dodge,Ram 2500,2009,3LNHL2,5,Aquamarine,TRUE
+1465,Mercedes-Benz,S-Class,1987,5GADV3,3,Red,TRUE
+1466,Chevrolet,Avalanche,2009,5GAKVD,3,Mauv,TRUE
+1467,Volkswagen,Fox,1990,1C4RDH,4,Violet,TRUE
+1468,Mitsubishi,Outlander Sport,2011,1GYS4H,3,Violet,TRUE
+1469,Mitsubishi,GTO,1993,KNDMG4,5,Orange,TRUE
+1470,Nissan,Rogue,2011,1FBNE3,3,Khaki,TRUE
+1471,Isuzu,Rodeo,2004,5XYKT3,3,Crimson,TRUE
+1472,Kia,Sedona,2007,1FTSX2,6,Green,TRUE
+1473,Mitsubishi,Challenger,1998,1FTEX1,4,Teal,TRUE
+1474,Honda,Civic,2012,WAUBFA,6,Pink,TRUE
+1475,Porsche,928,1995,WAUHE9,4,Fuscia,TRUE
+1476,Dodge,Ram 2500,2009,1GYUKF,6,Mauv,TRUE
+1477,Honda,Odyssey,2000,JTHBE1,4,Yellow,TRUE
+1478,Toyota,Corolla,2001,WBANV1,3,Goldenrod,TRUE
+1479,Mazda,Protege,1992,19VDE1,5,Blue,TRUE
+1480,Bentley,Azure,2006,1G6DG8,3,Goldenrod,TRUE
+1481,Geo,Tracker,1996,3D73M3,6,Green,TRUE
+1482,GMC,Savana 3500,2008,YV4902,3,Pink,TRUE
+1483,Studebaker,Avanti,1964,WP0AA2,3,Indigo,TRUE
+1484,Ford,Ranger,2010,1G6YV3,6,Pink,TRUE
+1485,Volkswagen,Passat,1999,WA1LMA,6,Indigo,TRUE
+1486,GMC,Rally Wagon 3500,1992,2G4WB5,6,Puce,TRUE
+1487,Infiniti,Q,2003,1D4PU4,3,Green,TRUE
+1488,Morgan,Aero 8,2009,3GYVKN,5,Maroon,TRUE
+1489,Mitsubishi,Precis,1993,1FMCU5,6,Green,TRUE
+1490,Pontiac,6000,1983,1D4RD2,4,Puce,TRUE
+1491,Toyota,Echo,2005,SALFP2,5,Fuscia,TRUE
+1492,Toyota,T100,1996,1FBNE3,5,Violet,TRUE
+1493,Honda,Element,2004,1C4SDJ,6,Violet,TRUE
+1494,Toyota,Prius,2001,5N1AA0,6,Turquoise,TRUE
+1495,Austin,Mini,1959,5BZAF0,3,Crimson,TRUE
+1496,Volkswagen,GTI,1996,1GKS2F,3,Teal,TRUE
+1497,Dodge,Challenger,2008,SALVP2,5,Khaki,TRUE
+1498,Subaru,Forester,2007,WBAGN6,3,Crimson,TRUE
+1499,Audi,Cabriolet,1998,WAUFEA,5,Crimson,TRUE
+1500,Volvo,S80,2011,1GYUCB,4,Orange,TRUE
+1501,Volvo,V50,2009,WAUPL5,6,Violet,TRUE
+1502,Kia,Sephia,1998,3FADP4,6,Red,TRUE
+1503,Lincoln,Navigator,2012,3N1AB6,5,Pink,TRUE
+1504,Ford,E250,2012,WUARL4,5,Khaki,TRUE
+1505,Plymouth,Breeze,1997,WBAPN7,6,Blue,TRUE
+1506,Audi,S4,2006,5J6TF2,3,Puce,TRUE
+1507,Ford,Probe,1995,1G6DD6,6,Teal,TRUE
+1508,Chevrolet,3500,1995,WAUWG9,6,Turquoise,TRUE
+1509,Porsche,911,2001,5FPYK1,3,Yellow,TRUE
+1510,Mazda,B-Series,1995,WDDNG7,3,Red,TRUE
+1511,Mazda,Miata MX-5,2010,2G4WF5,3,Indigo,TRUE
+1512,Chrysler,Cirrus,1998,1C4RDJ,3,Puce,TRUE
+1513,Pontiac,Grand Prix,1982,JN8AZ1,5,Fuscia,TRUE
+1514,Mercedes-Benz,CL-Class,2011,WAUFFA,5,Goldenrod,TRUE
+1515,Ford,Mustang,1986,WBA8Z5,4,Goldenrod,TRUE
+1516,Toyota,Echo,2005,2C3CK6,4,Violet,TRUE
+1517,Volkswagen,Passat,1987,WAUAT4,3,Blue,TRUE
+1518,Pontiac,Bonneville,2002,WBALW7,3,Fuscia,TRUE
+1519,Hyundai,Santa Fe,2005,1FTEX1,6,Maroon,TRUE
+1520,Buick,Skylark,1988,WAUDFA,4,Aquamarine,TRUE
+1521,Mercedes-Benz,500SEL,1993,1FMCU5,3,Green,TRUE
+1522,Chrysler,New Yorker,1994,KMHHT6,5,Puce,TRUE
+1523,Suzuki,XL-7,2006,WBAFR1,3,Orange,TRUE
+1524,Acura,Legend,1992,1C4RDH,5,Violet,TRUE
+1525,Dodge,Stratus,1998,5N1AT2,4,Teal,TRUE
+1526,Land Rover,Freelander,2002,WBAVB7,4,Maroon,TRUE
+1527,Ferrari,599 GTB Fiorano,2009,SAJWA0,3,Puce,TRUE
+1528,Eagle,Talon,1998,WBANA5,5,Khaki,TRUE
+1529,Mercedes-Benz,SL-Class,1990,JTHBC1,6,Aquamarine,TRUE
+1530,Oldsmobile,98,1993,1C4RDH,3,Aquamarine,TRUE
+1531,GMC,Sierra 2500,2012,JN8AE2,5,Goldenrod,TRUE
+1532,Land Rover,Freelander,2004,1GYFC2,4,Puce,TRUE
+1533,Jaguar,X-Type,2002,5XYKT3,4,Crimson,TRUE
+1534,GMC,Yukon XL 1500,2011,JN1CV6,3,Pink,TRUE
+1535,GMC,Sonoma Club,1992,WBAGN6,4,Pink,TRUE
+1536,Kia,Sportage,1996,WBABN3,4,Turquoise,TRUE
+1537,Volvo,S40,2002,1N6AF0,3,Teal,TRUE
+1538,Audi,A3,2009,1N6AA0,6,Teal,TRUE
+1539,Saturn,L-Series,2002,WAU3VA,4,Goldenrod,TRUE
+1540,Daewoo,Leganza,2000,WVWGD7,3,Orange,TRUE
+1541,Chevrolet,Express 3500,2004,2C4RDG,6,Purple,TRUE
+1542,Pontiac,Grand Prix,2006,5UXWX9,3,Orange,TRUE
+1543,Saab,9-4X,2011,WAULC5,5,Puce,TRUE
+1544,Pontiac,Grand Prix,1978,1G6ET1,3,Khaki,TRUE
+1545,Toyota,Sienna,2001,SCBZB2,3,Teal,TRUE
+1546,Chevrolet,Corvette,1964,WAUMF9,5,Teal,TRUE
+1547,Mercury,Marquis,1986,WVGAV3,6,Goldenrod,TRUE
+1548,Chevrolet,Suburban 1500,2002,1VWAH7,5,Turquoise,TRUE
+1549,GMC,Rally Wagon 3500,1992,2C3CDY,5,Violet,TRUE
+1550,Mazda,Mazdaspeed 3,2009,5J6YH1,5,Maroon,TRUE
+1551,Ford,LTD Crown Victoria,1988,1G4HP5,3,Orange,TRUE
+1552,Mitsubishi,Diamante,1996,WBSWL9,4,Maroon,TRUE
+1553,Mitsubishi,Mirage,1995,SAJWA4,3,Mauv,TRUE
+1554,Toyota,Corolla,1998,5TDDK3,4,Aquamarine,TRUE
+1555,Pontiac,Sunfire,1996,JN8AZ2,3,Violet,TRUE
+1556,Mercedes-Benz,R-Class,2008,WBSDE9,5,Puce,TRUE
+1557,Chevrolet,Avalanche,2011,WVGAV3,5,Turquoise,TRUE
+1558,Dodge,Ram Van 3500,1997,WBANV1,5,Indigo,TRUE
+1559,Isuzu,Axiom,2002,1FTNS2,5,Fuscia,TRUE
+1560,Lincoln,MKT,2010,WAUHF7,4,Turquoise,TRUE
+1561,Lamborghini,Gallardo,2003,WUARU9,5,Puce,TRUE
+1562,Chrysler,LHS,1999,3VW8S7,6,Purple,TRUE
+1563,Lexus,ES,2009,KMHEC4,6,Purple,TRUE
+1564,Porsche,968,1994,1G6AC5,6,Indigo,TRUE
+1565,Volkswagen,GLI,2008,WAUGGA,5,Purple,TRUE
+1566,BMW,5 Series,2000,TRUWT2,6,Crimson,TRUE
+1567,Lamborghini,Diablo,1993,WBA3R5,4,Crimson,TRUE
+1568,Ford,Country,1967,1N6AD0,6,Purple,TRUE
+1569,Aston Martin,Vanquish S,2005,1N6AF0,5,Crimson,TRUE
+1570,Dodge,Grand Caravan,2009,WBASP0,4,Teal,TRUE
+1571,Saab,9000,1991,2T1BU4,5,Violet,TRUE
+1572,Nissan,Frontier,2009,JH4CU4,3,Puce,TRUE
+1573,BMW,X5,2009,WBAVT7,5,Red,TRUE
+1574,Chevrolet,Venture,2005,WAUFGA,6,Crimson,TRUE
+1575,Ford,Courier,1989,WA1LMA,6,Goldenrod,TRUE
+1576,Audi,S4,1992,3N1CN7,6,Purple,TRUE
+1577,Volkswagen,New Beetle,1999,2T1KE4,5,Khaki,TRUE
+1578,Chevrolet,Camaro,1992,1GD02Z,3,Mauv,TRUE
+1579,Toyota,Land Cruiser,1999,5XYZT3,5,Puce,TRUE
+1580,Audi,A4,1996,1G6AU5,3,Indigo,TRUE
+1581,Kia,Spectra,2009,1FTWX3,4,Red,TRUE
+1582,Chevrolet,SSR,2004,1HGCR2,5,Turquoise,TRUE
+1583,Audi,Quattro,1992,JN1CV6,4,Crimson,TRUE
+1584,Toyota,Celica,2003,5TDBY5,3,Indigo,TRUE
+1585,Infiniti,I,1999,WBA4B3,5,Purple,TRUE
+1586,GMC,2500,1996,1N6AA0,3,Khaki,TRUE
+1587,BMW,X6 M,2012,1J4RR4,3,Turquoise,TRUE
+1588,Jaguar,XK Series,2001,YV4902,5,Blue,TRUE
+1589,Nissan,Xterra,2000,WBABS3,4,Orange,TRUE
+1590,Lexus,IS-F,2009,WBAEU3,6,Pink,TRUE
+1591,Plymouth,Grand Voyager,1994,WBA3B9,5,Red,TRUE
+1592,Ford,Bronco,1995,KL4CJB,5,Puce,TRUE
+1593,Oldsmobile,98,1994,WA1EV7,4,Yellow,TRUE
+1594,Nissan,240SX,1994,JN1AZ4,5,Teal,TRUE
+1595,Chevrolet,Express,2011,1N6AD0,4,Aquamarine,TRUE
+1596,Subaru,Legacy,2010,WAUVFA,5,Purple,TRUE
+1597,Honda,Passport,1994,JH4NA2,6,Violet,TRUE
+1598,Cadillac,CTS,2005,WAUVC6,3,Orange,TRUE
+1599,Pontiac,Grand Prix,1976,4T1BF1,6,Mauv,TRUE
+1600,Land Rover,Discovery,2006,1GYS4B,4,Aquamarine,TRUE
+1601,Nissan,Altima,2006,WBAYE0,5,Orange,TRUE
+1602,Dodge,Ram 1500,1998,WVGAV7,5,Teal,TRUE
+1603,Mitsubishi,Mighty Max,1995,KMHFC4,6,Pink,TRUE
+1604,Chevrolet,3500,1999,1G6AM5,6,Crimson,TRUE
+1605,Bentley,Mulsanne,2012,1GT01X,3,Red,TRUE
+1606,Ferrari,F430,2008,WAUDH9,3,Pink,TRUE
+1607,Toyota,Camry,2010,WAUDV7,3,Indigo,TRUE
+1608,Kia,Optima,2011,WBA3B3,5,Blue,TRUE
+1609,GMC,Safari,1993,WBADT3,5,Crimson,TRUE
+1610,Chevrolet,Impala,2002,1N6AA0,4,Violet,TRUE
+1611,Subaru,SVX,1996,5YMGZ0,4,Goldenrod,TRUE
+1612,Buick,Enclave,2010,WVGAV7,5,Indigo,TRUE
+1613,Tesla,Roadster,2011,WUARU9,3,Maroon,TRUE
+1614,Volvo,C70,2011,ZFF60F,5,Yellow,TRUE
+1615,Chevrolet,Lumina APV,1992,JHMZF1,6,Green,TRUE
+1616,Volkswagen,Golf,1984,2B3CL5,6,Puce,TRUE
+1617,Chevrolet,S10,2002,3D73M4,4,Violet,TRUE
+1618,Jaguar,XJ Series,2000,WAURVA,4,Violet,TRUE
+1619,GMC,Envoy,2003,WAU3GB,6,Fuscia,TRUE
+1620,Lamborghini,Diablo,1995,WAUHGA,5,Goldenrod,TRUE
+1621,Mazda,B-Series Plus,1992,SAJWA0,5,Red,TRUE
+1622,Suzuki,Swift,1991,WBAEH7,6,Purple,TRUE
+1623,Chevrolet,Corvette,1999,WBANU5,5,Fuscia,TRUE
+1624,Land Rover,Range Rover,1990,WAUCFA,5,Yellow,TRUE
+1625,Pontiac,LeMans,1989,WA1LYB,3,Fuscia,TRUE
+1626,Toyota,Previa,1995,JA4AS2,5,Teal,TRUE
+1627,Audi,A8,2004,1G4HR5,5,Purple,TRUE
+1628,Hyundai,Azera,2009,1G6DM5,3,Khaki,TRUE
+1629,Lincoln,Navigator,2009,2G4GR5,6,Indigo,TRUE
+1630,Lexus,RX,2005,JM1DE1,5,Indigo,TRUE
+1631,Lincoln,Town Car,2007,WAUDG7,4,Aquamarine,TRUE
+1632,Mazda,Miata MX-5,2006,JN8AZ1,4,Indigo,TRUE
+1633,Dodge,Viper,1997,WP0AA2,5,Turquoise,TRUE
+1634,Ford,Flex,2011,WAUFFA,5,Crimson,TRUE
+1635,Audi,A8,2000,YV1672,6,Aquamarine,TRUE
+1636,Maybach,62,2009,3VW217,5,Khaki,TRUE
+1637,Kia,Sportage,1999,1D7RV1,4,Orange,TRUE
+1638,Mitsubishi,Chariot,1986,WAUVC6,5,Red,TRUE
+1639,Ford,Explorer,2012,WAUVFA,4,Turquoise,TRUE
+1640,Mazda,626,1999,WAUDT7,4,Yellow,TRUE
+1641,Nissan,Cube,2011,3D7TP2,5,Maroon,TRUE
+1642,Mitsubishi,Chariot,1986,WVWAA7,6,Crimson,TRUE
+1643,Nissan,350Z,2006,1C4RJE,3,Violet,TRUE
+1644,Buick,Lucerne,2007,5TFBY5,3,Red,TRUE
+1645,Cadillac,Sixty Special,1993,5TDBKR,3,Teal,TRUE
+1646,Mazda,MX-5,1990,3GYFNK,5,Purple,TRUE
+1647,Pontiac,Grand Prix,1995,WBASN2,5,Orange,TRUE
+1648,Pontiac,Bonneville,1988,1GYS4C,6,Violet,TRUE
+1649,Suzuki,Grand Vitara,2004,SCFFDA,5,Crimson,TRUE
+1650,Honda,CR-V,2011,1G6KD5,3,Maroon,TRUE
+1651,Subaru,Legacy,1998,SAJWA1,4,Violet,TRUE
+1652,Kia,Sportage,1997,WAULD6,3,Pink,TRUE
+1653,Volvo,C70,2012,WBAYP1,3,Turquoise,TRUE
+1654,BMW,X6,2009,WAUHGA,4,Teal,TRUE
+1655,Mercury,Montego,2007,1G6KD5,5,Orange,TRUE
+1656,Cadillac,Eldorado,1999,WAUGL7,4,Puce,TRUE
+1657,Volvo,XC70,2011,1C4AJW,4,Purple,TRUE
+1658,Mazda,MX-5,1991,WAUEG9,3,Mauv,TRUE
+1659,Honda,Pilot,2004,1FMJU2,4,Green,TRUE
+1660,McLaren,MP4-12C,2012,WA1YL5,5,Red,TRUE
+1661,GMC,Sierra 1500,2008,WBADR6,3,Aquamarine,TRUE
+1662,Mercedes-Benz,SLS-Class,2012,SCBCR7,4,Maroon,TRUE
+1663,Infiniti,G35,2004,1GKS1H,5,Aquamarine,TRUE
+1664,Chrysler,Concorde,2001,1G6DL5,3,Turquoise,TRUE
+1665,Dodge,Shadow,1994,5TDBW5,5,Turquoise,TRUE
+1666,Lexus,GS,1999,WBAVT7,3,Crimson,TRUE
+1667,Ford,E350,2004,3C63DP,5,Green,TRUE
+1668,BMW,X5,2009,WAUEF7,4,Indigo,TRUE
+1669,Maserati,Biturbo,1984,5N1AA0,5,Goldenrod,TRUE
+1670,Ford,Thunderbird,1986,JTHBF1,5,Blue,TRUE
+1671,Infiniti,FX,2003,1G6AC5,3,Crimson,TRUE
+1672,Audi,A8,2008,JTHHP5,4,Teal,TRUE
+1673,Toyota,Highlander,2004,KNADM4,3,Yellow,TRUE
+1674,Volkswagen,CC,2011,1N6AA0,4,Puce,TRUE
+1675,Jaguar,XK Series,2013,WDDGF4,6,Fuscia,TRUE
+1676,Kia,Sedona,2002,WAUVC6,3,Aquamarine,TRUE
+1677,Audi,R8,2011,3C6TD4,3,Goldenrod,TRUE
+1678,Toyota,Previa,1995,WBAUL7,3,Violet,TRUE
+1679,Hyundai,Veloster,2013,KMHGN4,5,Mauv,TRUE
+1680,Cadillac,Escalade ESV,2006,1D7RW2,3,Pink,TRUE
+1681,Hummer,H3T,2010,WAUEF9,6,Indigo,TRUE
+1682,Hyundai,Sonata,2007,1GYFK2,6,Goldenrod,TRUE
+1683,Pontiac,Grand Prix,1974,WBALM5,5,Pink,TRUE
+1684,Mitsubishi,Chariot,1993,WAUEKA,4,Pink,TRUE
+1685,Lamborghini,Aventador,2012,WBA3C3,6,Maroon,TRUE
+1686,Volvo,C70,2008,1GYFK4,3,Aquamarine,TRUE
+1687,Volkswagen,Jetta,1992,1GYS4A,3,Purple,TRUE
+1688,Mitsubishi,Truck,1990,1N6AA0,5,Crimson,TRUE
+1689,Lexus,GX,2003,YV1672,3,Turquoise,TRUE
+1690,Mazda,929,1995,WAUDH9,6,Pink,TRUE
+1691,Lincoln,Aviator,2003,5N1AA0,3,Orange,TRUE
+1692,Volkswagen,Fox,1990,1N6AA0,5,Goldenrod,TRUE
+1693,Toyota,Avalon,1996,JH4DC5,3,Red,TRUE
+1694,Lincoln,Continental Mark VII,1989,YV1902,4,Pink,TRUE
+1695,Isuzu,Trooper,2000,1G4GB5,5,Orange,TRUE
+1696,Volkswagen,Scirocco,1988,1G4GE5,3,Red,TRUE
+1697,Ford,Mustang,1990,WA1DKA,5,Yellow,TRUE
+1698,Audi,TT,2008,1D4PU7,5,Indigo,TRUE
+1699,Mazda,MX-5,2008,JTHBE1,6,Orange,TRUE
+1700,Acura,MDX,2008,3VW4A7,6,Crimson,TRUE
+1701,Oldsmobile,Aurora,1997,WAUBT4,6,Aquamarine,TRUE
+1702,Chevrolet,S10,1993,1G6YV3,6,Green,TRUE
+1703,Ford,Thunderbird,2006,WAUGL7,6,Orange,TRUE
+1704,Mazda,B-Series Plus,2000,1GYS4U,6,Maroon,TRUE
+1705,Saturn,S-Series,1995,1G4HJ5,3,Indigo,TRUE
+1706,Mitsubishi,Diamante,1997,WA1CGB,4,Red,TRUE
+1707,Audi,A8,1999,WBAAX1,4,Indigo,TRUE
+1708,Subaru,Outback Sport,2002,SCBBR5,4,Maroon,TRUE
+1709,Volkswagen,Golf,1994,1G6DJ8,3,Green,TRUE
+1710,Chrysler,LHS,1997,2C3CDZ,3,Aquamarine,TRUE
+1711,Honda,Civic Si,2003,1HGCP2,3,Maroon,TRUE
+1712,Holden,VS Commodore,1996,1G6KD5,3,Crimson,TRUE
+1713,Lotus,Elan,1994,3VW1K7,5,Khaki,TRUE
+1714,Pontiac,Firebird,1998,1N6AF0,5,Goldenrod,TRUE
+1715,Infiniti,QX,2008,3C63DP,4,Crimson,TRUE
+1716,Ford,Econoline E150,1998,WAUEKA,5,Indigo,TRUE
+1717,Panoz,Esperante,2005,WBA3D3,4,Purple,TRUE
+1718,Volkswagen,Golf,1988,2D4RN3,4,Green,TRUE
+1719,Chevrolet,S10 Blazer,1993,WAUJT6,3,Indigo,TRUE
+1720,Chevrolet,TrailBlazer,2004,1GKUKF,3,Khaki,TRUE
+1721,Ford,Freestar,2004,3C6JD7,4,Red,TRUE
+1722,Pontiac,Grand Prix,1985,2B3CL3,3,Aquamarine,TRUE
+1723,BMW,Z3,2002,WBAYF8,5,Indigo,TRUE
+1724,Ford,Econoline E150,1995,1GD02Z,3,Green,TRUE
+1725,Maserati,GranTurismo,2010,1G6DS5,3,Blue,TRUE
+1726,Lexus,GS,2007,WAUHE9,6,Yellow,TRUE
+1727,Audi,4000CS Quattro,1987,5UXZV4,5,Teal,TRUE
+1728,Mitsubishi,Truck,1993,KMHFC4,4,Indigo,TRUE
+1729,GMC,Savana 3500,2009,WBAPH7,5,Puce,TRUE
+1730,Chevrolet,Cavalier,1999,YV1622,5,Teal,TRUE
+1731,Jeep,Compass,2009,1FBNE3,4,Teal,TRUE
+1732,Ford,Ranger,1984,1G4GA5,3,Yellow,TRUE
+1733,Isuzu,Rodeo,2002,1G6DM5,4,Khaki,TRUE
+1734,Honda,Accord,2011,1G4HR5,3,Violet,TRUE
+1735,Lexus,GS,2002,YV4902,5,Blue,TRUE
+1736,BMW,7 Series,1994,WA1LMA,3,Yellow,TRUE
+1737,Chevrolet,Malibu,2003,YV1952,4,Red,TRUE
+1738,Audi,A4,1999,ZFBCFA,6,Aquamarine,TRUE
+1739,Cadillac,XLR,2004,1D7RB1,5,Crimson,TRUE
+1740,Lincoln,Town Car,2009,3D73M3,6,Fuscia,TRUE
+1741,Infiniti,Q,1995,WAUDF9,5,Yellow,TRUE
+1742,Land Rover,Range Rover,1996,JH4DC5,4,Maroon,TRUE
+1743,Pontiac,Montana,2004,SCFEFB,5,Goldenrod,TRUE
+1744,Dodge,Dynasty,1992,JM1GJ1,5,Aquamarine,TRUE
+1745,Pontiac,Sunfire,2001,1FADP3,6,Crimson,TRUE
+1746,Audi,4000,1987,TRUSC2,5,Aquamarine,TRUE
+1747,Chevrolet,Suburban 2500,2001,1FTWX3,4,Orange,TRUE
+1748,Infiniti,QX,2008,19UUA5,3,Crimson,TRUE
+1749,Oldsmobile,Cutlass Supreme,1995,4T1BK3,4,Blue,TRUE
+1750,Pontiac,Grand Prix,1997,SCFAB0,3,Maroon,TRUE
+1751,Volkswagen,New Beetle,1998,JN8BS1,6,Indigo,TRUE
+1752,Mercedes-Benz,E-Class,2004,WAUJFA,5,Purple,TRUE
+1753,Saturn,VUE,2003,2G4GV5,5,Turquoise,TRUE
+1754,Land Rover,Freelander,2002,WP1AB2,6,Green,TRUE
+1755,Nissan,Armada,2011,19VDE3,3,Puce,TRUE
+1756,Ford,Expedition,2010,JH4CU2,3,Crimson,TRUE
+1757,Suzuki,XL-7,2006,SALFP2,4,Aquamarine,TRUE
+1758,GMC,Sonoma,2003,WAUEF7,5,Indigo,TRUE
+1759,Nissan,Frontier,2002,KNADH5,6,Indigo,TRUE
+1760,Nissan,Xterra,2006,1B3CB8,3,Purple,TRUE
+1761,Chevrolet,Silverado 1500,2004,WAU3GA,5,Puce,TRUE
+1762,Mercedes-Benz,SLS AMG,2012,WAUAFA,4,Maroon,TRUE
+1763,Pontiac,Sunfire,2000,3D7TP2,6,Puce,TRUE
+1764,MINI,Cooper Clubman,2012,3N6CM0,4,Teal,TRUE
+1765,Chrysler,Crossfire,2005,WAUKF7,4,Mauv,TRUE
+1766,Subaru,Legacy,2002,JN1AZ4,6,Mauv,TRUE
+1767,Chevrolet,3500,1996,ZHWGU6,3,Orange,TRUE
+1768,Lexus,LS,1992,WBAXA5,6,Indigo,TRUE
+1769,Volvo,V70,2001,JTEBU4,5,Khaki,TRUE
+1770,Mercedes-Benz,SL-Class,1997,JH4KB1,6,Aquamarine,TRUE
+1771,Hyundai,Sonata,2006,WBADX7,5,Yellow,TRUE
+1772,Mercury,Sable,1996,3GYFNA,3,Orange,TRUE
+1773,Honda,S2000,2001,1FMJK1,4,Fuscia,TRUE
+1774,Pontiac,Grand Prix,1965,WAUXL6,4,Crimson,TRUE
+1775,Oldsmobile,Intrigue,2001,1GYFC6,6,Crimson,TRUE
+1776,Volkswagen,CC,2011,4T1BF3,4,Goldenrod,TRUE
+1777,Saab,900,1993,1G4HE5,4,Violet,TRUE
+1778,Suzuki,Equator,2010,WAUFFA,6,Crimson,TRUE
+1779,Isuzu,i-290,2008,WAUDF7,3,Crimson,TRUE
+1780,Chevrolet,Blazer,2003,JTDKN3,6,Puce,TRUE
+1781,Ford,Mustang,2009,1G4HR5,5,Goldenrod,TRUE
+1782,GMC,Yukon XL 1500,2008,WAUEF7,5,Fuscia,TRUE
+1783,Chrysler,LeBaron,1992,3C4PDD,4,Fuscia,TRUE
+1784,Volkswagen,Jetta,2012,19UUA8,6,Aquamarine,TRUE
+1785,BMW,8 Series,1996,1G6DN5,4,Violet,TRUE
+1786,Mitsubishi,Montero,1993,WBA3A5,3,Puce,TRUE
+1787,Ford,Explorer,2002,1FTEX1,4,Mauv,TRUE
+1788,GMC,Sonoma,1993,WBANU5,4,Aquamarine,TRUE
+1789,Volvo,850,1995,1C3CDF,3,Aquamarine,TRUE
+1790,Chevrolet,Silverado 2500,2012,JTEBU5,4,Teal,TRUE
+1791,Volvo,XC70,2004,WAUML6,6,Aquamarine,TRUE
+1792,Buick,Park Avenue,2003,WBAVT7,4,Violet,TRUE
+1793,Toyota,Avalon,1999,19UUA6,5,Maroon,TRUE
+1794,GMC,Vandura 1500,1993,3GYT4L,5,Violet,TRUE
+1795,Cadillac,DTS,2007,WAUVFA,3,Mauv,TRUE
+1796,Hyundai,Tiburon,2004,1G6DL5,6,Maroon,TRUE
+1797,Dodge,Ram Van 3500,1999,SAJWA1,6,Green,TRUE
+1798,Honda,Element,2005,3C3CFF,3,Aquamarine,TRUE
+1799,Dodge,Caravan,1998,1FMJK1,4,Fuscia,TRUE
+1800,Ford,Windstar,2001,WAUJC6,4,Pink,TRUE
+1801,Plymouth,Neon,1999,JH4DC2,4,Fuscia,TRUE
+1802,Ford,Mustang,1980,WVGEF9,4,Goldenrod,TRUE
+1803,Mercedes-Benz,S-Class,2011,2C3CA5,3,Orange,TRUE
+1804,Mazda,MX-5,2012,WBAAV3,5,Turquoise,TRUE
+1805,Chrysler,Cirrus,1999,5FRYD4,6,Khaki,TRUE
+1806,Nissan,Frontier,2005,KNAGM4,5,Mauv,TRUE
+1807,Ford,Bronco,1988,JN1BJ0,5,Pink,TRUE
+1808,Oldsmobile,Cutlass,1998,WBAWB3,6,Teal,TRUE
+1809,Subaru,Impreza,2006,1G4GG5,4,Violet,TRUE
+1810,Mercedes-Benz,500SEL,1993,WAULC5,4,Maroon,TRUE
+1811,Chevrolet,1500,1994,5XYKT3,6,Blue,TRUE
+1812,Ford,E150,2008,1G6AH5,5,Aquamarine,TRUE
+1813,Honda,CR-V,2006,WA1MMA,4,Puce,TRUE
+1814,Cadillac,SRX,2012,1C3CDZ,3,Puce,TRUE
+1815,Mercury,Mariner,2011,1FTEX1,6,Maroon,TRUE
+1816,Volvo,S60,2002,WBAKC8,5,Khaki,TRUE
+1817,Buick,Century,1995,5UXZV4,4,Crimson,TRUE
+1818,Cadillac,Seville,2004,WAUML4,4,Turquoise,TRUE
+1819,Pontiac,1000,1985,19XFB4,6,Aquamarine,TRUE
+1820,Plymouth,Colt,1993,JH4CU2,4,Yellow,TRUE
+1821,BMW,Z8,2002,WBAUN9,4,Maroon,TRUE
+1822,Infiniti,QX,1997,WA1DVA,6,Puce,TRUE
+1823,Land Rover,Discovery,2002,WAUXL6,4,Yellow,TRUE
+1824,Acura,RL,2001,1GYS4A,3,Blue,TRUE
+1825,Ram,3500,2012,1N6AF0,3,Puce,TRUE
+1826,Hyundai,Azera,2008,3FAHP0,5,Green,TRUE
+1827,Honda,Accord Crosstour,2011,WBA3N7,3,Red,TRUE
+1828,Nissan,Maxima,1993,WBAET3,4,Turquoise,TRUE
+1829,Scion,xB,2004,WBAWC7,4,Red,TRUE
+1830,Pontiac,6000,1988,WA1AV7,6,Purple,TRUE
+1831,Audi,RS6,2003,WBAFR9,5,Orange,TRUE
+1832,Cadillac,Escalade ESV,2009,1N6BF0,3,Violet,TRUE
+1833,Mercedes-Benz,GLK-Class,2012,WA1DGA,5,Turquoise,TRUE
+1834,Jaguar,XJ Series,2003,1YVHZ8,6,Violet,TRUE
+1835,Volkswagen,Passat,1999,1FMJU1,6,Turquoise,TRUE
+1836,Plymouth,Neon,1998,1G6AA5,3,Turquoise,TRUE
+1837,BMW,325,2004,1GKS1C,4,Orange,TRUE
+1838,Subaru,Justy,1991,WA1EY9,6,Fuscia,TRUE
+1839,Volkswagen,Golf,2011,WAUSH7,5,Pink,TRUE
+1840,GMC,Sonoma Club Coupe,1995,WBANE7,4,Goldenrod,TRUE
+1841,Acura,RL,2008,WBSWL9,5,Blue,TRUE
+1842,Lamborghini,Gallardo,2010,JN1BJ0,6,Orange,TRUE
+1843,Isuzu,i-370,2008,WAUUL5,6,Fuscia,TRUE
+1844,Ford,Bronco,1987,1FMNE1,6,Green,TRUE
+1845,Porsche,Boxster,2009,1GYS4M,4,Khaki,TRUE
+1846,Oldsmobile,Intrigue,2000,1G6AH5,6,Khaki,TRUE
+1847,Hyundai,Excel,1994,1G6AT5,5,Mauv,TRUE
+1848,Ford,F250,2011,WAUEF7,6,Blue,TRUE
+1849,Toyota,T100,1993,19VDE1,4,Indigo,TRUE
+1850,Mazda,Protege,1997,1G6DG5,4,Turquoise,TRUE
+1851,Ford,F250,1995,3D7TT2,6,Purple,TRUE
+1852,Lamborghini,Countach,1987,1G6DA5,3,Turquoise,TRUE
+1853,BMW,1 Series,2011,3D73Y4,5,Indigo,TRUE
+1854,Ford,Edge,2007,1D7RW3,5,Blue,TRUE
+1855,Plymouth,Roadrunner,1969,KNDMG4,3,Blue,TRUE
+1856,Volvo,XC70,2007,2B3CA3,4,Khaki,TRUE
+1857,Isuzu,Oasis,1998,JN1CV6,6,Maroon,TRUE
+1858,GMC,Vandura 1500,1994,1N4AL3,4,Violet,TRUE
+1859,Hyundai,Santa Fe,2004,1D7RE5,5,Maroon,TRUE
+1860,Mitsubishi,Lancer,2010,JN1BJ0,3,Crimson,TRUE
+1861,Mazda,MX-5,1991,3D73M4,3,Teal,TRUE
+1862,Dodge,Ram 2500 Club,1998,WDDEJ7,4,Indigo,TRUE
+1863,Volkswagen,New Beetle,2009,1FTEX1,4,Indigo,TRUE
+1864,Mitsubishi,RVR,1995,2G61W5,3,Green,TRUE
+1865,Lamborghini,Countach,1987,1GD311,5,Violet,TRUE
+1866,Chevrolet,S10,1996,1N6AD0,6,Pink,TRUE
+1867,Ford,F-Series,2009,1D7RW2,4,Puce,TRUE
+1868,Ford,F350,2003,SAJWA0,5,Mauv,TRUE
+1869,Chevrolet,Cavalier,2002,19UUA6,3,Turquoise,TRUE
+1870,Kia,Optima,2004,WDDGF4,5,Maroon,TRUE
+1871,Nissan,350Z,2003,1G6DG8,6,Orange,TRUE
+1872,Mercedes-Benz,G-Class,2005,WAUHF6,3,Goldenrod,TRUE
+1873,Suzuki,Forenza,2007,2T1KU4,6,Mauv,TRUE
+1874,Dodge,Ram 3500,2004,JTDZN3,6,Crimson,TRUE
+1875,Cadillac,Seville,1995,5N1AN0,3,Fuscia,TRUE
+1876,GMC,Savana 2500,1998,1G6AP5,3,Crimson,TRUE
+1877,Chevrolet,Cobalt SS,2007,3D73M3,3,Purple,TRUE
+1878,Lexus,GS,2000,JA32U2,6,Aquamarine,TRUE
+1879,Ford,Edge,2010,1GD12Y,5,Teal,TRUE
+1880,Infiniti,Q,2005,WAUHFA,4,Blue,TRUE
+1881,Subaru,Legacy,2012,JN8AF5,5,Red,TRUE
+1882,Acura,Legend,1995,5FPYK1,4,Indigo,TRUE
+1883,Dodge,Ram 2500,2002,WVGAV7,3,Violet,TRUE
+1884,Mazda,MPV,1992,SAJWA4,4,Green,TRUE
+1885,Volkswagen,Phaeton,2006,1G6DM8,5,Goldenrod,TRUE
+1886,Audi,A6,2012,WA1LMA,3,Violet,TRUE
+1887,Mercedes-Benz,M-Class,2011,SCBCR6,5,Aquamarine,TRUE
+1888,Jaguar,XJ Series,2000,2T1BUR,3,Red,TRUE
+1889,Subaru,Outback,2008,WBASP4,5,Aquamarine,TRUE
+1890,Honda,Element,2007,WAUKH7,5,Teal,TRUE
+1891,Bentley,Continental GTC,2012,WAUKFB,3,Goldenrod,TRUE
+1892,Dodge,Ram Van B250,1994,WAUDK7,5,Puce,TRUE
+1893,Aston Martin,DB9,2007,1GYS3J,3,Khaki,TRUE
+1894,Pontiac,Grand Am,2004,3C4PDD,5,Orange,TRUE
+1895,Rolls-Royce,Phantom,2011,WAUYP6,4,Yellow,TRUE
+1896,Buick,Park Avenue,1998,3GYFNF,5,Violet,TRUE
+1897,Mitsubishi,Truck,1990,WVWED7,4,Yellow,TRUE
+1898,Eagle,Premier,1992,1GYFK1,6,Goldenrod,TRUE
+1899,Acura,TL,1999,1GYFK4,5,Teal,TRUE
+1900,Ford,Econoline E350,1995,1D4PT6,6,Puce,TRUE
+1901,Dodge,Caravan,2001,WAUXL6,5,Khaki,TRUE
+1902,Lexus,ES,2007,WAUMR4,3,Mauv,TRUE
+1903,BMW,545,2004,1GD22Z,4,Mauv,TRUE
+1904,Lexus,GS,2013,2C3CDX,3,Goldenrod,TRUE
+1905,Dodge,D250,1992,WA1LFA,6,Goldenrod,TRUE
+1906,Buick,Roadmaster,1993,WAUAKA,4,Maroon,TRUE
+1907,Plymouth,Voyager,1998,SALVP2,4,Aquamarine,TRUE
+1908,Mercedes-Benz,S-Class,2011,1C3CCB,4,Mauv,TRUE
+1909,GMC,Sierra,2008,WVWED7,3,Yellow,TRUE
+1910,GMC,Envoy XL,2004,JM3TB2,3,Turquoise,TRUE
+1911,Toyota,Avalon,2008,JM1NC2,6,Pink,TRUE
+1912,BMW,745,2004,JM1BL1,3,Green,TRUE
+1913,Cadillac,CTS,2003,2D4RN6,4,Violet,TRUE
+1914,Dodge,Ramcharger,1992,1GYS3D,4,Yellow,TRUE
+1915,Saturn,L-Series,2000,JN1CV6,5,Khaki,TRUE
+1916,Mercedes-Benz,S-Class,1990,JTDKN3,3,Pink,TRUE
+1917,Lexus,GS,2007,WAUEG7,5,Indigo,TRUE
+1918,Hummer,H1,2002,JH4CU2,6,Turquoise,TRUE
+1919,Pontiac,Grand Prix,1982,WAUHFA,6,Turquoise,TRUE
+1920,Mazda,Protege,2003,3D4PG4,5,Khaki,TRUE
+1921,Suzuki,Sidekick,1989,WBAUP7,6,Green,TRUE
+1922,Nissan,Maxima,2007,1FTSW3,4,Green,TRUE
+1923,Suzuki,SX4,2007,1FMJK1,6,Fuscia,TRUE
+1924,Jaguar,XJ,2006,1G6AJ5,6,Goldenrod,TRUE
+1925,Volkswagen,GTI,2000,SALFR2,3,Khaki,TRUE
+1926,Mercedes-Benz,E-Class,2001,JH4DB7,6,Violet,TRUE
+1927,Mercury,Villager,2000,JN1AZ4,6,Purple,TRUE
+1928,Lexus,GX,2012,JA4AP3,3,Teal,TRUE
+1929,Toyota,Tacoma,2011,WAUDF5,5,Maroon,TRUE
+1930,Chevrolet,Prizm,2001,1GYS3K,5,Crimson,TRUE
+1931,BMW,7 Series,1992,1G6AP5,3,Yellow,TRUE
+1932,Porsche,Cayman,2012,JN8AZ2,6,Purple,TRUE
+1933,Acura,Integra,1996,SCBLF4,6,Aquamarine,TRUE
+1934,Lexus,CT,2011,WDDLJ9,3,Red,TRUE
+1935,GMC,Yukon,2003,5GAKRA,4,Purple,TRUE
+1936,Mercedes-Benz,CL-Class,2002,1GYFC2,6,Pink,TRUE
+1937,Mitsubishi,GTO,1991,WBAFZ9,4,Turquoise,TRUE
+1938,Land Rover,LR2,2010,1GKMCA,5,Maroon,TRUE
+1939,Chevrolet,S10 Blazer,1992,2C3CA9,4,Mauv,TRUE
+1940,Oldsmobile,Ciera,1995,KNADH5,5,Green,TRUE
+1941,GMC,Sierra,2008,5UXWX7,6,Blue,TRUE
+1942,Audi,Q5,2012,1G6AK5,4,Mauv,TRUE
+1943,Dodge,Dakota Club,1993,2G4GU5,5,Purple,TRUE
+1944,Geo,Storm,1992,WBABS5,5,Red,TRUE
+1945,Ford,LTD Crown Victoria,1991,1GD11Z,4,Pink,TRUE
+1946,Pontiac,Grand Am,2003,WAUCFA,4,Green,TRUE
+1947,Oldsmobile,Cutlass Supreme,1995,SAJWA4,3,Red,TRUE
+1948,Chevrolet,Avalanche 1500,2005,WAUAT4,6,Indigo,TRUE
+1949,Porsche,Boxster,2001,4T3BA3,3,Yellow,TRUE
+1950,Isuzu,Rodeo,2001,JH4DC5,6,Violet,TRUE
+1951,Honda,Accord,1993,WAUMR4,4,Crimson,TRUE
+1952,Mercury,Mariner,2008,SCFHDD,4,Crimson,TRUE
+1953,Toyota,Corolla,1995,JN1AY1,3,Khaki,TRUE
+1954,Oldsmobile,Aurora,1999,1C4RDH,5,Orange,TRUE
+1955,Audi,A8,2005,4USBU3,6,Turquoise,TRUE
+1956,Ford,Focus,2002,1GD322,3,Purple,TRUE
+1957,Chevrolet,Lumina,1998,1FTWF3,6,Pink,TRUE
+1958,Mitsubishi,Truck,1994,1FTSW3,3,Fuscia,TRUE
+1959,Saturn,Relay,2007,1G6AL5,4,Blue,TRUE
+1960,Chevrolet,Suburban 2500,2008,19UYA4,3,Blue,TRUE
+1961,Toyota,Prius v,2012,1G6DS1,5,Turquoise,TRUE
+1962,Volkswagen,New Beetle,2006,SCBLE4,4,Teal,TRUE
+1963,Smart,Fortwo,2011,JN8AZ2,4,Puce,TRUE
+1964,Ford,Courier,1989,JM1CW2,5,Khaki,TRUE
+1965,GMC,1500,1992,WAUXD6,3,Green,TRUE
+1966,Volkswagen,New Beetle,2012,WAUGL9,6,Mauv,TRUE
+1967,Nissan,NX,1993,1C4RDJ,5,Orange,TRUE
+1968,Acura,Vigor,1992,1FMJK2,6,Orange,TRUE
+1969,Chevrolet,Express 1500,2011,WAUBH7,4,Green,TRUE
+1970,Chevrolet,Aveo,2010,JN1CV6,5,Fuscia,TRUE
+1971,Ford,Ranger,1987,1FTMF1,4,Turquoise,TRUE
+1972,Buick,Roadmaster,1992,1LNHL9,6,Pink,TRUE
+1973,Bentley,Continental GT,2009,5TFCY5,4,Red,TRUE
+1974,Kia,Spectra,2000,2C3CCA,5,Orange,TRUE
+1975,Saab,5-Sep,2005,3D73Y3,5,Pink,TRUE
+1976,Nissan,Quest,2000,2HNYD2,3,Red,TRUE
+1977,Pontiac,GTO,1973,1FTWW3,6,Aquamarine,TRUE
+1978,Chevrolet,Monte Carlo,2007,2C3CDY,3,Violet,TRUE
+1979,Isuzu,VehiCROSS,1999,KM8NU4,6,Blue,TRUE
+1980,Chrysler,Voyager,2000,5UXFB3,3,Puce,TRUE
+1981,Mazda,Miata MX-5,2011,5UMBT9,5,Aquamarine,TRUE
+1982,Cadillac,XLR-V,2006,JTDJTU,6,Yellow,TRUE
+1983,Mercedes-Benz,R-Class,2010,WUALNA,4,Teal,TRUE
+1984,Dodge,Grand Caravan,1993,TRUTC2,4,Yellow,TRUE
+1985,BMW,525,2004,4T1BF1,6,Red,TRUE
+1986,Nissan,Pathfinder,1995,1G6DH8,5,Khaki,TRUE
+1987,Infiniti,Q,1995,SCBGU3,6,Puce,TRUE
+1988,Dodge,Caravan,2001,KMHEC4,4,Teal,TRUE
+1989,Mazda,626,1987,2HNYD1,6,Mauv,TRUE
+1990,Ford,Windstar,1995,KMHEC4,5,Green,TRUE
+1991,Ferrari,FF,2012,1N6AF0,4,Violet,TRUE
+1992,Mercury,Mountaineer,2002,1HGCP2,4,Indigo,TRUE
+1993,Chevrolet,Express,2011,1N6AF0,5,Maroon,TRUE
+1994,Mazda,Navajo,1991,2D4RN5,4,Fuscia,TRUE
+1995,Nissan,Maxima,1997,3GYT4M,3,Goldenrod,TRUE
+1996,Chevrolet,Express 1500,2006,WAUHF7,4,Violet,TRUE
+1997,Ford,Expedition,2008,1G6DM5,3,Yellow,TRUE
+1998,Buick,LaCrosse,2010,19XFA1,6,Goldenrod,TRUE
+1999,Mitsubishi,Endeavor,2010,19XFB4,3,Green,TRUE
+2000,Audi,TT,2003,WBAEV5,3,Blue,TRUE
+2001,Volvo,V40,2004,1FMCU0,6,Green,TRUE
+2002,BMW,3 Series,2003,19XFB2,4,Fuscia,TRUE
+2003,Infiniti,QX,2000,1G6DJ8,3,Blue,TRUE
+2004,Pontiac,Firebird Trans Am,1986,WBAYE8,6,Orange,TRUE
+2005,Land Rover,Discovery,2005,WAUNF7,4,Indigo,TRUE
+2006,Chevrolet,Silverado 3500,2012,WBAKE5,6,Indigo,TRUE
+2007,GMC,Vandura G3500,1996,1GKS1F,6,Goldenrod,TRUE
+2008,Pontiac,1000,1986,1FTEW1,5,Green,TRUE
+2009,Infiniti,G25,2011,1G6DV5,5,Purple,TRUE
+2010,Hyundai,Accent,2006,2C3CDY,3,Yellow,TRUE
+2011,Pontiac,Grand Prix,1986,1G4HG5,3,Teal,TRUE
+2012,Chevrolet,Suburban 2500,1992,3N1AB7,3,Aquamarine,TRUE
+2013,Mazda,B-Series Plus,1996,2C3CDX,3,Fuscia,TRUE
+2014,Mazda,MPV,1990,WBALM7,4,Orange,TRUE
+2015,Ford,Aerostar,1986,WBAPM5,3,Orange,TRUE
+2016,Ford,F-Series,1997,WDBSK7,6,Red,TRUE
+2017,Mazda,MX-5,2010,KMHHT6,3,Khaki,TRUE
+2018,Ford,F450,2012,1C3CDZ,5,Khaki,TRUE
+2019,Hyundai,Veracruz,2007,WBAYA8,6,Crimson,TRUE
+2020,Volkswagen,Eos,2008,WAUDK7,3,Pink,TRUE
+2021,Ford,E350,2009,1G6AL5,5,Puce,TRUE
+2022,Saab,9000,1988,1GTG5B,3,Fuscia,TRUE
+2023,Jaguar,X-Type,2008,5GALVC,5,Blue,TRUE
+2024,Mercury,Cougar,1989,VNKKTU,6,Goldenrod,TRUE
+2025,Chevrolet,Metro,2000,WAU2GA,3,Mauv,TRUE
+2026,Mazda,MX-5,1997,JH4DB7,4,Turquoise,TRUE
+2027,Mercury,Villager,1995,WBALZ3,6,Aquamarine,TRUE
+2028,BMW,3 Series,2007,2D4RN3,3,Khaki,TRUE
+2029,Cadillac,Escalade,2009,5GADV2,5,Purple,TRUE
+2030,Cadillac,Escalade EXT,2012,3FADP0,6,Blue,TRUE
+2031,Honda,Fit,2008,WAUBFA,3,Pink,TRUE
+2032,Saab,9000,1990,5N1AR1,6,Khaki,TRUE
+2033,Mercedes-Benz,CLK-Class,2009,5LMJJ3,3,Purple,TRUE
+2034,Porsche,Cayenne,2011,2HNYD2,5,Aquamarine,TRUE
+2035,Mazda,MPV,2003,WAUML5,6,Purple,TRUE
+2036,Lincoln,Navigator,2004,1FBSS3,6,Yellow,TRUE
+2037,Subaru,Impreza,2010,3GYT4L,4,Pink,TRUE
+2038,Ford,Explorer Sport Trac,2004,19XFB2,3,Blue,TRUE
+2039,Alfa Romeo,164,1994,5GADV3,3,Maroon,TRUE
+2040,Lotus,Elan,1993,1GYS4H,6,Puce,TRUE
+2041,Lamborghini,Countach,1986,WBAKB4,3,Blue,TRUE
+2042,Pontiac,6000,1991,5GAER1,4,Violet,TRUE
+2043,Ford,Ranger,2003,5J8TB1,4,Violet,TRUE
+2044,Volvo,S70,2000,JM3KE2,5,Fuscia,TRUE
+2045,Suzuki,Swift,2001,WA1LFB,3,Pink,TRUE
+2046,BMW,600,1958,WAUWFA,5,Blue,TRUE
+2047,Suzuki,Grand Vitara,2005,SAJWA6,4,Pink,TRUE
+2048,Chevrolet,Cruze,2013,WAUHF7,6,Fuscia,TRUE
+2049,GMC,Sierra 3500,2009,2C3CDY,4,Purple,TRUE
+2050,Buick,Skylark,1996,JH4CW2,5,Khaki,TRUE
+2051,Lamborghini,Aventador,2012,SCBBB7,3,Green,TRUE
+2052,BMW,5 Series,2000,JH4NA2,4,Turquoise,TRUE
+2053,Land Rover,Range Rover,2010,WBAKG7,6,Mauv,TRUE
+2054,Plymouth,Colt,1993,3GYFNB,3,Pink,TRUE
+2055,Suzuki,Swift,1992,2G4GZ5,5,Violet,TRUE
+2056,Volvo,V70,2006,5GAKRD,6,Violet,TRUE
+2057,Mazda,B-Series,2003,WAUED6,3,Red,TRUE
+2058,Oldsmobile,Cutlass Supreme,1997,1G6DV1,6,Indigo,TRUE
+2059,Mitsubishi,Challenger,2004,WA1WMB,5,Purple,TRUE
+2060,BMW,M3,2001,KL4CJG,4,Goldenrod,TRUE
+2061,Chrysler,Pacifica,2006,5N1BA0,4,Red,TRUE
+2062,Audi,A4,2006,5N1BA0,5,Puce,TRUE
+2063,Nissan,Pathfinder,1997,WAUSH7,5,Yellow,TRUE
+2064,Honda,Accord,2010,1FTEX1,3,Mauv,TRUE
+2065,Mercedes-Benz,SL-Class,2003,JH4KB2,6,Indigo,TRUE
+2066,GMC,Yukon,2002,JTDJTU,5,Indigo,TRUE
+2067,Mercury,Mystique,1995,1G6DE5,6,Fuscia,TRUE
+2068,Dodge,Stratus,1999,5UXZW0,4,Maroon,TRUE
+2069,Oldsmobile,Cutlass Cruiser,1993,2T1BU4,6,Violet,TRUE
+2070,Cadillac,DeVille,2004,WA1LFB,3,Green,TRUE
+2071,Mitsubishi,Starion,1989,SCBFC7,6,Green,TRUE
+2072,Mazda,RX-7,1986,WAUPEA,4,Indigo,TRUE
+2073,Volkswagen,Jetta III,1994,JH4KC1,6,Violet,TRUE
+2074,Lincoln,Navigator L,2007,1G6KF5,3,Aquamarine,TRUE
+2075,Ford,Crown Victoria,1995,WAUHF9,4,Maroon,TRUE
+2076,Oldsmobile,Aurora,1996,5N1AR1,5,Violet,TRUE
+2077,GMC,2500,1996,JH4NA2,4,Yellow,TRUE
+2078,Volvo,S40,2004,JN8AF5,4,Green,TRUE
+2079,Saab,900,1996,WBANW1,4,Aquamarine,TRUE
+2080,Pontiac,Sunfire,2005,WUARL4,4,Green,TRUE
+2081,Jaguar,XF,2011,2C3CDY,3,Teal,TRUE
+2082,Pontiac,LeMans,1964,1G6DP5,3,Red,TRUE
+2083,Pontiac,Firebird,1995,WBAPL5,4,Yellow,TRUE
+2084,Mitsubishi,3000GT,1999,5YMGZ0,4,Maroon,TRUE
+2085,Isuzu,Rodeo Sport,2003,2C3CDX,5,Turquoise,TRUE
+2086,Nissan,Pathfinder,2007,WA1LFA,4,Puce,TRUE
+2087,Ford,Edge,2012,WBAKA4,6,Violet,TRUE
+2088,Lexus,ES,2009,3N1CN7,6,Mauv,TRUE
+2089,Volvo,V70,2003,WBADW7,6,Red,TRUE
+2090,Lotus,Exige,2010,1D7RE3,3,Crimson,TRUE
+2091,Jeep,Cherokee,1997,1D7RV1,3,Teal,TRUE
+2092,Chevrolet,Silverado 3500,2010,WAUMK9,4,Aquamarine,TRUE
+2093,Hyundai,Santa Fe,2002,WBANB3,6,Goldenrod,TRUE
+2094,Volvo,XC70,2005,5UXFE4,5,Puce,TRUE
+2095,Lincoln,Navigator L,2011,WAUXL6,6,Purple,TRUE
+2096,BMW,530,2002,4T1BF3,5,Puce,TRUE
+2097,Hyundai,Santa Fe,2004,WBA3T7,3,Orange,TRUE
+2098,Volkswagen,Eurovan,1999,JH4DC5,4,Purple,TRUE
+2099,Pontiac,Firebird Trans Am,1986,1G6DE5,3,Purple,TRUE
+2100,GMC,Sierra 3500,2007,1N6AA0,6,Khaki,TRUE
+2101,Isuzu,Rodeo Sport,2001,JM1NC2,6,Puce,TRUE
+2102,Toyota,Corolla,1992,1GYFK6,4,Orange,TRUE
+2103,Mitsubishi,Galant,1991,1G6DA6,5,Turquoise,TRUE
+2104,Chevrolet,Express 3500,2002,3D73M4,5,Pink,TRUE
+2105,Chevrolet,Impala,2012,1G6EC1,3,Crimson,TRUE
+2106,Ford,Ranger,1990,WAUSG7,4,Pink,TRUE
+2107,Jeep,Liberty,2006,KNAFU6,5,Red,TRUE
+2108,Lincoln,Continental,1989,JN8AZ2,4,Fuscia,TRUE
+2109,Chrysler,LHS,2000,2T3BFR,5,Pink,TRUE
+2110,Ford,Focus,2000,WUAGL7,3,Violet,TRUE
+2111,MINI,Cooper,2007,1G6DC1,3,Purple,TRUE
+2112,Volvo,850,1996,WVGEF9,5,Pink,TRUE
+2113,Hyundai,Tiburon,2005,WAUNF7,5,Aquamarine,TRUE
+2114,Audi,S6,2011,WA1AV7,3,Green,TRUE
+2115,Honda,Accord,2012,1G6AA5,5,Khaki,TRUE
+2116,Mazda,B-Series,1998,WAUHFA,3,Indigo,TRUE
+2117,Honda,Civic,2003,JN1AV7,5,Pink,TRUE
+2118,Nissan,Maxima,1992,WA1LGB,3,Teal,TRUE
+2119,Chevrolet,Impala,2007,1FMJK1,4,Goldenrod,TRUE
+2120,BMW,X5,2007,JTJBJR,5,Teal,TRUE
+2121,Chevrolet,Cobalt,2006,2C3CDX,5,Aquamarine,TRUE
+2122,Ford,Econoline E350,1994,1G6AR5,4,Goldenrod,TRUE
+2123,Infiniti,G,2004,WAUBH7,4,Mauv,TRUE
+2124,Pontiac,LeMans,1967,3D7TT2,6,Blue,TRUE
+2125,Honda,Pilot,2006,WBAHN8,5,Fuscia,TRUE
+2126,Mitsubishi,Raider,2008,KNALN4,5,Turquoise,TRUE
+2127,Buick,Century,2003,1D7RB1,3,Mauv,TRUE
+2128,Chevrolet,Astro,1995,WAUSF9,5,Indigo,TRUE
+2129,Cadillac,Escalade ESV,2011,WAUBH7,5,Turquoise,TRUE
+2130,Subaru,BRZ,2013,1N4AL2,3,Green,TRUE
+2131,Mazda,Miata MX-5,1994,KMHHT6,5,Mauv,TRUE
+2132,Toyota,4Runner,1999,19XFA1,3,Pink,TRUE
+2133,Toyota,Venza,2013,1FTMF1,6,Indigo,TRUE
+2134,Buick,Reatta,1989,1GYFC6,6,Orange,TRUE
+2135,Chrysler,New Yorker,1996,JN8AZ2,3,Green,TRUE
+2136,Chevrolet,Cavalier,1994,3C4PDC,3,Goldenrod,TRUE
+2137,Suzuki,SJ,1994,1GYS4H,6,Khaki,TRUE
+2138,Ford,Ranger,1984,WBACN5,5,Indigo,TRUE
+2139,Mercedes-Benz,CLK-Class,1999,SCBBP9,6,Mauv,TRUE
+2140,Buick,Skylark,1987,3C6JD6,6,Green,TRUE
+2141,Dodge,Ram 3500,1999,1VWAS7,5,Maroon,TRUE
+2142,Maserati,Biturbo,1985,1GYS4F,5,Violet,TRUE
+2143,Lincoln,MKX,2007,JN8AZ1,6,Purple,TRUE
+2144,Ford,Focus,2004,5GAEV2,3,Fuscia,TRUE
+2145,Toyota,Corolla,2012,YV4952,6,Green,TRUE
+2146,BMW,M3,2003,JN1AZ4,5,Purple,TRUE
+2147,Chevrolet,Prizm,1998,1GYEK6,3,Khaki,TRUE
+2148,Mitsubishi,Montero,1993,1N6AD0,4,Aquamarine,TRUE
+2149,Suzuki,Swift,2001,WAUEV9,6,Teal,TRUE
+2150,Dodge,Nitro,2007,WAULC6,6,Violet,TRUE
+2151,Ford,Tempo,1988,5GAKRB,4,Khaki,TRUE
+2152,GMC,Suburban 1500,1992,WAU2GA,5,Blue,TRUE
+2153,Chevrolet,Astro,2000,WVGAV7,5,Turquoise,TRUE
+2154,Land Rover,Discovery,2004,WVWAB7,6,Puce,TRUE
+2155,Chevrolet,Suburban 1500,1998,WA1AV9,6,Teal,TRUE
+2156,Buick,Riviera,1996,5FRYD3,6,Red,TRUE
+2157,Toyota,Highlander,2003,WDCYC3,3,Green,TRUE
+2158,Nissan,Murano,2004,3GYT4M,4,Aquamarine,TRUE
+2159,Volvo,V70,2010,JHMFA3,5,Yellow,TRUE
+2160,Ford,E-Series,2006,JN8AZ2,3,Orange,TRUE
+2161,Mazda,Mazdaspeed 3,2012,1G4HR5,6,Pink,TRUE
+2162,BMW,5 Series,2006,3D73M3,4,Purple,TRUE
+2163,Honda,CR-V,1998,5FNYF3,3,Khaki,TRUE
+2164,Ford,Fusion,2008,WBADR6,5,Violet,TRUE
+2165,GMC,Sierra 2500,1999,WBA4A5,5,Crimson,TRUE
+2166,Audi,A6,1999,1G6AM5,5,Indigo,TRUE
+2167,Subaru,Impreza,1995,KNADH4,6,Blue,TRUE
+2168,Toyota,4Runner,1993,5UXFG4,4,Khaki,TRUE
+2169,Ford,Thunderbird,1988,JTHBF1,4,Purple,TRUE
+2170,BMW,760,2005,WBADN6,4,Yellow,TRUE
+2171,Mercury,Sable,2000,1D7RE3,3,Purple,TRUE
+2172,GMC,Safari,2005,3MZBM1,3,Blue,TRUE
+2173,Ford,Ranger,2008,WBAVC5,3,Green,TRUE
+2174,Dodge,Ram Van B350,1992,WAUMGB,6,Maroon,TRUE
+2175,Acura,SLX,1996,1G6DS8,5,Green,TRUE
+2176,Aston Martin,Rapide,2011,WAUEH9,3,Green,TRUE
+2177,Porsche,911,2010,WBAKF5,3,Pink,TRUE
+2178,Cadillac,DeVille,2002,1FTSF3,4,Aquamarine,TRUE
+2179,GMC,Sierra 2500,2005,WAUEFB,3,Teal,TRUE
+2180,Mitsubishi,Mirage,1990,1GD02Z,4,Orange,TRUE
+2181,Chevrolet,Malibu,2005,WAUFEA,4,Puce,TRUE
+2182,GMC,Envoy,2005,SCBZK2,4,Orange,TRUE
+2183,Mercedes-Benz,CLK-Class,1998,YV1982,5,Violet,TRUE
+2184,Buick,Century,1988,WBAYF8,3,Fuscia,TRUE
+2185,Chevrolet,Aveo,2008,1FMCU0,4,Aquamarine,TRUE
+2186,Mazda,Millenia,1998,1N6AA0,3,Puce,TRUE
+2187,Dodge,Caliber,2008,WAUGGA,5,Purple,TRUE
+2188,GMC,Savana 2500,2006,WBA3V7,3,Green,TRUE
+2189,Chevrolet,Avalanche,2009,WBA3D3,5,Maroon,TRUE
+2190,Honda,Odyssey,2006,WBXPA9,6,Indigo,TRUE
+2191,Ford,Bronco II,1990,1G4GA5,5,Green,TRUE
+2192,Toyota,Highlander,2002,WAUBGB,6,Blue,TRUE
+2193,Honda,del Sol,1997,WAUEF9,5,Green,TRUE
+2194,Porsche,928,1995,2C3CA3,6,Aquamarine,TRUE
+2195,Lexus,IS,2012,JH4NA2,6,Violet,TRUE
+2196,Land Rover,Defender 90,1995,5UXFE8,6,Violet,TRUE
+2197,Mercury,Sable,1986,1N6BF0,3,Fuscia,TRUE
+2198,Land Rover,LR3,2007,WAUJC5,6,Green,TRUE
+2199,Mitsubishi,Truck,1988,JH4KB1,4,Red,TRUE
+2200,Ford,F250,2009,WAUDG7,4,Yellow,TRUE
+2201,Volkswagen,Scirocco,1984,3VW517,4,Pink,TRUE
+2202,Scion,FR-S,2013,5UXFG4,5,Blue,TRUE
+2203,Cadillac,Seville,1994,WAUDF9,3,Green,TRUE
+2204,Ford,Fairlane,1966,WAUNF9,4,Maroon,TRUE
+2205,GMC,Savana,2009,3GYFNC,4,Blue,TRUE
+2206,MINI,Clubman,2012,5NPDH4,3,Mauv,TRUE
+2207,Volkswagen,Golf,1996,4T1BD1,3,Indigo,TRUE
+2208,Ford,Escort,1990,WAUHFA,4,Khaki,TRUE
+2209,Lincoln,Navigator L,2011,WAUDFA,5,Aquamarine,TRUE
+2210,Ferrari,599 GTB Fiorano,2007,1G6DN5,5,Yellow,TRUE
+2211,Oldsmobile,Toronado,1992,SALWG2,4,Violet,TRUE
+2212,GMC,Sierra 3500,2005,WP0CA2,5,Purple,TRUE
+2213,Pontiac,Grand Prix,1962,JN8CS1,4,Puce,TRUE
+2214,Cadillac,Eldorado,1996,WBAUC7,6,Violet,TRUE
+2215,Mazda,RX-8,2010,3D7TT2,4,Red,TRUE
+2216,Lotus,Elan,1994,1FTEX1,6,Aquamarine,TRUE
+2217,Mazda,Navajo,1992,19UUA6,4,Pink,TRUE
+2218,Volkswagen,Passat,2003,SALGS2,6,Turquoise,TRUE
+2219,Saturn,VUE,2005,WBAEA5,5,Indigo,TRUE
+2220,Infiniti,I,2001,5FNYF3,3,Blue,TRUE
+2221,GMC,Sierra 1500,2013,JH4KB1,3,Violet,TRUE
+2222,Nissan,Versa,2008,WBSDX9,3,Indigo,TRUE
+2223,Pontiac,Bonneville,1984,WP0AA2,5,Fuscia,TRUE
+2224,Volvo,V70,2009,SCFEBB,5,Maroon,TRUE
+2225,Saturn,L-Series,2005,SALVN2,3,Khaki,TRUE
+2226,Volvo,XC90,2005,2T1BU4,3,Fuscia,TRUE
+2227,Mitsubishi,3000GT,1993,1G4HP5,3,Yellow,TRUE
+2228,GMC,Suburban 1500,1992,WBABS5,5,Turquoise,TRUE
+2229,Pontiac,Bonneville,2003,1GKS2F,6,Khaki,TRUE
+2230,BMW,6 Series,2004,1N6AA0,5,Khaki,TRUE
+2231,Cadillac,SRX,2010,WAUML6,3,Pink,TRUE
+2232,Subaru,XT,1989,SCBDR3,3,Blue,TRUE
+2233,Hyundai,Santa Fe,2002,1G6AB5,4,Yellow,TRUE
+2234,Volkswagen,Corrado,1994,JM1BL1,3,Goldenrod,TRUE
+2235,Volkswagen,Eurovan,1995,WAUHE7,6,Yellow,TRUE
+2236,Volvo,S60,2009,JA32U1,4,Violet,TRUE
+2237,Mercedes-Benz,CLK-Class,2005,19UUA6,3,Teal,TRUE
+2238,Honda,CR-V,2000,5UXFE8,6,Teal,TRUE
+2239,Land Rover,Range Rover,1989,1G6DG8,4,Aquamarine,TRUE
+2240,Land Rover,Range Rover,1996,4T1BF3,3,Green,TRUE
+2241,Jeep,Wrangler,2002,2C3CCA,6,Khaki,TRUE
+2242,Scion,tC,2006,WAUUL9,4,Mauv,TRUE
+2243,Dodge,Grand Caravan,1996,1G6YV3,6,Puce,TRUE
+2244,Chevrolet,Impala,1995,5UXWX9,3,Orange,TRUE
+2245,Ford,Expedition,2008,WAUFGA,5,Aquamarine,TRUE
+2246,Ford,Crown Victoria,1993,19VDE1,5,Maroon,TRUE
+2247,Toyota,Tundra,2006,WBASN4,4,Teal,TRUE
+2248,Toyota,Prius,2011,WAUEF9,6,Mauv,TRUE
+2249,Toyota,Avalon,2012,1GD21Z,6,Orange,TRUE
+2250,Pontiac,Grand Prix,2001,WBAYP9,3,Orange,TRUE
+2251,Hyundai,Tucson,2007,JN1CV6,4,Goldenrod,TRUE
+2252,Dodge,Ram 2500 Club,1996,1FMCU0,3,Maroon,TRUE
+2253,Infiniti,Q,2001,SCBGU3,5,Purple,TRUE
+2254,BMW,8 Series,1992,2G61L5,6,Teal,TRUE
+2255,Subaru,SVX,1993,JH4CU2,4,Crimson,TRUE
+2256,Chevrolet,Astro,1993,WBAWR3,5,Aquamarine,TRUE
+2257,Jeep,Liberty,2006,WAUML6,6,Purple,TRUE
+2258,Bentley,Continental Flying Spur,2009,WBAVA3,6,Blue,TRUE
+2259,Hyundai,Elantra,2002,1GYFC2,4,Purple,TRUE
+2260,Audi,90,1991,WBAHN8,6,Puce,TRUE
+2261,Dodge,Ram Van 1500,2003,SCFAB0,3,Maroon,TRUE
+2262,Volvo,S60,2003,JTHBK1,6,Goldenrod,TRUE
+2263,Buick,Riviera,1985,1C4PJL,4,Goldenrod,TRUE
+2264,Chevrolet,Equinox,2007,SALAB2,4,Blue,TRUE
+2265,Mitsubishi,Galant,2001,1FTMF1,3,Blue,TRUE
+2266,Toyota,Sequoia,2002,1HGCR2,4,Turquoise,TRUE
+2267,Mercedes-Benz,G-Class,2005,5FRYD3,6,Fuscia,TRUE
+2268,Ford,F350,2002,WAULC6,4,Green,TRUE
+2269,Honda,S2000,2007,WVWAB7,3,Violet,TRUE
+2270,GMC,Sierra 3500,2002,WBAKX8,4,Goldenrod,TRUE
+2271,Ford,F450,2008,1FTEW1,6,Khaki,TRUE
+2272,Buick,Regal,1988,JH4DC5,6,Purple,TRUE
+2273,Mercedes-Benz,SLK-Class,2006,1FTSW2,3,Teal,TRUE
+2274,Mazda,CX-7,2012,3D7JV1,4,Yellow,TRUE
+2275,Chevrolet,Corvette,1961,3N1CE2,3,Pink,TRUE
+2276,Studebaker,Avanti,1964,1FTNF1,6,Indigo,TRUE
+2277,Maybach,57,2003,1VWAH7,3,Purple,TRUE
+2278,Honda,Accord,2008,1GYS4C,5,Mauv,TRUE
+2279,Pontiac,Aztek,2005,1GYS4L,3,Pink,TRUE
+2280,Toyota,Matrix,2009,1FTWW3,4,Aquamarine,TRUE
+2281,Buick,LeSabre,1998,JN8AZ2,3,Teal,TRUE
+2282,Nissan,Frontier,2007,5N1AN0,3,Red,TRUE
+2283,Volkswagen,GLI,2008,4T1BD1,6,Purple,TRUE
+2284,Mazda,MX-5,1991,SCFPDC,6,Turquoise,TRUE
+2285,Suzuki,Esteem,1995,WBAEJ1,4,Maroon,TRUE
+2286,Bentley,Azure,2006,1FBNE3,3,Fuscia,TRUE
+2287,Honda,Civic,2001,SCBDC4,6,Maroon,TRUE
+2288,Mercedes-Benz,CLS-Class,2007,JN1EY1,6,Mauv,TRUE
+2289,Mazda,Mazda6,2009,1G6AL5,3,Indigo,TRUE
+2290,Jeep,Wrangler,1995,1N6AA0,3,Indigo,TRUE
+2291,Pontiac,GTO,1971,WAUDG7,4,Khaki,TRUE
+2292,Mercury,Cougar,1969,1GYS3M,3,Aquamarine,TRUE
+2293,Plymouth,Prowler,2000,1GYEK6,6,Orange,TRUE
+2294,Isuzu,Trooper,2000,4T1BD1,5,Pink,TRUE
+2295,Mercedes-Benz,CLS-Class,2008,5N1AA0,4,Khaki,TRUE
+2296,Toyota,FJ Cruiser,2010,WBAUN1,5,Turquoise,TRUE
+2297,Mazda,CX-9,2012,19XFB4,5,Violet,TRUE
+2298,Jeep,Wrangler,2008,WBAVC9,4,Purple,TRUE
+2299,Honda,Ridgeline,2007,1G6DE8,6,Teal,TRUE
+2300,Toyota,TundraMax,2007,KMHDB8,4,Mauv,TRUE
+2301,Chevrolet,Astro,2003,WBA6A0,6,Goldenrod,TRUE
+2302,Porsche,924 S,1987,JN8AZ2,6,Fuscia,TRUE
+2303,Volkswagen,GTI,2009,1G6D25,3,Violet,TRUE
+2304,GMC,Savana 3500,1999,WVGEF9,6,Purple,TRUE
+2305,Toyota,MR2,1993,1G6DK1,4,Purple,TRUE
+2306,Jeep,Patriot,2008,WBAEN3,3,Yellow,TRUE
+2307,Audi,A8,2005,WBAVC7,4,Mauv,TRUE
+2308,Cadillac,Seville,1999,KL4CJA,4,Pink,TRUE
+2309,Hyundai,Tucson,2008,WBA3N3,6,Red,TRUE
+2310,Ford,Ranger,2009,1N4AB7,4,Red,TRUE
+2311,Dodge,Grand Caravan,2009,WAUMFA,4,Turquoise,TRUE
+2312,MINI,Cooper,2009,1GKS1A,4,Khaki,TRUE
+2313,Pontiac,Bonneville,1988,3C3CFF,5,Purple,TRUE
+2314,Porsche,911,2009,3N1CE2,3,Indigo,TRUE
+2315,Audi,A4,2008,1ZVBP8,3,Yellow,TRUE
+2316,Maybach,57,2007,SCBDC3,6,Indigo,TRUE
+2317,Dodge,Ram 1500,2008,JH4KB1,6,Aquamarine,TRUE
+2318,Infiniti,G,2012,1FMCU0,3,Yellow,TRUE
+2319,Ford,Thunderbird,2002,5N1AN0,6,Teal,TRUE
+2320,Daewoo,Leganza,2001,JH4KA9,6,Pink,TRUE
+2321,Dodge,Durango,2004,WAUBVA,6,Mauv,TRUE
+2322,Toyota,Supra,1997,WAUVFA,3,Violet,TRUE
+2323,Subaru,Tribeca,2008,1C3ADE,4,Yellow,TRUE
+2324,Chevrolet,Suburban 1500,2007,JTDZN3,5,Khaki,TRUE
+2325,Maserati,Coupe,2006,19UUA6,6,Yellow,TRUE
+2326,Suzuki,Equator,2010,WAUEH9,3,Aquamarine,TRUE
+2327,Chevrolet,Suburban,2008,WBAVB3,6,Crimson,TRUE
+2328,Oldsmobile,Cutlass,1999,SAJWA0,5,Blue,TRUE
+2329,Buick,Regal,2002,3D73M3,4,Indigo,TRUE
+2330,Jeep,Commander,2009,WAULT5,6,Puce,TRUE
+2331,Mitsubishi,Galant,1990,3GTXKY,3,Indigo,TRUE
+2332,Ford,E-Series,2006,1GYFC4,3,Green,TRUE
+2333,Ford,Freestar,2005,WBAYF4,6,Pink,TRUE
+2334,Lexus,IS,2004,WAUJC6,5,Orange,TRUE
+2335,Buick,Century,1999,ZFBCFA,5,Khaki,TRUE
+2336,Ford,Taurus X,2009,JTDKDT,6,Yellow,TRUE
+2337,Mercedes-Benz,S-Class,1985,1FTSW2,6,Khaki,TRUE
+2338,Mitsubishi,Pajero,2005,WBAVB7,4,Mauv,TRUE
+2339,Nissan,Murano,2006,3D73M4,6,Crimson,TRUE
+2340,Chevrolet,G-Series G30,1996,WBALY1,6,Pink,TRUE
+2341,Ford,F-Series,1994,1D7RB1,4,Maroon,TRUE
+2342,Mitsubishi,Pajero,1985,YV126M,3,Orange,TRUE
+2343,GMC,Canyon,2004,4JGBB2,5,Violet,TRUE
+2344,Mercury,Mystique,1998,WAUJC5,5,Violet,TRUE
+2345,Hummer,H1,2006,WAU3FA,3,Green,TRUE
+2346,Saab,9-4X,2011,WAUAH7,5,Maroon,TRUE
+2347,Ford,Explorer,2003,1D7RW3,6,Indigo,TRUE
+2348,Chevrolet,3500,1999,KMHHT6,3,Indigo,TRUE
+2349,Volvo,C70,2009,1ZVBP8,6,Yellow,TRUE
+2350,Mercedes-Benz,S-Class,2011,WBA3A9,4,Green,TRUE
+2351,Chevrolet,3500,1998,WAUHMB,5,Violet,TRUE
+2352,Buick,Riviera,1998,3G5DA0,4,Khaki,TRUE
+2353,GMC,Jimmy,1992,WA1DKB,4,Crimson,TRUE
+2354,Suzuki,Equator,2009,3VWF17,6,Turquoise,TRUE
+2355,Mitsubishi,Pajero,1998,WAUDH9,3,Crimson,TRUE
+2356,BMW,6 Series,2006,WBA6B4,5,Green,TRUE
+2357,Lincoln,Mark VIII,1994,1FTEW1,6,Red,TRUE
+2358,Subaru,Loyale,1994,SCFEBB,6,Orange,TRUE
+2359,Chevrolet,Aveo,2009,YV1852,5,Khaki,TRUE
+2360,Lincoln,Navigator,2001,WAUJT6,6,Crimson,TRUE
+2361,Mercedes-Benz,SLK-Class,2012,JTDKN3,5,Yellow,TRUE
+2362,Infiniti,Q,2001,WDDGF4,5,Mauv,TRUE
+2363,Audi,A3,2009,WBAFB3,6,Blue,TRUE
+2364,Ford,Econoline E150,1992,WAUDC6,6,Goldenrod,TRUE
+2365,Jaguar,S-Type,2003,137ZA8,5,Teal,TRUE
+2366,Acura,TL,2002,WAUUL7,4,Pink,TRUE
+2367,Mazda,626,1990,WBAVT1,3,Violet,TRUE
+2368,Hummer,H3,2006,WAURV7,6,Purple,TRUE
+2369,Dodge,Dakota Club,2004,SCBCR7,3,Pink,TRUE
+2370,Ford,Thunderbird,1977,1GYFC5,4,Maroon,TRUE
+2371,Plymouth,Voyager,1994,WAUHF9,5,Turquoise,TRUE
+2372,Kia,Sorento,2012,4A31K2,4,Turquoise,TRUE
+2373,Chevrolet,Blazer,1999,1G6AE5,6,Orange,TRUE
+2374,Ford,Ranger,1994,1HGCP2,3,Puce,TRUE
+2375,Mazda,B-Series Plus,1998,JN1CV6,3,Pink,TRUE
+2376,Toyota,Sienna,1998,1HGCR6,4,Red,TRUE
+2377,Dodge,Caravan,2010,WVGAV7,3,Indigo,TRUE
+2378,Ford,Excursion,2000,5TFCM5,5,Orange,TRUE
+2379,Chevrolet,S10,1993,YV4952,3,Pink,TRUE
+2380,Toyota,Avalon,2010,WA1WMA,3,Fuscia,TRUE
+2381,Toyota,Echo,2001,WBA3B3,5,Crimson,TRUE
+2382,Ford,Festiva,1992,JN1AZ4,3,Orange,TRUE
+2383,Oldsmobile,Regency,1997,WAUHF7,4,Orange,TRUE
+2384,Lincoln,MKT,2010,1FAHP2,5,Turquoise,TRUE
+2385,Chrysler,Crossfire,2006,WAUMF7,4,Mauv,TRUE
+2386,Toyota,RAV4,2012,JN1AJ0,5,Goldenrod,TRUE
+2387,Dodge,Grand Caravan,2006,1HGCP2,3,Orange,TRUE
+2388,Volkswagen,GTI,1998,WA1AY7,6,Mauv,TRUE
+2389,Mazda,929,1992,5UXKR0,5,Orange,TRUE
+2390,Mitsubishi,Galant,2012,19UUA8,6,Puce,TRUE
+2391,Jensen,Interceptor,1967,1FTSW2,5,Orange,TRUE
+2392,MINI,Cooper,2008,3GYFNC,4,Maroon,TRUE
+2393,Lotus,Esprit Turbo,1984,1G6YV3,5,Fuscia,TRUE
+2394,Porsche,928,1986,1YVHZ8,6,Khaki,TRUE
+2395,Audi,S4,2013,WA1LMB,4,Turquoise,TRUE
+2396,Subaru,Forester,1998,WAUMGB,5,Turquoise,TRUE
+2397,Chevrolet,Suburban 1500,2004,3MZBM1,5,Red,TRUE
+2398,Infiniti,EX,2009,KMHGH4,6,Khaki,TRUE
+2399,Dodge,Dakota,2001,WAUBFB,5,Violet,TRUE
+2400,GMC,3500 Club Coupe,1996,1G4HP5,5,Teal,TRUE
+2401,Toyota,Tacoma,2004,WAUZL6,4,Khaki,TRUE
+2402,MINI,Countryman,2012,WP0AA2,3,Orange,TRUE
+2403,Nissan,Xterra,2001,WVGAV7,6,Puce,TRUE
+2404,Maybach,57,2005,4T1BK1,3,Green,TRUE
+2405,Suzuki,Daewoo Lacetti,2004,5FRYD3,6,Orange,TRUE
+2406,Pontiac,GTO,1972,SAJWA0,3,Blue,TRUE
+2407,Austin,Mini Cooper S,1963,WAUBFB,5,Khaki,TRUE
+2408,Subaru,Forester,2004,JTDKN3,4,Turquoise,TRUE
+2409,Mercury,Grand Marquis,2006,WBADX7,5,Red,TRUE
+2410,Ford,Club Wagon,1996,WVWED7,3,Maroon,TRUE
+2411,Dodge,Stratus,2001,1G6AY5,3,Purple,TRUE
+2412,Honda,Insight,2006,KNAGG4,6,Puce,TRUE
+2413,Chevrolet,Suburban 1500,2004,WAULD5,3,Mauv,TRUE
+2414,Ford,Crown Victoria,2010,JN8AE2,3,Yellow,TRUE
+2415,Saab,5-Sep,1999,1FTWW3,6,Mauv,TRUE
+2416,Chevrolet,Camaro,2002,WAUUL7,5,Aquamarine,TRUE
+2417,GMC,Safari,2003,1FBNE3,5,Red,TRUE
+2418,Hummer,H1,1997,2G4WC5,6,Yellow,TRUE
+2419,MINI,Cooper,2003,WAUUL7,5,Blue,TRUE
+2420,BMW,M5,2001,WAUKGB,5,Turquoise,TRUE
+2421,Chevrolet,Avalanche 2500,2002,1G6DC5,6,Violet,TRUE
+2422,Ford,Aspire,1996,TRUSC2,6,Green,TRUE
+2423,Dodge,Dakota,1998,3D73Y4,4,Pink,TRUE
+2424,Ram,3500,2011,W04GY5,4,Mauv,TRUE
+2425,Audi,90,1988,SAJWA8,3,Purple,TRUE
+2426,Mitsubishi,Galant,1995,WAUDF7,5,Purple,TRUE
+2427,Acura,NSX,2003,SCBGR3,5,Teal,TRUE
+2428,Chrysler,Town & Country,2004,5N1AN0,3,Teal,TRUE
+2429,GMC,Yukon,2010,2G4WC5,3,Mauv,TRUE
+2430,GMC,Sierra 1500,2012,5GAEV1,4,Purple,TRUE
+2431,GMC,Sierra,2008,5BZBF0,3,Crimson,TRUE
+2432,Honda,Ridgeline,2006,3N1CN7,6,Green,TRUE
+2433,Toyota,Camry,2006,WAUHF9,3,Fuscia,TRUE
+2434,Kia,Spectra,2007,JHMZF1,6,Mauv,TRUE
+2435,Panoz,Esperante,2008,3C3CFF,3,Maroon,TRUE
+2436,Chrysler,Sebring,2005,1N6AA0,5,Red,TRUE
+2437,Honda,Insight,2001,3C63DP,6,Goldenrod,TRUE
+2438,Plymouth,Voyager,1993,WAUDH9,3,Crimson,TRUE
+2439,Pontiac,GTO,1968,JN1CV6,4,Pink,TRUE
+2440,Audi,Q7,2010,1FTEW1,3,Indigo,TRUE
+2441,GMC,Savana 3500,2005,19UUA6,5,Aquamarine,TRUE
+2442,Pontiac,Grand Prix,1981,5GADT1,3,Blue,TRUE
+2443,Mitsubishi,Chariot,1989,3D73M3,6,Orange,TRUE
+2444,Chevrolet,Express 3500,1997,3D7JV1,4,Red,TRUE
+2445,Ford,Fiesta,2012,2T1BUR,6,Violet,TRUE
+2446,GMC,Suburban 1500,1995,2FMDK4,5,Mauv,TRUE
+2447,GMC,Vandura 3500,1992,WBAKG1,6,Maroon,TRUE
+2448,Aston Martin,Rapide,2010,2G4GV5,4,Turquoise,TRUE
+2449,Lexus,LS,2011,KL4CJD,4,Green,TRUE
+2450,Cadillac,Escalade,2008,19XFB4,5,Turquoise,TRUE
+2451,Hummer,H3,2006,SCFEBB,6,Pink,TRUE
+2452,Chevrolet,Express 2500,2011,WAUFGB,5,Mauv,TRUE
+2453,Volkswagen,rio,2001,WBA3T3,5,Pink,TRUE
+2454,GMC,1500 Club Coupe,1997,WA1LGA,5,Puce,TRUE
+2455,Buick,Park Avenue,1999,SAJWA4,4,Turquoise,TRUE
+2456,Subaru,Legacy,2008,4T1BF3,5,Green,TRUE
+2457,Dodge,D350,1993,3N1AB7,4,Maroon,TRUE
+2458,Audi,riolet,1998,1D7CE3,6,Goldenrod,TRUE
+2459,Pontiac,Grand Prix,1989,JTDKTU,6,Red,TRUE
+2460,Pontiac,Montana,2002,WBAVT1,6,Orange,TRUE
+2461,Lexus,LX,2002,WAUDV9,4,Turquoise,TRUE
+2462,Ford,E-Series,1995,JTHFE2,4,Yellow,TRUE
+2463,Lincoln,Town Car,2010,WBAKF9,5,Yellow,TRUE
+2464,Nissan,Pathfinder,2011,WAUEFA,5,Mauv,TRUE
+2465,Mazda,Mazda3,2005,WAUKH7,3,Purple,TRUE
+2466,Acura,TSX,2012,WAUSF7,3,Indigo,TRUE
+2467,Acura,NSX,1994,19UUB3,6,Green,TRUE
+2468,BMW,Z3,2002,WDDEJ7,6,Blue,TRUE
+2469,Honda,S2000,2004,1FTSX2,5,Crimson,TRUE
+2470,Toyota,Sequoia,2002,3D73Y4,6,Teal,TRUE
+2471,Honda,Civic,2009,5GAKRB,6,Khaki,TRUE
+2472,Chevrolet,Corvette,2005,WAUDG7,5,Violet,TRUE
+2473,Honda,Civic,2009,WAUBGA,5,Maroon,TRUE
+2474,Lotus,Exige,2011,JTHBB1,3,Indigo,TRUE
+2475,Saab,3-Sep,2006,WP0AA2,4,Teal,TRUE
+2476,Cadillac,DeVille,2002,WBAPH7,4,Maroon,TRUE
+2477,Morgan,Aero 8,2009,3N1BC1,3,Puce,TRUE
+2478,Nissan,Rogue,2010,SCFBB0,4,Violet,TRUE
+2479,Ford,Five Hundred,2007,4T1BF1,3,Crimson,TRUE
+2480,Buick,LaCrosse,2011,4USBT5,3,Turquoise,TRUE
+2481,Hyundai,Azera,2012,WBA3N3,6,Violet,TRUE
+2482,Porsche,Boxster,1998,1FMCU9,3,Maroon,TRUE
+2483,Dodge,Caravan,1994,SALVN2,3,Pink,TRUE
+2484,Pontiac,Grand Prix,1998,3D7JB1,3,Green,TRUE
+2485,Toyota,Corolla,2010,JH4CW2,4,Blue,TRUE
+2486,Dodge,Dakota,1995,1FMCU0,4,Teal,TRUE
+2487,Plymouth,Grand Voyager,1995,1D7RV1,4,Goldenrod,TRUE
+2488,GMC,3500 Club Coupe,1993,1FTSX2,3,Green,TRUE
+2489,Mitsubishi,Eclipse,1989,1FMJK1,3,Aquamarine,TRUE
+2490,Plymouth,Neon,1995,19XFA1,4,Turquoise,TRUE
+2491,Porsche,911,1989,1FTNX2,6,Turquoise,TRUE
+2492,GMC,Yukon XL 1500,2007,JN8AZ2,6,Indigo,TRUE
+2493,Toyota,RAV4,1997,1G4GE5,3,Mauv,TRUE
+2494,Mazda,RX-7,1984,1FTSW2,6,Crimson,TRUE
+2495,Dodge,Ram Van 1500,1995,1G6DP5,4,Mauv,TRUE
+2496,GMC,Savana 1500,2000,JTDKN3,6,Purple,TRUE
+2497,Land Rover,Defender,1992,KMHTC6,5,Teal,TRUE
+2498,Chevrolet,Express 3500,2010,KMHCT4,6,Teal,TRUE
+2499,Lexus,ES,2008,WDDHF0,3,Green,TRUE
+2500,Chrysler,Cirrus,1999,1G6AL5,4,Purple,TRUE
+2501,Cadillac,Escalade EXT,2009,WVWED7,4,Aquamarine,TRUE
+2502,Buick,Regal,1985,5NPEB4,4,Crimson,TRUE
+2503,Volkswagen,Golf,2001,KMHTC6,4,Blue,TRUE
+2504,Honda,Passport,2002,KM8NU4,4,Aquamarine,TRUE
+2505,Buick,Riviera,1987,1N4AL3,5,Yellow,TRUE
+2506,GMC,Savana 2500,2006,SAJWA0,3,Crimson,TRUE
+2507,Oldsmobile,Aurora,1997,WBADT5,3,Green,TRUE
+2508,Chevrolet,3500,1992,KM8NU4,3,Puce,TRUE
+2509,BMW,7 Series,1997,1G6DH5,6,Teal,TRUE
+2510,Mercedes-Benz,CL-Class,2008,1G4GF5,6,Turquoise,TRUE
+2511,Jaguar,X-Type,2006,WDDHF5,4,Indigo,TRUE
+2512,Ford,F250,2008,1G6AA5,4,Turquoise,TRUE
+2513,Mercury,Villager,1994,YV1902,5,Purple,TRUE
+2514,Toyota,RAV4,2001,1N4AL2,3,Violet,TRUE
+2515,Ford,Freestar,2004,WAUGF7,5,Green,TRUE
+2516,Toyota,Tundra,2004,SCFFDA,3,Purple,TRUE
+2517,Aston Martin,DB9 Volante,2006,WA1DGA,6,Purple,TRUE
+2518,Lexus,RX,2003,JH4CU2,3,Khaki,TRUE
+2519,Jeep,Wrangler,2006,WVWAP7,4,Red,TRUE
+2520,Toyota,Corolla,1996,1GYS4D,4,Teal,TRUE
+2521,Ford,Mustang,2001,2C3CDX,6,Purple,TRUE
+2522,Chevrolet,Express 1500,1996,JN8CS1,6,Puce,TRUE
+2523,Ford,F150,1997,1G4CW5,6,Red,TRUE
+2524,Chevrolet,Metro,1998,JH4CU2,6,Purple,TRUE
+2525,Jaguar,XF,2012,1FTEW1,3,Puce,TRUE
+2526,Volkswagen,Tiguan,2011,2T1BUR,6,Yellow,TRUE
+2527,Pontiac,Trans Sport,1993,SCBBR9,5,Mauv,TRUE
+2528,BMW,8 Series,1994,1C3CDF,3,Indigo,TRUE
+2529,Hyundai,Elantra,2004,1FTEW1,3,Yellow,TRUE
+2530,Honda,S2000,2000,KMHHT6,5,Indigo,TRUE
+2531,Mitsubishi,Raider,2008,WBAEV3,6,Pink,TRUE
+2532,Chevrolet,Traverse,2009,KMHTC6,6,Purple,TRUE
+2533,Toyota,Camry Hybrid,2008,1G4HE5,4,Fuscia,TRUE
+2534,Lamborghini,Countach,1990,1FTEW1,4,Pink,TRUE
+2535,Subaru,Forester,2008,1FTMF1,3,Yellow,TRUE
+2536,Jaguar,XK,2008,JM1NC2,5,Puce,TRUE
+2537,Chrysler,Sebring,1995,SCFAB2,6,Crimson,TRUE
+2538,Lexus,LS,2012,3C63DR,4,Crimson,TRUE
+2539,Audi,A3,2006,1D7CE3,3,Blue,TRUE
+2540,Ford,C-MAX Hybrid,2013,WUAAU3,4,Crimson,TRUE
+2541,Ford,Fusion,2012,5GAKRC,4,Mauv,TRUE
+2542,Lamborghini,Murciélago,2003,WBAYE8,4,Aquamarine,TRUE
+2543,Mazda,CX-7,2010,KM8NU4,4,Khaki,TRUE
+2544,Jeep,Compass,2010,1G4HD5,6,Aquamarine,TRUE
+2545,Aston Martin,Vanquish S,2006,3N1CN7,3,Purple,TRUE
+2546,Dodge,Stratus,1998,WAURVA,5,Fuscia,TRUE
+2547,Honda,Prelude,1985,1GYEC6,4,Teal,TRUE
+2548,Mitsubishi,Chariot,1994,WBA6B4,3,Green,TRUE
+2549,Mazda,626,1999,2HNYD2,5,Aquamarine,TRUE
+2550,Ford,Expedition,2003,WBAYF8,6,Crimson,TRUE
+2551,Pontiac,Daewoo Kalos,2005,WVGEF9,5,Turquoise,TRUE
+2552,Audi,S5,2012,WAUGL9,3,Turquoise,TRUE
+2553,Mitsubishi,Pajero,2003,KL4CJB,4,Crimson,TRUE
+2554,Nissan,200SX,1998,WAUEFA,3,Red,TRUE
+2555,Ford,Explorer Sport Trac,2010,1G6YV3,3,Teal,TRUE
+2556,Lamborghini,Murciélago,2002,1FTMF1,6,Teal,TRUE
+2557,Lexus,LS,1991,5J6TF1,5,Pink,TRUE
+2558,Chrysler,PT Cruiser,2007,WAUDFA,4,Teal,TRUE
+2559,Geo,Metro,1996,WBA3N5,3,Crimson,TRUE
+2560,Mercedes-Benz,500SEC,1993,WBAEW5,4,Goldenrod,TRUE
+2561,Nissan,Altima,2010,SALFR2,6,Crimson,TRUE
+2562,Pontiac,Fiero,1988,WBAVC5,4,Orange,TRUE
+2563,Rolls-Royce,Phantom,2011,TRUDD3,3,Red,TRUE
+2564,Scion,xA,2004,WBSBR9,5,Blue,TRUE
+2565,Mazda,Protege5,2002,5FRYD3,4,Maroon,TRUE
+2566,Buick,Roadmaster,1993,1G4GD5,6,Goldenrod,TRUE
+2567,Mazda,RX-8,2009,3VW8S7,3,Blue,TRUE
+2568,Suzuki,Swift,1995,2G4WS5,6,Puce,TRUE
+2569,Mitsubishi,Galant,1990,3D7JB1,4,Mauv,TRUE
+2570,Lincoln,Navigator L,2011,1GYUKB,4,Mauv,TRUE
+2571,Pontiac,Solstice,2006,JTDZN3,6,Crimson,TRUE
+2572,Chevrolet,Corvette,1984,19VDE1,5,Aquamarine,TRUE
+2573,Jeep,Liberty,2008,JH4NA2,5,Purple,TRUE
+2574,GMC,Suburban 1500,1996,2G4GN5,4,Turquoise,TRUE
+2575,Mercedes-Benz,SLK55 AMG,2009,1G6DF8,4,Indigo,TRUE
+2576,Bentley,Azure,2006,5N1AA0,3,Aquamarine,TRUE
+2577,Nissan,Versa,2012,WAUFGA,3,Goldenrod,TRUE
+2578,Lexus,ES,1999,WBAVD5,4,Fuscia,TRUE
+2579,Ford,LTD,1985,3D73M4,6,Pink,TRUE
+2580,Ford,F350,1993,WDCYC3,6,Green,TRUE
+2581,Dodge,Dakota Club,2005,JTHBL1,3,Teal,TRUE
+2582,Dodge,Caravan,2007,3VW4S7,3,Aquamarine,TRUE
+2583,Subaru,Baja,2005,3N1AB6,4,Green,TRUE
+2584,Lincoln,LS,2000,KMHGN4,4,Purple,TRUE
+2585,Cadillac,Seville,1999,JN1AZ4,3,Goldenrod,TRUE
+2586,Mercury,Sable,1988,1GYUKD,6,Khaki,TRUE
+2587,Chrysler,300M,2002,WBANE5,4,Yellow,TRUE
+2588,Chevrolet,Express 3500,1999,5NPET4,3,Red,TRUE
+2589,Nissan,300ZX,1994,3GYEK6,6,Maroon,TRUE
+2590,Hyundai,Sonata,2002,3G5DB0,6,Pink,TRUE
+2591,Toyota,Tundra,2012,JN8AZ2,6,Maroon,TRUE
+2592,Mitsubishi,Truck,1994,2T1KE4,6,Fuscia,TRUE
+2593,Toyota,Yaris,2011,5YMGZ0,6,Indigo,TRUE
+2594,Volkswagen,Type 2,1987,WAUCD5,6,Aquamarine,TRUE
+2595,GMC,Vandura G1500,1995,KNADH5,3,Turquoise,TRUE
+2596,Ram,C/V,2012,JH4DC5,6,Red,TRUE
+2597,Subaru,Outback,2004,1FTEW1,3,Yellow,TRUE
+2598,Dodge,Ram Van B350,1994,3C63DP,4,Crimson,TRUE
+2599,Ford,Explorer Sport Trac,2005,WBADX7,3,Teal,TRUE
+2600,Honda,Civic Si,2005,19UUA9,5,Red,TRUE
+2601,Chevrolet,Colorado,2010,1N6AA0,6,Indigo,TRUE
+2602,Mercedes-Benz,M-Class,2012,JM1DE1,5,Goldenrod,TRUE
+2603,Ford,Edge,2011,WBAAN3,6,Blue,TRUE
+2604,Subaru,Outback,2006,2HNYD1,4,Aquamarine,TRUE
+2605,Toyota,MR2,2002,2G4WS5,5,Aquamarine,TRUE
+2606,Jaguar,XJ Series,2003,3GYFK6,6,Purple,TRUE
+2607,Chevrolet,2500,1997,5N1AA0,5,Indigo,TRUE
+2608,Lexus,GS,1999,1G6KD5,6,Fuscia,TRUE
+2609,Oldsmobile,Silhouette,2003,KMHDB8,6,Indigo,TRUE
+2610,Toyota,Echo,2001,WBA6A0,6,Goldenrod,TRUE
+2611,Ford,Thunderbird,2002,1N4AL2,5,Goldenrod,TRUE
+2612,Cadillac,Seville,2001,JN8AZ2,4,Orange,TRUE
+2613,Pontiac,Safari,1986,5J8TB1,6,Turquoise,TRUE
+2614,Mercedes-Benz,CL-Class,2005,SCFEBB,3,Khaki,TRUE
+2615,Lamborghini,Gallardo,2009,5XYKT3,5,Turquoise,TRUE
+2616,Land Rover,Defender,1997,WAUCVA,6,Green,TRUE
+2617,Plymouth,Horizon,1978,WBAAX1,3,Turquoise,TRUE
+2618,Lexus,LS,1998,2G4GS5,5,Crimson,TRUE
+2619,Dodge,Ram,2003,5UXKS4,3,Indigo,TRUE
+2620,Audi,Q7,2010,19XFA1,3,Red,TRUE
+2621,Infiniti,I,1996,WBA5A7,4,Puce,TRUE
+2622,BMW,8 Series,1992,5N1AT2,5,Mauv,TRUE
+2623,Mazda,B2500,2001,2HNYD1,6,Turquoise,TRUE
+2624,Pontiac,Daewoo Kalos,2006,WBA3C1,5,Red,TRUE
+2625,Mazda,Protege,2003,1G6AB5,3,Green,TRUE
+2626,Jaguar,X-Type,2006,JN8AZ2,6,Turquoise,TRUE
+2627,Ford,Explorer,1991,WBAPH7,4,Fuscia,TRUE
+2628,Toyota,Avalon,1996,2C3CCA,6,Fuscia,TRUE
+2629,Audi,S4,1994,1FTSX2,6,Indigo,TRUE
+2630,Chevrolet,Equinox,2005,WBA5A7,3,Green,TRUE
+2631,Chevrolet,Express 2500,2012,3VW517,3,Goldenrod,TRUE
+2632,GMC,Sierra 3500,2011,19UUA9,3,Orange,TRUE
+2633,Porsche,Cayman,2009,SCBBB7,4,Aquamarine,TRUE
+2634,Chevrolet,1500,1998,WBSBL9,5,Khaki,TRUE
+2635,Mercedes-Benz,S-Class,1988,WBA3N7,4,Puce,TRUE
+2636,Lincoln,Navigator,2007,2C3CDY,5,Crimson,TRUE
+2637,Dodge,Ram 2500 Club,1997,WBABN3,4,Maroon,TRUE
+2638,Mercedes-Benz,E-Class,2003,WP0AA2,4,Green,TRUE
+2639,Saab,5-Sep,2007,1FTWX3,4,Fuscia,TRUE
+2640,Mercury,Grand Marquis,2006,1GYS4U,5,Purple,TRUE
+2641,GMC,Canyon,2004,5FNRL5,4,Orange,TRUE
+2642,Mercedes-Benz,600SEC,1993,SCFAB2,4,Blue,TRUE
+2643,Mitsubishi,Galant,2010,WAUAFA,5,Crimson,TRUE
+2644,Nissan,Titan,2011,3D73Y4,3,Fuscia,TRUE
+2645,Bentley,Continental,2012,1G6DP5,4,Aquamarine,TRUE
+2646,Isuzu,Hombre Space,1997,WA1CYA,6,Purple,TRUE
+2647,Mercury,Montego,2007,1G6AC5,5,Khaki,TRUE
+2648,Volkswagen,Jetta III,1993,1N6AF0,3,Crimson,TRUE
+2649,Chevrolet,G-Series 1500,1997,WA1AY7,4,Fuscia,TRUE
+2650,Pontiac,Vibe,2003,WAUKF9,3,Turquoise,TRUE
+2651,Toyota,Tundra,2002,1C3CDF,6,Purple,TRUE
+2652,Honda,Odyssey,2003,1G6DE8,6,Aquamarine,TRUE
+2653,Aston Martin,DB9,2008,WBAWV5,3,Aquamarine,TRUE
+2654,Nissan,Frontier,2002,3D7TT2,4,Puce,TRUE
+2655,Suzuki,Esteem,1999,5YMGZ0,3,Turquoise,TRUE
+2656,Dodge,Avenger,1998,3N1AB6,6,Goldenrod,TRUE
+2657,GMC,Yukon XL 2500,2006,WBAFV3,5,Puce,TRUE
+2658,GMC,1500 Club Coupe,1993,WAUUL7,4,Pink,TRUE
+2659,Ford,Thunderbird,1967,3N1AB6,5,Puce,TRUE
+2660,Porsche,968,1992,19UUB2,4,Blue,TRUE
+2661,Volkswagen,Touareg,2008,WAU4GA,5,Goldenrod,TRUE
+2662,Audi,A6,2002,WAUAFA,6,Green,TRUE
+2663,Holden,Monaro,2004,5BZAF0,4,Green,TRUE
+2664,Kia,Optima,2006,2T1KE4,6,Aquamarine,TRUE
+2665,Ford,Th!nk,2001,1GD22X,5,Mauv,TRUE
+2666,Dodge,Challenger,2010,2FMGK5,3,Aquamarine,TRUE
+2667,Ferrari,458 Italia,2010,WA1VMA,6,Khaki,TRUE
+2668,Chevrolet,Impala,1994,5NPEB4,5,Goldenrod,TRUE
+2669,Isuzu,i-Series,2007,SCFAD0,5,Goldenrod,TRUE
+2670,Mazda,Tribute,2008,19XFB2,4,Mauv,TRUE
+2671,Mercedes-Benz,M-Class,1998,3C63DP,6,Aquamarine,TRUE
+2672,Mitsubishi,Tredia,1986,WBA8Z5,3,Orange,TRUE
+2673,Mercedes-Benz,C-Class,2002,WA1YD5,3,Turquoise,TRUE
+2674,Toyota,Camry,1994,1J4PR4,4,Crimson,TRUE
+2675,Ram,Dakota,2011,2HNYD1,5,Mauv,TRUE
+2676,Ferrari,612 Scaglietti,2006,JTDKDT,6,Violet,TRUE
+2677,Volkswagen,GTI,1995,YV1952,5,Crimson,TRUE
+2678,Mitsubishi,Galant,1990,WP1AB2,5,Blue,TRUE
+2679,Suzuki,Verona,2006,19UUA7,4,Fuscia,TRUE
+2680,Ford,Probe,1997,KL4CJG,5,Fuscia,TRUE
+2681,Chevrolet,Silverado 3500,2010,1G6KD5,4,Violet,TRUE
+2682,BMW,1 Series,2012,1FMCU4,3,Mauv,TRUE
+2683,Infiniti,QX,2004,1GD020,5,Turquoise,TRUE
+2684,Mercedes-Benz,GLK-Class,2011,3VWKX7,4,Indigo,TRUE
+2685,Mercedes-Benz,SLK55 AMG,2009,2G4GK5,6,Turquoise,TRUE
+2686,BMW,3 Series,2008,WBA3B5,4,Teal,TRUE
+2687,Pontiac,Bonneville,1965,1G6AL5,6,Maroon,TRUE
+2688,Lexus,LX,1996,WAUFFA,4,Aquamarine,TRUE
+2689,Nissan,Pathfinder,2006,SCFEDE,6,Aquamarine,TRUE
+2690,Oldsmobile,Aurora,1996,3FA6P0,4,Mauv,TRUE
+2691,Mazda,MPV,1993,JN8AZ1,4,Aquamarine,TRUE
+2692,Honda,CR-V,1999,5FPYK1,3,Fuscia,TRUE
+2693,Pontiac,Grand Prix Turbo,1990,JH4CU2,6,Indigo,TRUE
+2694,Audi,Coupe Quattro,1991,2G4WD5,5,Mauv,TRUE
+2695,Mercedes-Benz,M-Class,2005,1G6DJ8,4,Pink,TRUE
+2696,Dodge,Ram 3500 Club,1995,1GD02X,5,Purple,TRUE
+2697,Ford,Aspire,1997,5UXZW0,4,Violet,TRUE
+2698,Mercury,Cougar,1986,WAUEFA,6,Goldenrod,TRUE
+2699,Ford,E350,2007,1GYFK4,3,Maroon,TRUE
+2700,Chevrolet,Camaro,1996,3D7TT2,4,Blue,TRUE
+2701,Isuzu,Rodeo,1998,5TDDK3,6,Red,TRUE
+2702,Mazda,Protege,1994,WBAVB7,6,Orange,TRUE
+2703,Suzuki,SJ 410,1984,WA1EV7,5,Red,TRUE
+2704,Honda,CR-V,2011,1G4HP5,3,Green,TRUE
+2705,Lincoln,Navigator,2009,1G4GE5,5,Khaki,TRUE
+2706,Volvo,850,1995,SCBBR9,6,Khaki,TRUE
+2707,Saturn,S-Series,1995,5UXZV4,6,Maroon,TRUE
+2708,Volkswagen,Fox,1993,WAUDF7,5,Violet,TRUE
+2709,Chevrolet,Impala,2008,WAUNF7,4,Maroon,TRUE
+2710,Ford,Thunderbird,2004,WBABS3,5,Purple,TRUE
+2711,Honda,Pilot,2011,SCBGR3,5,Teal,TRUE
+2712,Mercedes-Benz,R-Class,2007,WBASP4,4,Green,TRUE
+2713,Mitsubishi,Galant,2006,JTDKN3,4,Puce,TRUE
+2714,Mercury,Mystique,1998,SCFAD0,6,Turquoise,TRUE
+2715,Mercedes-Benz,E-Class,1991,WAUFFA,6,Red,TRUE
+2716,Nissan,Rogue,2011,2G4GT5,5,Khaki,TRUE
+2717,GMC,Suburban 2500,1994,2C3CDY,5,Fuscia,TRUE
+2718,Toyota,4Runner,2000,5FNYF3,4,Turquoise,TRUE
+2719,Ford,Bronco,1990,1G6AV5,3,Blue,TRUE
+2720,Daewoo,Nubira,1999,1GYS3F,5,Orange,TRUE
+2721,Buick,Skylark,1989,2G4WE5,6,Red,TRUE
+2722,Buick,Skylark,1994,JH4KB1,6,Teal,TRUE
+2723,Chevrolet,S10,1993,KNAFK4,4,Goldenrod,TRUE
+2724,Ford,Club Wagon,1995,1G6DM5,6,Pink,TRUE
+2725,Chevrolet,3500,1992,5TDDK3,5,Fuscia,TRUE
+2726,Ford,EXP,1987,19XFB4,4,Blue,TRUE
+2727,Lincoln,MKZ,2011,1N4AB7,5,Indigo,TRUE
+2728,Cadillac,Escalade ESV,2006,1G6EC1,6,Turquoise,TRUE
+2729,Nissan,Xterra,2008,5XXGM4,6,Turquoise,TRUE
+2730,Lotus,Esprit,2000,1G6DP8,6,Mauv,TRUE
+2731,Volkswagen,Type 2,1988,JM3TB2,5,Indigo,TRUE
+2732,Pontiac,Tempest,1961,SCBLF3,6,Teal,TRUE
+2733,Suzuki,Swift,1998,SCFEBB,5,Turquoise,TRUE
+2734,GMC,Sierra 1500,2003,WAUMF9,5,Violet,TRUE
+2735,Volkswagen,Touareg,2012,WBAXG5,5,Aquamarine,TRUE
+2736,BMW,3 Series,1994,WBAVB7,3,Aquamarine,TRUE
+2737,Plymouth,Voyager,1995,3D73M4,5,Khaki,TRUE
+2738,Kia,Rio,2003,2C3CDZ,4,Orange,TRUE
+2739,Bentley,Continental GT,2009,2T1BU4,4,Khaki,TRUE
+2740,Honda,Accord,1999,WA1YD5,6,Blue,TRUE
+2741,Mitsubishi,Pajero,2002,WAUDL6,4,Fuscia,TRUE
+2742,Toyota,Xtra,1993,1FMEU8,3,Purple,TRUE
+2743,Mercury,Villager,1993,1G4HP5,4,Puce,TRUE
+2744,Chrysler,Concorde,2000,YV1612,5,Mauv,TRUE
+2745,Ford,LTD Crown Victoria,1989,1G4GB5,5,Fuscia,TRUE
+2746,Geo,Tracker,1996,3G5DA0,5,Khaki,TRUE
+2747,Rolls-Royce,Phantom,2010,3C6JD6,6,Orange,TRUE
+2748,Mercury,Villager,1998,2G61W5,4,Red,TRUE
+2749,Dodge,Ram 3500,2008,3GYFNC,3,Teal,TRUE
+2750,Infiniti,Q,1994,JM1CR2,4,Pink,TRUE
+2751,Suzuki,Sidekick,1996,3VW467,5,Fuscia,TRUE
+2752,Mazda,Miata MX-5,1999,WBAAX1,6,Puce,TRUE
+2753,Chrysler,300M,2004,WVGDF9,3,Turquoise,TRUE
+2754,Mitsubishi,Diamante,1993,5J6TF1,5,Aquamarine,TRUE
+2755,Dodge,Dakota Club,1997,3D73Y4,6,Puce,TRUE
+2756,Toyota,Tundra,2010,1G6DM8,4,Blue,TRUE
+2757,GMC,Jimmy,1993,3N1AB7,4,Turquoise,TRUE
+2758,Kia,Sedona,2010,SAJWA0,6,Red,TRUE
+2759,Pontiac,Grand Prix,1993,JM3ER2,4,Teal,TRUE
+2760,Lincoln,Mark LT,2006,SCFFBC,6,Purple,TRUE
+2761,Lexus,GS,2002,3D4PG1,3,Goldenrod,TRUE
+2762,GMC,Savana 1500,2011,2FMGK5,3,Goldenrod,TRUE
+2763,Lamborghini,Countach,1987,WBAFA5,5,Violet,TRUE
+2764,Lexus,LS,2005,1D7RW2,4,Turquoise,TRUE
+2765,Buick,Century,2005,3C63DR,4,Pink,TRUE
+2766,GMC,Savana,2006,2G4GN5,5,Puce,TRUE
+2767,Ford,Country,1967,WBXPA9,6,Blue,TRUE
+2768,Nissan,200SX,1996,WAUTFA,5,Orange,TRUE
+2769,Ford,Focus,2007,WA1VMB,3,Purple,TRUE
+2770,GMC,Savana 3500,1997,WAUPFA,4,Aquamarine,TRUE
+2771,Pontiac,GTO,1973,WP0CA2,3,Turquoise,TRUE
+2772,Kia,Sportage,2000,W04GR5,6,Fuscia,TRUE
+2773,Chrysler,LHS,1994,WA1CMA,3,Orange,TRUE
+2774,Plymouth,Laser,1992,SCFAD0,4,Crimson,TRUE
+2775,Volkswagen,GTI,1993,5FPYK1,6,Teal,TRUE
+2776,Volkswagen,Fox,1987,3D7JV1,5,Aquamarine,TRUE
+2777,Chevrolet,Express 2500,1996,WAULFA,6,Orange,TRUE
+2778,Porsche,Boxster,2001,3VW4T7,6,Red,TRUE
+2779,Mercedes-Benz,S-Class,1987,JN8AE2,4,Indigo,TRUE
+2780,Audi,Quattro,1985,SCBBP9,6,Goldenrod,TRUE
+2781,Mercury,Sable,1994,WBAEA5,6,Teal,TRUE
+2782,Chevrolet,Silverado 3500,2005,WA1LFB,3,Purple,TRUE
+2783,Hyundai,Santa Fe,2008,JHMGE8,5,Purple,TRUE
+2784,Lotus,Exige,2008,1N4AL2,4,Aquamarine,TRUE
+2785,Mitsubishi,Mirage,1995,1GTPCT,6,Crimson,TRUE
+2786,Chevrolet,Caprice,1977,WAUXU5,5,Turquoise,TRUE
+2787,Buick,Coachbuilder,1993,WUARL4,4,Yellow,TRUE
+2788,GMC,Safari,1994,WAUSF9,4,Khaki,TRUE
+2789,Mercury,Montego,2005,WBABW5,6,Khaki,TRUE
+2790,Honda,Accord,1992,5GAKRA,4,Puce,TRUE
+2791,Bentley,Continental GT,2010,1FTEW1,5,Violet,TRUE
+2792,Chevrolet,Camaro,2002,1C4SDJ,3,Orange,TRUE
+2793,Honda,Accord,2008,1FTEW1,4,Mauv,TRUE
+2794,Plymouth,Fury,1964,2T1BU4,4,Red,TRUE
+2795,Cadillac,Escalade,2010,WAUEH4,5,Turquoise,TRUE
+2796,Land Rover,LR3,2009,WBA3N3,4,Green,TRUE
+2797,Buick,Park Avenue,1999,1G4HR5,6,Blue,TRUE
+2798,Hyundai,Accent,2003,1GKS1E,4,Pink,TRUE
+2799,Mitsubishi,Montero Sport,2004,1D7RB1,4,Turquoise,TRUE
+2800,Infiniti,G,2009,WAUPN4,3,Puce,TRUE
+2801,Bentley,Continental,2006,5UXZW0,5,Violet,TRUE
+2802,Lexus,SC,2010,WBA5M4,3,Orange,TRUE
+2803,Toyota,Tundra,2012,1GKKRN,3,Red,TRUE
+2804,Ford,E-Series,1989,3FAHP0,5,Purple,TRUE
+2805,Bentley,Continental,2006,1C3CCB,4,Goldenrod,TRUE
+2806,Suzuki,Vitara,2004,SALFR2,6,Pink,TRUE
+2807,Lotus,Elan,1992,1G4HR5,6,Indigo,TRUE
+2808,Infiniti,QX,2003,WAUJT5,5,Khaki,TRUE
+2809,Volkswagen,Golf,1991,19UUA7,6,Indigo,TRUE
+2810,Hyundai,Azera,2008,3D7JB1,6,Blue,TRUE
+2811,Mazda,Miata MX-5,2010,19XFB2,4,Crimson,TRUE
+2812,Acura,NSX,2005,1G4GC5,6,Red,TRUE
+2813,GMC,Yukon,2002,WBA1J7,3,Pink,TRUE
+2814,Mitsubishi,Truck,1987,JTHBP5,6,Puce,TRUE
+2815,Mazda,MX-5,2011,1D4PU5,3,Purple,TRUE
+2816,Lincoln,Continental,1985,WAUBF7,3,Blue,TRUE
+2817,Daihatsu,Rocky,1992,1C4RDH,5,Orange,TRUE
+2818,Volkswagen,GTI,2009,2G4GK5,6,Yellow,TRUE
+2819,Buick,Riviera,1996,1B3CB9,4,Khaki,TRUE
+2820,BMW,760,2003,WBAUP9,4,Maroon,TRUE
+2821,Plymouth,Laser,1993,3GYFNE,6,Pink,TRUE
+2822,Chevrolet,Corvette,1960,WAUML6,6,Crimson,TRUE
+2823,Porsche,911,1993,JA32U2,4,Violet,TRUE
+2824,Chevrolet,HHR,2011,19UUA5,3,Goldenrod,TRUE
+2825,Saab,900,1986,WBAEJ1,4,Goldenrod,TRUE
+2826,Dodge,Caravan,1995,WAUSF7,4,Indigo,TRUE
+2827,Scion,tC,2010,WAUHF7,3,Mauv,TRUE
+2828,Cadillac,CTS,2004,1FAHP2,6,Yellow,TRUE
+2829,BMW,Z3,2002,3D73M4,5,Purple,TRUE
+2830,Pontiac,Bonneville,1986,5GADV2,4,Violet,TRUE
+2831,Mazda,Protege,2001,1GT022,3,Turquoise,TRUE
+2832,Lincoln,Mark LT,2006,JM3KE2,4,Indigo,TRUE
+2833,Dodge,Caravan,2004,KMHEC4,6,Purple,TRUE
+2834,Chrysler,Aspen,2007,WAUMF7,6,Red,TRUE
+2835,Infiniti,I,1998,JTHBL1,4,Khaki,TRUE
+2836,Volkswagen,Jetta,2005,WA1EY7,3,Purple,TRUE
+2837,BMW,X5,2006,1D7CE2,5,Violet,TRUE
+2838,Volkswagen,Golf,1995,2LMHJ5,5,Yellow,TRUE
+2839,Volvo,S40,2003,SALFR2,3,Indigo,TRUE
+2840,Volkswagen,GTI,2011,5BZAF0,6,Mauv,TRUE
+2841,Audi,A3,2011,WDDGF5,5,Goldenrod,TRUE
+2842,Toyota,Prius,2009,1G6KF5,6,Turquoise,TRUE
+2843,Cadillac,Escalade EXT,2005,SALAC2,5,Turquoise,TRUE
+2844,Chrysler,300,2006,1N6AF0,6,Turquoise,TRUE
+2845,Dodge,Stealth,1995,1G6AB5,4,Red,TRUE
+2846,Pontiac,Grand Prix,1979,WAUXD6,4,Fuscia,TRUE
+2847,Honda,Passport,2000,5UXKR6,6,Purple,TRUE
+2848,Volkswagen,GTI,1998,KNALN4,5,Turquoise,TRUE
+2849,Oldsmobile,Bravada,1994,WBAPK7,4,Aquamarine,TRUE
+2850,Chevrolet,Silverado,2002,WBA3B9,3,Turquoise,TRUE
+2851,Volkswagen,Jetta,2001,WAU3GA,6,Yellow,TRUE
+2852,Chevrolet,Tracker,2003,3N1BC1,3,Turquoise,TRUE
+2853,Toyota,Yaris,2012,2T3BF4,5,Mauv,TRUE
+2854,GMC,Yukon,2001,1G6AY5,4,Aquamarine,TRUE
+2855,Suzuki,SX4,2009,1G6DX6,5,Maroon,TRUE
+2856,Mazda,Tribute,2011,3FAHP0,3,Khaki,TRUE
+2857,Lexus,LS,2012,WAUBGA,4,Blue,TRUE
+2858,Kia,Rio,2009,2CTALM,3,Red,TRUE
+2859,Volvo,V90,1998,JA32U2,6,Puce,TRUE
+2860,Mitsubishi,Galant,2008,KMHHT6,3,Turquoise,TRUE
+2861,Ford,Freestar,2003,3VW8S7,4,Turquoise,TRUE
+2862,Chevrolet,Tracker,1998,3D73Y4,4,Aquamarine,TRUE
+2863,Honda,Pilot,2010,WAUKF7,6,Mauv,TRUE
+2864,Ford,F-Series Super Duty,2010,5YMGY0,4,Pink,TRUE
+2865,Aston Martin,DBS,2011,3VWJX7,3,Mauv,TRUE
+2866,Mercedes-Benz,SL65 AMG,2006,WAUPL6,3,Orange,TRUE
+2867,Nissan,Maxima,2011,1GYS3J,3,Pink,TRUE
+2868,Subaru,SVX,1996,5N1AR1,6,Green,TRUE
+2869,Honda,Odyssey,1997,WBA3D5,4,Pink,TRUE
+2870,Volvo,S40,2001,JN8AE2,5,Orange,TRUE
+2871,Chrysler,Town & Country,1999,3C6JD6,6,Turquoise,TRUE
+2872,Lincoln,Navigator,2002,1G6DM1,5,Yellow,TRUE
+2873,Land Rover,Freelander,2010,4USBT3,5,Fuscia,TRUE
+2874,Dodge,Caravan,1985,JTJBAR,5,Blue,TRUE
+2875,Corbin,Sparrow,1999,1FTSW3,5,Green,TRUE
+2876,Volkswagen,rio,2002,5UXWX7,5,Purple,TRUE
+2877,Buick,Coachbuilder,1991,3FA6P0,6,Violet,TRUE
+2878,Suzuki,SJ,1992,2T1KE4,6,Mauv,TRUE
+2879,Mitsubishi,Space,1984,2HNYD1,6,Maroon,TRUE
+2880,Plymouth,Laser,1989,1C3BC6,4,Purple,TRUE
+2881,Maserati,Coupe,2006,3VWC17,4,Aquamarine,TRUE
+2882,BMW,M,2002,4T1BD1,4,Puce,TRUE
+2883,BMW,M3,2006,1C3CDF,6,Purple,TRUE
+2884,Infiniti,M,2006,5TFCW5,6,Yellow,TRUE
+2885,Scion,xB,2004,WAU4FA,3,Indigo,TRUE
+2886,Pontiac,Firebird Trans Am,1986,1D7RW3,5,Aquamarine,TRUE
+2887,Ford,LTD,1986,1G6KE5,6,Puce,TRUE
+2888,Mercedes-Benz,E-Class,1995,3C3CFF,4,Teal,TRUE
+2889,Eagle,Talon,1991,WAUFGA,4,Crimson,TRUE
+2890,Subaru,Legacy,1999,WBAEK7,5,Yellow,TRUE
+2891,Lamborghini,Murciélago,2002,1FMNE1,3,Green,TRUE
+2892,Ford,Expedition EL,2008,2FMDK4,3,Green,TRUE
+2893,Panoz,Esperante,2005,3GYEK6,5,Teal,TRUE
+2894,Mazda,929,1995,19XFB4,3,Yellow,TRUE
+2895,Ford,Escort,2000,3GYFNG,4,Indigo,TRUE
+2896,Oldsmobile,Custom Cruiser,1992,1G6DL6,4,Khaki,TRUE
+2897,Suzuki,Esteem,2002,KMHTC6,6,Aquamarine,TRUE
+2898,Chevrolet,Sportvan G30,1994,KMHHU6,3,Turquoise,TRUE
+2899,Ford,Excursion,2003,1C3CDF,5,Turquoise,TRUE
+2900,Lexus,LX,1997,2FMHK6,6,Green,TRUE
+2901,Pontiac,Firefly,1985,1B3CB2,3,Indigo,TRUE
+2902,Jaguar,XK Series,2001,2T2BK1,6,Khaki,TRUE
+2903,Infiniti,EX,2009,WAU4GB,5,Blue,TRUE
+2904,Oldsmobile,Bravada,1992,SCFHDD,5,Fuscia,TRUE
+2905,Ford,E-Series,1992,1G6DS8,3,Orange,TRUE
+2906,Mercury,Sable,2009,WAUKF9,6,Turquoise,TRUE
+2907,Dodge,Intrepid,2003,WAUVFA,4,Blue,TRUE
+2908,Dodge,Dakota,1997,3FAHP0,3,Pink,TRUE
+2909,Lotus,Esprit,1991,WBAVA3,3,Blue,TRUE
+2910,Mitsubishi,Tredia,1988,WBAUC9,5,Violet,TRUE
+2911,Mitsubishi,Montero,1995,5N1AA0,3,Violet,TRUE
+2912,BMW,X3,2007,WDDGF5,6,Crimson,TRUE
+2913,Chevrolet,Lumina,1996,1C4RDH,3,Teal,TRUE
+2914,GMC,Jimmy,1994,JN8AF5,4,Turquoise,TRUE
+2915,Cadillac,Escalade EXT,2005,1GYS4G,5,Purple,TRUE
+2916,Chevrolet,Blazer,2001,WAUDH7,4,Orange,TRUE
+2917,Mitsubishi,Galant,2000,3D73Y3,4,Red,TRUE
+2918,Plymouth,Neon,2000,TRUSX2,4,Pink,TRUE
+2919,Mercury,Sable,1991,1N6AD0,6,Teal,TRUE
+2920,GMC,Rally Wagon G3500,1995,WA1LGB,3,Red,TRUE
+2921,Mazda,RX-7,1984,1FTEW1,4,Puce,TRUE
+2922,Acura,TL,2001,JN1AZ4,4,Turquoise,TRUE
+2923,Ford,F250,2000,WAUBH7,6,Aquamarine,TRUE
+2924,Pontiac,Trans Sport,1992,1GYS4K,5,Fuscia,TRUE
+2925,Ford,E-Series,1989,WBABS5,4,Pink,TRUE
+2926,Volvo,V70,2001,1GYS3J,4,Blue,TRUE
+2927,Chevrolet,Silverado,2003,W04GU5,3,Fuscia,TRUE
+2928,Ford,Crown Victoria,1994,19UYA4,4,Maroon,TRUE
+2929,Nissan,Maxima,2010,WAULVB,5,Yellow,TRUE
+2930,Infiniti,QX,2005,JH4KB1,3,Indigo,TRUE
+2931,Mazda,Miata MX-5,1992,2C3CDX,5,Fuscia,TRUE
+2932,Infiniti,I,2002,WDBSK7,5,Turquoise,TRUE
+2933,Ford,Contour,1998,1G6AM1,3,Violet,TRUE
+2934,Chevrolet,Sportvan G20,1992,5N1AA0,6,Green,TRUE
+2935,Mitsubishi,Diamante,1998,1FAHP3,4,Green,TRUE
+2936,Volkswagen,Golf,1983,5GAKRC,5,Crimson,TRUE
+2937,Ford,Taurus,1999,WBA3B1,4,Pink,TRUE
+2938,Dodge,Viper,1997,WAULC5,3,Blue,TRUE
+2939,Lexus,LFA,2012,1FTMF1,3,Indigo,TRUE
+2940,Audi,S6,2008,5UXFF0,5,Puce,TRUE
+2941,Dodge,Ram Van 2500,1996,3C63DP,5,Blue,TRUE
+2942,Mazda,Protege5,2003,1D4PT7,4,Blue,TRUE
+2943,Ford,Escape,2012,WAUAFA,4,Violet,TRUE
+2944,Mitsubishi,Excel,1988,WBAPH7,3,Goldenrod,TRUE
+2945,Mercedes-Benz,S-Class,1996,JN1AZ4,4,Orange,TRUE
+2946,Maserati,Quattroporte,2012,1C4NJP,5,Indigo,TRUE
+2947,Dodge,Ram Van 3500,2002,1GYS4G,3,Purple,TRUE
+2948,Acura,TL,2010,WBANB5,6,Yellow,TRUE
+2949,Ford,Crown Victoria,1998,JN8AZ1,6,Violet,TRUE
+2950,Oldsmobile,Regency,1997,1GYS4J,5,Red,TRUE
+2951,Mitsubishi,Pajero,1986,WA1AY7,6,Turquoise,TRUE
+2952,Lexus,GS,2006,3C3CFF,4,Maroon,TRUE
+2953,Dodge,Ram 2500,1995,1G6DX6,6,Goldenrod,TRUE
+2954,Lexus,LS,2002,WAULD6,3,Green,TRUE
+2955,GMC,Savana 1500,2003,3VW1K7,5,Fuscia,TRUE
+2956,GMC,2500,1999,3G5DB0,6,Orange,TRUE
+2957,Toyota,Previa,1994,1C3CDF,4,Mauv,TRUE
+2958,Maserati,Quattroporte,1985,1GYS4H,6,Puce,TRUE
+2959,Chevrolet,Avalanche 2500,2003,1N4AL2,6,Indigo,TRUE
+2960,Lexus,LX,2005,SAJWA4,6,Khaki,TRUE
+2961,Isuzu,Ascender,2009,1B3CB2,4,Teal,TRUE
+2962,Dodge,Ram 1500,1994,1G4GL5,5,Yellow,TRUE
+2963,Ford,Thunderbird,2002,WDDGF4,3,Indigo,TRUE
+2964,Lincoln,MKX,2012,WA1BY7,3,Indigo,TRUE
+2965,Oldsmobile,Cutlass,1997,WAUK2A,6,Goldenrod,TRUE
+2966,Lexus,SC,2010,2T3BFR,5,Indigo,TRUE
+2967,Audi,Quattro,1994,WBAPH5,3,Yellow,TRUE
+2968,Toyota,Land Cruiser,2003,1G4HC5,4,Aquamarine,TRUE
+2969,Chevrolet,Silverado 3500,2006,JTHDU1,3,Puce,TRUE
+2970,Hyundai,Accent,2012,WBADS3,4,Fuscia,TRUE
+2971,Chevrolet,Cavalier,1993,WAUEH7,5,Aquamarine,TRUE
+2972,Hyundai,Elantra,2012,JH4CL9,3,Goldenrod,TRUE
+2973,Mercury,Sable,2001,1G6AA1,5,Yellow,TRUE
+2974,Porsche,Boxster,2007,5N1BA0,4,Crimson,TRUE
+2975,Pontiac,Bonneville,1993,WBAWL1,6,Puce,TRUE
+2976,Spyker,C8,2005,5N1AN0,5,Mauv,TRUE
+2977,Cadillac,Escalade,2005,WBAFU7,6,Blue,TRUE
+2978,GMC,1500,1992,WUARL4,4,Turquoise,TRUE
+2979,Mazda,Protege,1995,1G6KD5,4,Blue,TRUE
+2980,Honda,Civic,1989,1D7RE5,4,Khaki,TRUE
+2981,Nissan,Frontier,1998,1GYUKK,6,Violet,TRUE
+2982,Mercedes-Benz,M-Class,2012,SCBCU8,3,Turquoise,TRUE
+2983,Porsche,928,1993,SALFP2,5,Aquamarine,TRUE
+2984,Buick,Park Avenue,1992,JTMHY7,5,Green,TRUE
+2985,Volkswagen,Tiguan,2011,1G6KP5,4,Crimson,TRUE
+2986,Jeep,Liberty,2011,3GYFNC,3,Indigo,TRUE
+2987,Hyundai,Tiburon,2007,WBALW7,5,Turquoise,TRUE
+2988,Jeep,Cherokee,2000,WAUDG6,3,Purple,TRUE
+2989,Honda,Civic,2002,1FMJK1,3,Maroon,TRUE
+2990,Toyota,Land Cruiser,2011,1FTEW1,6,Turquoise,TRUE
+2991,Ram,3500,2011,JTDZN3,6,Fuscia,TRUE
+2992,Mitsubishi,Lancer,2009,JM1NC2,6,Puce,TRUE
+2993,Infiniti,M,2007,SCFLDC,4,Violet,TRUE
+2994,Toyota,MR2,1986,3N1BC1,6,Aquamarine,TRUE
+2995,GMC,Savana 2500,2006,SCBZB2,4,Pink,TRUE
+2996,Ford,Club Wagon,1992,WBABS3,3,Purple,TRUE
+2997,Volvo,V50,2005,WAUR2A,3,Goldenrod,TRUE
+2998,Dodge,Ram 1500,2009,3D7TT2,5,Goldenrod,TRUE
+2999,Honda,Accord,1994,WAURV7,6,Fuscia,TRUE
+3000,GMC,Canyon,2007,2T1BPR,3,Turquoise,TRUE
+3001,Toyota,Corolla,2012,1G4GA5,3,Goldenrod,TRUE
+3002,Buick,Enclave,2009,WBA3C1,5,Puce,TRUE
+3003,Scion,tC,2009,1D7RB1,3,Maroon,TRUE
+3004,Suzuki,Equator,2012,3D4PH9,4,Aquamarine,TRUE
+3005,Lincoln,MKX,2011,2G4WN5,6,Puce,TRUE
+3006,Plymouth,Voyager,1994,1C3CDF,3,Turquoise,TRUE
+3007,Mazda,B-Series Plus,1999,1GYS4A,6,Pink,TRUE
+3008,Jeep,Grand Cherokee,2012,5GADV3,6,Orange,TRUE
+3009,Suzuki,Verona,2005,WP0AB2,4,Goldenrod,TRUE
+3010,Saab,900,1996,1FMEU8,4,Crimson,TRUE
+3011,Toyota,Tacoma,2005,WA1DGA,6,Crimson,TRUE
+3012,Mazda,Mazda5,2010,1G6DK5,4,Teal,TRUE
+3013,Dodge,Caravan,2001,5N1AA0,3,Purple,TRUE
+3014,Mercedes-Benz,300SL,1992,KMHHT6,3,Khaki,TRUE
+3015,Ford,Escort,2002,SCFBF0,6,Orange,TRUE
+3016,Dodge,Ram Wagon B350,1992,JH4CU2,5,Green,TRUE
+3017,BMW,3 Series,2004,WAULV4,3,Aquamarine,TRUE
+3018,GMC,2500 Club Coupe,1992,2HNYD2,3,Purple,TRUE
+3019,Nissan,200SX,1997,WBAYE8,4,Yellow,TRUE
+3020,Maybach,57,2011,YV440M,4,Puce,TRUE
+3021,Mitsubishi,Montero,2004,1J4AA2,4,Indigo,TRUE
+3022,Ford,Econoline E150,2002,JN8AS5,5,Fuscia,TRUE
+3023,Hummer,H2,2007,JHMZE2,5,Goldenrod,TRUE
+3024,Isuzu,Axiom,2002,WAUMF6,5,Crimson,TRUE
+3025,Ford,Mustang,1967,YV4902,5,Blue,TRUE
+3026,Mercury,Sable,2005,WAUMFA,6,Fuscia,TRUE
+3027,Buick,Coachbuilder,1991,2HNYD1,5,Goldenrod,TRUE
+3028,Chevrolet,2500,2000,WAUBFC,6,Maroon,TRUE
+3029,Chevrolet,Express 1500,2008,1FTSW2,6,Violet,TRUE
+3030,Toyota,Sienna,2008,WAUVFA,3,Violet,TRUE
+3031,Lincoln,Navigator,2011,1G4GA5,5,Mauv,TRUE
+3032,Buick,Somerset,1985,1FTEW1,3,Orange,TRUE
+3033,Ford,F250,1996,WBA3X9,3,Crimson,TRUE
+3034,Ford,Escape,2009,5FRYD4,4,Red,TRUE
+3035,Cadillac,SRX,2006,WBSBR9,3,Maroon,TRUE
+3036,Subaru,SVX,1992,3C4PDD,6,Mauv,TRUE
+3037,Plymouth,Colt Vista,1994,1FADP5,6,Purple,TRUE
+3038,Isuzu,Trooper,2000,JN8BS1,6,Yellow,TRUE
+3039,Audi,RS 4,2008,SCFKDC,4,Yellow,TRUE
+3040,Volvo,S60,2002,3D73Y3,5,Pink,TRUE
+3041,Chevrolet,Cruze,2011,JM3TB2,4,Maroon,TRUE
+3042,MINI,Cooper,2004,5GAKVC,3,Violet,TRUE
+3043,Chrysler,300,2009,JN8AF5,5,Mauv,TRUE
+3044,Ford,F150,2000,1G4PT5,4,Indigo,TRUE
+3045,Hyundai,Sonata,1993,2C3CDZ,3,Purple,TRUE
+3046,Dodge,Ram 2500,1997,2C3CDX,4,Orange,TRUE
+3047,Infiniti,QX,1998,WBA3V7,4,Teal,TRUE
+3048,Mitsubishi,Pajero,1998,1J4NF1,6,Blue,TRUE
+3049,Jeep,Wrangler,1994,WAUVT6,6,Yellow,TRUE
+3050,Pontiac,Vibe,2006,SCBLE4,4,Orange,TRUE
+3051,Acura,RL,2000,KMHCT4,3,Orange,TRUE
+3052,Jaguar,XK Series,1998,5TDDCR,6,Turquoise,TRUE
+3053,Lexus,LX,1997,JN1AV7,3,Orange,TRUE
+3054,Honda,Civic,1991,1G6AB5,6,Yellow,TRUE
+3055,GMC,Canyon,2012,SALVE2,6,Blue,TRUE
+3056,Chevrolet,SSR,2005,WAUKF9,5,Violet,TRUE
+3057,Suzuki,Verona,2004,5TDDK3,6,Fuscia,TRUE
+3058,Jaguar,X-Type,2003,JN1AZ4,4,Pink,TRUE
+3059,BMW,325,2004,1FTEW1,3,Goldenrod,TRUE
+3060,Nissan,300ZX,1993,WAUVVA,3,Green,TRUE
+3061,Buick,Regal,1992,WAUFFA,5,Blue,TRUE
+3062,Chevrolet,Camaro,1967,1G6DC6,5,Fuscia,TRUE
+3063,Ford,F-Series,1987,2G4GV5,6,Crimson,TRUE
+3064,Kia,Amanti,2004,3VW4S7,4,Aquamarine,TRUE
+3065,Lincoln,Town Car,1984,TRUSC2,3,Goldenrod,TRUE
+3066,Chevrolet,Impala SS,1994,1D4PU4,4,Aquamarine,TRUE
+3067,Dodge,Dakota,2011,1GYS4C,5,Blue,TRUE
+3068,Saturn,Relay,2005,2B3CK9,5,Fuscia,TRUE
+3069,Lamborghini,Murciélago,2002,JN1AZ4,5,Violet,TRUE
+3070,Chevrolet,Express 1500,2000,KNADM4,4,Crimson,TRUE
+3071,Pontiac,Grand Prix,1970,4JGDA2,5,Teal,TRUE
+3072,Subaru,Justy,1988,1FMJK1,3,Khaki,TRUE
+3073,Citroën,CX,1974,WAUHF7,5,Maroon,TRUE
+3074,Dodge,Viper RT/10,1993,WDDHF8,6,Teal,TRUE
+3075,Isuzu,Trooper,1993,WAUDF9,5,Turquoise,TRUE
+3076,Chrysler,200,2012,SCBZK2,6,Pink,TRUE
+3077,Mercury,Sable,1993,5GAKVC,5,Orange,TRUE
+3078,Audi,Q7,2011,JTHBB1,4,Puce,TRUE
+3079,Mercedes-Benz,300SL,1993,1G6DJ5,5,Khaki,TRUE
+3080,Mercedes-Benz,GL-Class,2012,2V4RW3,3,Teal,TRUE
+3081,Audi,A8,2005,KNDJT2,3,Yellow,TRUE
+3082,Lamborghini,Gallardo,2011,3G5DB0,3,Goldenrod,TRUE
+3083,Mitsubishi,Outlander,2005,WBANV1,6,Aquamarine,TRUE
+3084,Nissan,Pathfinder,2007,WBANW1,6,Blue,TRUE
+3085,GMC,Sierra,2009,5LMJJ2,3,Purple,TRUE
+3086,Hummer,H1,1995,WAULT5,5,Goldenrod,TRUE
+3087,GMC,Savana 1500,2010,SALFR2,6,Violet,TRUE
+3088,Isuzu,Hombre Space,2000,WAUAC4,5,Orange,TRUE
+3089,Jeep,Grand Cherokee,1999,1FTWW3,5,Green,TRUE
+3090,Infiniti,M,2006,WAU4GA,6,Teal,TRUE
+3091,Maserati,GranTurismo,2010,WAUGN9,5,Khaki,TRUE
+3092,Pontiac,Firefly,1990,WBALW7,4,Red,TRUE
+3093,Cadillac,CTS-V,2011,JH4DB7,3,Puce,TRUE
+3094,Mazda,Mazda6,2003,ML32A3,4,Goldenrod,TRUE
+3095,Ford,Explorer Sport,2002,3D7TT2,3,Yellow,TRUE
+3096,GMC,Sierra 3500,2008,WBSBL9,6,Violet,TRUE
+3097,Buick,Skylark,1985,KMHHU6,3,Crimson,TRUE
+3098,Honda,Pilot,2011,SCBLC3,6,Puce,TRUE
+3099,Honda,Civic Si,2005,WVGDF9,4,Turquoise,TRUE
+3100,Dodge,Shadow,1994,1G6KE5,5,Maroon,TRUE
+3101,Honda,Prelude,1984,5FRYD3,6,Fuscia,TRUE
+3102,Toyota,Camry,2011,5N1AN0,3,Yellow,TRUE
+3103,Honda,CR-V,2001,4A31K2,6,Aquamarine,TRUE
+3104,Daewoo,Leganza,2002,WBADT3,3,Purple,TRUE
+3105,Ford,Contour,1998,4A4AP3,4,Purple,TRUE
+3106,Lexus,ES,2004,3VWPG3,5,Puce,TRUE
+3107,Pontiac,Grand Prix,1999,1G6KD5,5,Orange,TRUE
+3108,Cadillac,XLR,2005,1G4CU5,5,Purple,TRUE
+3109,Pontiac,Grand Prix,2003,WAURFA,4,Puce,TRUE
+3110,Mazda,B-Series Plus,1996,1G6EL1,5,Purple,TRUE
+3111,Volkswagen,New Beetle,1999,SCBFR7,6,Goldenrod,TRUE
+3112,Lotus,Esprit,1996,5FPYK1,6,Fuscia,TRUE
+3113,Pontiac,Daewoo Kalos,2006,1B3CB9,5,Puce,TRUE
+3114,Lexus,SC,2002,5FNYF3,3,Violet,TRUE
+3115,Toyota,T100,1998,1FTEW1,6,Green,TRUE
+3116,Mercury,Mountaineer,2007,JM1CW2,5,Maroon,TRUE
+3117,Mercury,Milan,2009,WAUKFA,6,Goldenrod,TRUE
+3118,Mitsubishi,GTO,1990,WAUAFA,3,Purple,TRUE
+3119,Hummer,H2,2008,WBABV1,3,Indigo,TRUE
+3120,Mitsubishi,GTO,1996,2C3CCA,3,Yellow,TRUE
+3121,Daewoo,Lanos,2000,1GTN2T,6,Crimson,TRUE
+3122,Pontiac,Grand Prix,2008,JN1BY1,4,Violet,TRUE
+3123,Chevrolet,Silverado,1999,WBAUL7,6,Purple,TRUE
+3124,Nissan,350Z,2008,1C4NJC,4,Puce,TRUE
+3125,Volvo,V40,2002,5N1AN0,5,Purple,TRUE
+3126,Acura,Legend,1989,JTHDU1,3,Indigo,TRUE
+3127,Nissan,Quest,2011,KM8JT3,6,Teal,TRUE
+3128,Buick,Reatta,1988,WBAET3,3,Red,TRUE
+3129,Mazda,Mazda3,2006,YV4852,6,Orange,TRUE
+3130,Jaguar,XJ Series,1996,YV140M,3,Khaki,TRUE
+3131,Nissan,Quest,2008,WBALY1,4,Orange,TRUE
+3132,Chevrolet,Lumina,1996,3TMJU4,6,Mauv,TRUE
+3133,Cadillac,Escalade EXT,2008,JN1CV6,4,Goldenrod,TRUE
+3134,Toyota,Highlander,2007,3D7TT2,5,Indigo,TRUE
+3135,Land Rover,Range Rover,2000,WBA6B8,3,Red,TRUE
+3136,Acura,Legend,1989,1G6DU6,6,Pink,TRUE
+3137,Ford,F250,2005,2HNYD2,4,Fuscia,TRUE
+3138,Saab,5-Sep,2001,1N6AA0,6,Green,TRUE
+3139,Isuzu,Amigo,1994,5FNYF3,5,Mauv,TRUE
+3140,Jeep,Liberty,2007,WAUAH9,5,Teal,TRUE
+3141,Chrysler,Town & Country,2001,WAUTFA,4,Green,TRUE
+3142,Chevrolet,Suburban 2500,1992,JTDKDT,3,Fuscia,TRUE
+3143,Volkswagen,Cabriolet,1987,2G4GT5,4,Crimson,TRUE
+3144,Infiniti,G35,2007,5GAKRA,3,Crimson,TRUE
+3145,Ford,Ranger,2011,5XYKT3,4,Crimson,TRUE
+3146,Infiniti,EX,2012,3C63DR,6,Teal,TRUE
+3147,BMW,5 Series,2004,WBAEN3,4,Khaki,TRUE
+3148,Pontiac,Fiero,1987,1GD02Z,3,Green,TRUE
+3149,Mitsubishi,Mirage,1986,3VWAL7,4,Blue,TRUE
+3150,Bentley,Continental GT,2008,2T3BF4,3,Yellow,TRUE
+3151,Toyota,RAV4,2003,TRUSX2,5,Red,TRUE
+3152,Ford,Club Wagon,1995,1G6DA5,3,Green,TRUE
+3153,Volkswagen,GTI,2002,3GYFNF,3,Indigo,TRUE
+3154,Buick,Regal,1995,WBA3K5,3,Khaki,TRUE
+3155,Acura,RL,2002,SAJWA4,3,Blue,TRUE
+3156,Mazda,MX-5,1992,JM1CW2,4,Maroon,TRUE
+3157,Nissan,Murano,2010,1N6AD0,5,Violet,TRUE
+3158,Mitsubishi,Montero,2006,1GD21Z,5,Turquoise,TRUE
+3159,Pontiac,Sunbird,1987,JH4KB2,5,Maroon,TRUE
+3160,Ford,F-Series,1989,1GD21Z,5,Puce,TRUE
+3161,Ford,Mustang,2010,JH4CU2,3,Blue,TRUE
+3162,Porsche,944,1986,1FTEX1,6,Blue,TRUE
+3163,Toyota,4Runner,1994,WVGAV7,6,Aquamarine,TRUE
+3164,Audi,A8,2007,1G6DC6,5,Maroon,TRUE
+3165,Mazda,RX-7,1992,1G4HA5,6,Crimson,TRUE
+3166,Ford,F350,1996,5J8TB3,3,Crimson,TRUE
+3167,Ford,Laser,1984,WBAKG7,6,Crimson,TRUE
+3168,Nissan,Pathfinder,2007,SAJWA2,5,Blue,TRUE
+3169,Dodge,Stealth,1994,5GADS1,4,Crimson,TRUE
+3170,Hyundai,Sonata,1995,2G4WC5,6,Indigo,TRUE
+3171,Pontiac,Bonneville,1993,WVWBB7,3,Khaki,TRUE
+3172,Chevrolet,3500,1999,19XFA1,4,Turquoise,TRUE
+3173,Cadillac,Eldorado,2001,WAUAFA,6,Goldenrod,TRUE
+3174,Plymouth,Roadrunner,1969,1C3CDF,4,Khaki,TRUE
+3175,Cadillac,Escalade,2012,1FBSS3,3,Puce,TRUE
+3176,Chrysler,Cirrus,2000,WUATNA,6,Violet,TRUE
+3177,Chevrolet,Lumina,2001,3N1CE2,6,Purple,TRUE
+3178,Buick,Special,1962,1B3BD1,3,Crimson,TRUE
+3179,Saturn,Ion,2004,WBANW5,6,Aquamarine,TRUE
+3180,Jeep,Wrangler,1997,YV4902,3,Purple,TRUE
+3181,Saab,5-Sep,2011,WBA5B1,4,Violet,TRUE
+3182,Cadillac,DeVille,2004,3C4PDC,6,Khaki,TRUE
+3183,Buick,Regal,1997,19UYA4,3,Yellow,TRUE
+3184,Buick,Hearse,1996,1G6KP5,3,Maroon,TRUE
+3185,Dodge,Ram Wagon B250,1993,3C6TD4,3,Green,TRUE
+3186,Hyundai,Accent,1998,WAURD6,4,Mauv,TRUE
+3187,GMC,Suburban 1500,1992,3VWAL7,4,Blue,TRUE
+3188,Dodge,Ram Van 3500,1996,3FA6P0,5,Turquoise,TRUE
+3189,Holden,VS Commodore,1995,5UXFF0,6,Puce,TRUE
+3190,Mazda,RX-8,2010,5N1AA0,6,Maroon,TRUE
+3191,Porsche,924,1988,3GYEK6,6,Fuscia,TRUE
+3192,MINI,Cooper,2004,WBAFR7,5,Fuscia,TRUE
+3193,Ford,Contour,1999,2T1BU4,3,Khaki,TRUE
+3194,Dodge,Ram Van 1500,1996,WA1LFA,5,Puce,TRUE
+3195,Infiniti,I,1997,1GYS3C,5,Goldenrod,TRUE
+3196,Subaru,Forester,2004,WBA3N7,6,Turquoise,TRUE
+3197,Volvo,S60,2004,1C4AJW,6,Purple,TRUE
+3198,Pontiac,GTO,1969,WAUBH7,6,Turquoise,TRUE
+3199,Chevrolet,Avalanche,2007,JTEBU4,3,Goldenrod,TRUE
+3200,Audi,Allroad,2005,TRUXD3,3,Goldenrod,TRUE
+3201,Ford,Taurus,1989,1D7CW3,4,Yellow,TRUE
+3202,Infiniti,QX,2010,1FMCU0,4,Aquamarine,TRUE
+3203,Dodge,Ram 2500,1996,1G6AC5,3,Maroon,TRUE
+3204,Volvo,V40,2000,1N6AA0,6,Turquoise,TRUE
+3205,Ford,Escape,2011,1G6KD5,3,Khaki,TRUE
+3206,Spyker,C8 Spyder,2004,3C4PDD,5,Mauv,TRUE
+3207,Lincoln,Continental,1998,1G6KD5,4,Teal,TRUE
+3208,Mazda,MPV,1992,1G6AA1,6,Maroon,TRUE
+3209,Pontiac,Fiero,1988,3C3CFF,6,Red,TRUE
+3210,Mitsubishi,3000GT,1999,3GYFNG,5,Puce,TRUE
+3211,Nissan,Pathfinder,2006,1G4HP5,5,Blue,TRUE
+3212,Mercedes-Benz,CL-Class,1999,1GYEC6,3,Pink,TRUE
+3213,Lincoln,MKT,2013,WBASN4,4,Blue,TRUE
+3214,Acura,RL,2003,WAUBFB,4,Blue,TRUE
+3215,Dodge,Challenger,2011,WAUVC6,3,Turquoise,TRUE
+3216,Dodge,Dakota Club,2003,3FAHP0,5,Teal,TRUE
+3217,Buick,Roadmaster,1993,KMHHT6,5,Puce,TRUE
+3218,Honda,Odyssey,2000,WBADT6,4,Fuscia,TRUE
+3219,Toyota,Prius,2003,WA1LFB,3,Blue,TRUE
+3220,Plymouth,Grand Voyager,1994,JTHDU1,4,Yellow,TRUE
+3221,Chevrolet,Silverado 2500,2000,WP0AA2,3,Pink,TRUE
+3222,Dodge,Dakota,2003,3D73Y3,4,Indigo,TRUE
+3223,Ferrari,California,2010,1G6KD5,5,Purple,TRUE
+3224,Lincoln,Mark VIII,1997,YV4952,5,Khaki,TRUE
+3225,Mercury,Sable,2009,5N1AA0,4,Teal,TRUE
+3226,Pontiac,Trans Sport,1992,SCFFDC,4,Goldenrod,TRUE
+3227,Honda,CR-V,1997,1G4GA5,5,Goldenrod,TRUE
+3228,Mazda,MX-3,1992,1C4RDH,3,Maroon,TRUE
+3229,Volvo,C30,2010,5FPYK1,5,Puce,TRUE
+3230,Chevrolet,Silverado 3500,2012,WAUGN7,3,Green,TRUE
+3231,Lexus,ES,1989,1N6AA0,5,Pink,TRUE
+3232,Ford,Econoline E350,1994,1GD120,3,Maroon,TRUE
+3233,Toyota,Highlander,2001,WBABS5,3,Goldenrod,TRUE
+3234,Buick,Regal,1985,WAU4FA,6,Indigo,TRUE
+3235,Saab,900,1987,3GYFNK,5,Pink,TRUE
+3236,Mitsubishi,GTO,1999,WAUDH4,4,Green,TRUE
+3237,Mazda,CX-7,2010,1D7RW3,4,Fuscia,TRUE
+3238,Dodge,Ram Van 1500,1995,WBAPM7,6,Fuscia,TRUE
+3239,Mercedes-Benz,E-Class,1991,WP0AB2,6,Mauv,TRUE
+3240,Jeep,Commander,2009,1FMCU0,4,Turquoise,TRUE
+3241,Chevrolet,Impala,2001,JTHFE2,3,Violet,TRUE
+3242,Mercury,Topaz,1984,1B3CB1,5,Goldenrod,TRUE
+3243,Dodge,Caravan,1992,WBXPA9,6,Aquamarine,TRUE
+3244,Pontiac,LeMans,1992,SCFFDA,4,Crimson,TRUE
+3245,Ford,E150,2012,WAUNF9,4,Mauv,TRUE
+3246,Cadillac,Eldorado,1993,WBANB3,3,Yellow,TRUE
+3247,Buick,LeSabre,2004,1NXBE4,6,Violet,TRUE
+3248,Ford,ZX2,2003,1G6DC5,5,Orange,TRUE
+3249,Jeep,Liberty,2006,WAULFA,3,Teal,TRUE
+3250,Dodge,Ram Van 1500,1999,WAUBFA,4,Red,TRUE
+3251,Cadillac,Escalade,2005,1N6AA0,3,Violet,TRUE
+3252,Chevrolet,Corvette,1996,WAUFFA,5,Red,TRUE
+3253,Hummer,H1,2003,1G6DV1,5,Crimson,TRUE
+3254,GMC,Yukon XL,2006,SCBLE3,3,Teal,TRUE
+3255,Mercedes-Benz,CLS-Class,2007,5J6TF1,5,Maroon,TRUE
+3256,Isuzu,Axiom,2003,WAUBF4,4,Indigo,TRUE
+3257,Cadillac,XLR,2005,KMHTC6,3,Violet,TRUE
+3258,Eagle,Summit,1992,5TFBY5,3,Pink,TRUE
+3259,Mazda,B-Series,2008,WAUDG9,6,Aquamarine,TRUE
+3260,GMC,Sierra 2500,1999,1GKKRN,3,Khaki,TRUE
+3261,Bentley,Continental Flying Spur,2008,WAULC6,5,Green,TRUE
+3262,Bentley,Continental GT,2006,WVGEF9,3,Turquoise,TRUE
+3263,Infiniti,QX,1998,1FTEW1,6,Turquoise,TRUE
+3264,Ford,Taurus,1989,JN1AZ4,4,Maroon,TRUE
+3265,Chrysler,300M,2002,3D73M3,5,Blue,TRUE
+3266,Mercedes-Benz,GLK-Class,2012,WBA3B1,4,Goldenrod,TRUE
+3267,Audi,Q5,2009,1G4HP5,3,Orange,TRUE
+3268,Plymouth,Colt,1992,WBAUL7,5,Crimson,TRUE
+3269,Volkswagen,Cabriolet,1988,3VW4A7,4,Turquoise,TRUE
+3270,Chevrolet,Silverado,2009,WAUHF7,3,Pink,TRUE
+3271,Pontiac,Vibe,2005,WBXPA9,5,Blue,TRUE
+3272,Dodge,Shadow,1993,WBSKG9,4,Khaki,TRUE
+3273,Volvo,C70,2002,19UUA5,6,Red,TRUE
+3274,Audi,Coupe Quattro,1990,WBAVS1,6,Indigo,TRUE
+3275,Volkswagen,Routan,2010,1FTEW1,5,Blue,TRUE
+3276,Dodge,Viper,1998,KL4CJG,5,Crimson,TRUE
+3277,Infiniti,G25,2011,KMHHT6,3,Indigo,TRUE
+3278,Chevrolet,Sportvan G20,1995,JN8AZ2,5,Violet,TRUE
+3279,Toyota,Prius,2012,WBAUN1,6,Crimson,TRUE
+3280,Volkswagen,CC,2011,3C6JD7,5,Mauv,TRUE
+3281,Chevrolet,S10,2001,JTEBU5,3,Khaki,TRUE
+3282,Chevrolet,Silverado 1500,2011,2C4RRG,5,Yellow,TRUE
+3283,Audi,5000S,1984,1GYUCB,6,Mauv,TRUE
+3284,Volkswagen,Jetta,2008,1G6AB5,3,Yellow,TRUE
+3285,Isuzu,Amigo,1993,5FRYD4,5,Pink,TRUE
+3286,Chevrolet,Camaro,1972,JN8AZ1,4,Yellow,TRUE
+3287,Chevrolet,G-Series G30,1993,JN8CS1,6,Mauv,TRUE
+3288,Saturn,VUE,2003,1C4NJP,3,Indigo,TRUE
+3289,Lincoln,Continental Mark VII,1992,WVGAV7,4,Orange,TRUE
+3290,Lincoln,LS,2000,5GADV2,6,Pink,TRUE
+3291,Pontiac,Sunfire,1998,1G6AD5,6,Aquamarine,TRUE
+3292,Honda,Insight,2003,SCFEBB,6,Turquoise,TRUE
+3293,BMW,3 Series,2012,WAUKF6,4,Turquoise,TRUE
+3294,Lexus,ES,2008,5UXWX7,6,Fuscia,TRUE
+3295,Lincoln,LS,2000,1GD120,5,Green,TRUE
+3296,Pontiac,Firebird Formula,1999,2T1KE4,5,Violet,TRUE
+3297,Audi,S4,2001,3G5DB0,4,Teal,TRUE
+3298,GMC,Jimmy,1993,KNDJN2,3,Crimson,TRUE
+3299,Ford,Econoline E150,1998,5UXFG8,4,Crimson,TRUE
+3300,GMC,Savana 3500,1999,5TDDK4,5,Purple,TRUE
+3301,Ford,E150,2012,W04GU5,5,Orange,TRUE
+3302,Maserati,228,1989,3VW217,5,Green,TRUE
+3303,Bentley,Continental Flying Spur,2012,2T1KE4,6,Violet,TRUE
+3304,Lincoln,Continental,1997,WVGAV7,3,Yellow,TRUE
+3305,Porsche,968,1995,1G6AP5,3,Orange,TRUE
+3306,Honda,Accord,1988,WDDGF5,4,Green,TRUE
+3307,Mitsubishi,Mirage,1988,JH4DB7,5,Pink,TRUE
+3308,Toyota,T100,1998,KNADH5,5,Maroon,TRUE
+3309,Audi,S5,2009,3C63D3,6,Teal,TRUE
+3310,Plymouth,Laser,1993,WBANA5,3,Khaki,TRUE
+3311,GMC,Rally Wagon 1500,1992,1FTMF1,6,Crimson,TRUE
+3312,Porsche,Cayenne,2013,WBAVL1,5,Orange,TRUE
+3313,Ford,Econoline E350,1996,5J8TB4,4,Aquamarine,TRUE
+3314,Dodge,Intrepid,1998,WAUDG7,3,Purple,TRUE
+3315,Audi,A4,2009,WAU3FA,5,Puce,TRUE
+3316,Foose,Hemisfear,2007,1G6KA5,4,Red,TRUE
+3317,Volvo,C70,2009,2HNYD1,5,Purple,TRUE
+3318,Mercury,Grand Marquis,1999,SCBET9,4,Blue,TRUE
+3319,Lexus,IS-F,2008,1G4GC5,6,Teal,TRUE
+3320,Aston Martin,V8 Vantage,2010,5FNYF3,5,Goldenrod,TRUE
+3321,Citroën,CX,1989,1G4HE5,5,Indigo,TRUE
+3322,Bentley,Continental,2007,WAUDT4,4,Blue,TRUE
+3323,Mitsubishi,Endeavor,2007,WBAWB7,3,Blue,TRUE
+3324,Porsche,Boxster,1998,3C3CFF,4,Green,TRUE
+3325,Volkswagen,Golf,1996,WBAFZ9,4,Khaki,TRUE
+3326,Ford,Tempo,1988,JA32X8,3,Purple,TRUE
+3327,Isuzu,Rodeo,1992,WA1CMB,5,Blue,TRUE
+3328,Buick,Century,1999,WBABS3,4,Red,TRUE
+3329,Kia,Sephia,2001,WVGAK7,4,Purple,TRUE
+3330,Mitsubishi,Montero,2002,WAUJC5,6,Turquoise,TRUE
+3331,BMW,600,1959,3FADP0,6,Indigo,TRUE
+3332,Mitsubishi,Galant,2005,19UYA4,6,Turquoise,TRUE
+3333,Land Rover,Range Rover Sport,2009,5J8TB4,5,Goldenrod,TRUE
+3334,Suzuki,SJ,1992,1G6AA1,4,Mauv,TRUE
+3335,Aston Martin,DB9,2010,KMHHT6,4,Red,TRUE
+3336,Honda,Accord,1999,5N1AN0,3,Pink,TRUE
+3337,Subaru,Impreza,2009,JN8AE2,3,Violet,TRUE
+3338,Toyota,Avalon,1995,2C3CA3,6,Indigo,TRUE
+3339,BMW,530,2007,SALVP2,6,Orange,TRUE
+3340,Saturn,S-Series,1992,19XFB2,5,Indigo,TRUE
+3341,Dodge,Ram Van B250,1992,JTHKD5,6,Pink,TRUE
+3342,Ram,1500,2012,SAJWA6,6,Red,TRUE
+3343,Chrysler,Prowler,2001,1G4PP5,4,Orange,TRUE
+3344,BMW,M3,2010,WA1AY7,6,Green,TRUE
+3345,Cadillac,SRX,2008,1G6AA1,5,Orange,TRUE
+3346,Chevrolet,TrailBlazer,2004,1GYS4J,5,Teal,TRUE
+3347,Infiniti,QX,2010,WBAGL8,6,Purple,TRUE
+3348,Volkswagen,Jetta,2007,1C4RJE,4,Aquamarine,TRUE
+3349,Chevrolet,Silverado 2500,2005,WBAYM1,4,Khaki,TRUE
+3350,Chevrolet,Tahoe,2001,SALVN2,5,Indigo,TRUE
+3351,Chevrolet,Camaro,2010,WA1YD5,5,Blue,TRUE
+3352,Chevrolet,Tahoe,2002,WBAFU9,5,Aquamarine,TRUE
+3353,Lexus,LX,1998,1FTEW1,6,Red,TRUE
+3354,Kia,Optima,2002,3D73Y3,6,Purple,TRUE
+3355,GMC,Vandura 3500,1992,WAUSF7,4,Teal,TRUE
+3356,Dodge,Caliber,2010,1G4HR5,3,Turquoise,TRUE
+3357,Jeep,Grand Cherokee,1999,3N1CE2,6,Red,TRUE
+3358,Ford,Thunderbird,1955,3MZBM1,4,Blue,TRUE
+3359,Audi,Q7,2007,1G6AR5,3,Turquoise,TRUE
+3360,Honda,CR-Z,2012,1FTNX2,3,Red,TRUE
+3361,Land Rover,Range Rover,2010,WDDGF4,6,Aquamarine,TRUE
+3362,Mercedes-Benz,G-Class,2008,1FTSX2,6,Fuscia,TRUE
+3363,BMW,8 Series,1994,WBAFU9,6,Turquoise,TRUE
+3364,Suzuki,Samurai,1995,ZHWGU5,4,Khaki,TRUE
+3365,Volkswagen,Passat,1998,2C3CCA,5,Red,TRUE
+3366,Cadillac,STS,2007,1G6DK5,6,Teal,TRUE
+3367,Daewoo,Nubira,2001,KNAGM4,4,Maroon,TRUE
+3368,Dodge,D150 Club,1993,WP0AA2,4,Green,TRUE
+3369,Audi,A8,1999,1FMEU7,4,Orange,TRUE
+3370,Cadillac,CTS,2005,3FAHP0,5,Puce,TRUE
+3371,Nissan,Altima,2006,1FTSX2,6,Turquoise,TRUE
+3372,Mazda,B-Series,2006,TRUTC2,4,Pink,TRUE
+3373,Lexus,LS,1999,5UXWX9,3,Goldenrod,TRUE
+3374,Mercury,Sable,1988,WAUXL6,5,Goldenrod,TRUE
+3375,Mitsubishi,Galant,2002,2LMHJ5,3,Maroon,TRUE
+3376,BMW,5 Series,2011,1G4CW5,3,Puce,TRUE
+3377,Chevrolet,Cavalier,2001,WAUAC4,4,Aquamarine,TRUE
+3378,Suzuki,Equator,2011,YV4902,4,Green,TRUE
+3379,BMW,325,2006,WP0AD2,3,Orange,TRUE
+3380,Mercury,Tracer,1997,1C3BC1,6,Green,TRUE
+3381,Subaru,Alcyone SVX,1997,3C3CFF,4,Blue,TRUE
+3382,Jaguar,S-Type,2000,KNAGM4,6,Violet,TRUE
+3383,Mitsubishi,Endeavor,2006,5N1AA0,5,Puce,TRUE
+3384,Pontiac,Grand Am,1995,WBAYA6,3,Khaki,TRUE
+3385,Oldsmobile,Silhouette,2003,5GAKVC,6,Green,TRUE
+3386,Subaru,Legacy,1998,WDDGF4,3,Red,TRUE
+3387,Hyundai,Tiburon,2000,WAUCFA,6,Fuscia,TRUE
+3388,Toyota,Land Cruiser,1992,1C4AJW,5,Khaki,TRUE
+3389,Pontiac,Safari,1988,19UUA8,5,Yellow,TRUE
+3390,Ford,Econoline E150,1995,1G6YV3,4,Mauv,TRUE
+3391,Mitsubishi,Truck,1986,1GKS1A,3,Red,TRUE
+3392,Lexus,GS,2009,WBAVB7,5,Pink,TRUE
+3393,Pontiac,Firebird,1999,1G4HP5,4,Red,TRUE
+3394,Mercury,Sable,2005,1N6AA0,3,Khaki,TRUE
+3395,Acura,Legend,1995,1GYFK5,4,Orange,TRUE
+3396,Chevrolet,Aveo,2005,SCBZB2,5,Khaki,TRUE
+3397,GMC,Savana 2500,2006,SCBLC3,5,Purple,TRUE
+3398,Maybach,62,2003,JM1NC2,5,Crimson,TRUE
+3399,Mercury,Grand Marquis,1997,KNAGM4,3,Aquamarine,TRUE
+3400,Nissan,GT-R,2013,1GD312,5,Green,TRUE
+3401,Pontiac,Trans Sport,1994,4F2CY0,6,Crimson,TRUE
+3402,Pontiac,6000,1990,WVGEF9,5,Khaki,TRUE
+3403,Mazda,CX-7,2010,1N6AF0,6,Blue,TRUE
+3404,Jaguar,XK Series,1998,KNAFX6,3,Khaki,TRUE
+3405,Honda,S2000,2005,JTEBU5,5,Khaki,TRUE
+3406,Toyota,Celica,1976,1N6AF0,5,Orange,TRUE
+3407,Chevrolet,Silverado 3500,2008,WAUSH9,3,Violet,TRUE
+3408,Ford,F150,2012,SAJWA1,6,Red,TRUE
+3409,Mercury,Tracer,1995,WA1AY7,3,Puce,TRUE
+3410,Mitsubishi,Space,1984,1FTEW1,6,Khaki,TRUE
+3411,Volvo,960,1993,1GYUKH,4,Fuscia,TRUE
+3412,Mercedes-Benz,E-Class,2008,1YVHZ8,5,Green,TRUE
+3413,Ford,F350,1996,WBANB3,3,Puce,TRUE
+3414,Hyundai,Elantra,2008,3GYFNJ,5,Crimson,TRUE
+3415,Chevrolet,2500,1995,3GYFNB,3,Mauv,TRUE
+3416,Audi,TT,2002,2HNYD1,5,Red,TRUE
+3417,Chevrolet,Express 3500,1999,WA1AY7,5,Crimson,TRUE
+3418,Mitsubishi,Lancer,2010,1FTSW2,5,Teal,TRUE
+3419,Lexus,SC,2005,SCBBB7,5,Puce,TRUE
+3420,Dodge,Ram 1500,1994,KMHDB8,5,Yellow,TRUE
+3421,Honda,del Sol,1997,1D4RE5,5,Blue,TRUE
+3422,Suzuki,Sidekick,1989,JN1CV6,5,Maroon,TRUE
+3423,Mitsubishi,Truck,1992,WAUGGA,3,Fuscia,TRUE
+3424,Austin,Mini,1959,1C4AJW,6,Puce,TRUE
+3425,Bentley,Continental GTC,2009,5TDDK3,6,Purple,TRUE
+3426,Mitsubishi,Pajero,1987,3D73Y3,6,Green,TRUE
+3427,Subaru,SVX,1995,1FBNE3,4,Pink,TRUE
+3428,GMC,Yukon XL 2500,2001,SAJWA2,5,Crimson,TRUE
+3429,Ford,Thunderbird,2005,WBANB3,3,Purple,TRUE
+3430,Land Rover,Discovery,1998,WBAUN9,3,Crimson,TRUE
+3431,Mazda,Mazda5,2012,WBABN5,4,Crimson,TRUE
+3432,Mitsubishi,Endeavor,2010,WDDHH8,4,Aquamarine,TRUE
+3433,Mazda,MX-5,2012,1G4GF5,6,Teal,TRUE
+3434,GMC,Envoy,2009,WAUKH7,3,Violet,TRUE
+3435,Chevrolet,Camaro,1973,WBAFR7,4,Fuscia,TRUE
+3436,Mazda,Millenia,1999,1G6AH5,6,Yellow,TRUE
+3437,Land Rover,Range Rover,1986,1GD21Z,6,Puce,TRUE
+3438,Isuzu,i-370,2008,WAURD6,5,Yellow,TRUE
+3439,Pontiac,GTO,1966,WAULF7,4,Orange,TRUE
+3440,Kia,Spectra,2003,1NXBU4,3,Blue,TRUE
+3441,Suzuki,Reno,2006,WAUCFA,3,Maroon,TRUE
+3442,Lexus,ES,1993,5GADS1,4,Maroon,TRUE
+3443,Chevrolet,S10,1993,19UUA9,4,Maroon,TRUE
+3444,Infiniti,Q,1999,1G6KD5,6,Indigo,TRUE
+3445,Lotus,Esprit,1998,WAUDT4,6,Teal,TRUE
+3446,Hyundai,Accent,1995,1N6AA0,3,Teal,TRUE
+3447,Mitsubishi,Tredia,1988,4T1BD1,5,Red,TRUE
+3448,Lexus,IS-F,2010,1GD11Z,4,Red,TRUE
+3449,Dodge,Dakota,2001,YV4852,4,Violet,TRUE
+3450,GMC,Rally Wagon 3500,1992,2C4RDG,4,Goldenrod,TRUE
+3451,Dodge,Grand Caravan,2008,1G6DH5,3,Teal,TRUE
+3452,Saturn,Ion,2004,2G4WB5,4,Pink,TRUE
+3453,Mitsubishi,Mighty Max,1996,WDDGF5,6,Puce,TRUE
+3454,Chevrolet,Blazer,2003,WBA3D5,4,Fuscia,TRUE
+3455,Acura,Integra,1993,5NPDH4,4,Green,TRUE
+3456,Toyota,Tacoma,2002,1FTEW1,3,Khaki,TRUE
+3457,BMW,1 Series,2010,1GYUKB,3,Yellow,TRUE
+3458,Ford,Explorer,2007,2HNYB1,4,Maroon,TRUE
+3459,Saab,5-Sep,2001,19UYA4,4,Orange,TRUE
+3460,Ford,F250,2009,1GKUKF,3,Violet,TRUE
+3461,Volkswagen,Passat,2001,1D7RB1,4,Indigo,TRUE
+3462,Lincoln,LS,2001,JH4KC1,6,Teal,TRUE
+3463,Chevrolet,Corvette,1965,5BZBF0,6,Teal,TRUE
+3464,Holden,VS Commodore,1996,WAUEFB,4,Pink,TRUE
+3465,Buick,Park Avenue,2001,WAULC5,5,Puce,TRUE
+3466,Ford,Taurus,2011,WAUKF9,5,Turquoise,TRUE
+3467,GMC,Savana 2500,2010,WAUXU6,4,Crimson,TRUE
+3468,BMW,3 Series,2012,JN8AE2,3,Red,TRUE
+3469,Ford,F-Series,1994,1G6AM5,4,Purple,TRUE
+3470,Saab,9000,1997,4A4JM2,6,Orange,TRUE
+3471,Dodge,Grand Caravan,2004,2B3CK3,5,Yellow,TRUE
+3472,Ford,Taurus,1987,3C4PDC,4,Green,TRUE
+3473,Nissan,Altima,1994,WBAGN6,3,Aquamarine,TRUE
+3474,Ford,Econoline E150,2000,1N6AA0,4,Green,TRUE
+3475,Buick,Skyhawk,1986,4T1BF1,4,Orange,TRUE
+3476,Porsche,911,2012,WAUEF7,6,Mauv,TRUE
+3477,Mercedes-Benz,W126,1983,2LMHJ5,3,Goldenrod,TRUE
+3478,Volvo,C70,2001,SCFEDC,5,Blue,TRUE
+3479,Saab,900,1987,WBA6B4,4,Turquoise,TRUE
+3480,Volkswagen,Touareg,2006,WDBWK5,4,Indigo,TRUE
+3481,Ford,Edge,2012,WBA3V9,6,Pink,TRUE
+3482,Honda,Pilot,2003,5J6TF1,3,Turquoise,TRUE
+3483,Infiniti,I,1996,JN8AF5,4,Maroon,TRUE
+3484,Infiniti,M,2011,3D7JB1,5,Yellow,TRUE
+3485,Audi,A3,2007,1D7RB1,6,Green,TRUE
+3486,Nissan,Titan,2011,5NPDH4,5,Khaki,TRUE
+3487,Dodge,Caravan,2007,1GKS1H,6,Purple,TRUE
+3488,Volvo,S80,2000,JN1BV7,3,Turquoise,TRUE
+3489,Saab,9-7X,2008,3C4PDD,4,Turquoise,TRUE
+3490,Ford,E350,2011,WAUNF9,5,Green,TRUE
+3491,Chrysler,Town & Country,2008,1GYS3F,6,Blue,TRUE
+3492,Ford,Explorer,2001,WAUAVA,6,Pink,TRUE
+3493,Audi,100,1989,1G6AM5,4,Goldenrod,TRUE
+3494,Infiniti,M,1992,JN8AZ1,5,Yellow,TRUE
+3495,Mitsubishi,Montero Sport,2000,JTEBU4,4,Purple,TRUE
+3496,Audi,TT,2009,WAUXL5,6,Yellow,TRUE
+3497,Chevrolet,Camaro,1970,1FTWX3,5,Orange,TRUE
+3498,Toyota,MR2,2002,1D7RW3,4,Green,TRUE
+3499,Rolls-Royce,Ghost,2012,WAUWFA,4,Puce,TRUE
+3500,Dodge,Avenger,2000,1N6AA0,5,Turquoise,TRUE
+3501,Infiniti,G,1992,WAUMFA,6,Yellow,TRUE
+3502,Mazda,CX-9,2012,2T1BU4,5,Fuscia,TRUE
+3503,Mercury,Sable,2000,1G4GE5,3,Pink,TRUE
+3504,BMW,3 Series,1994,1G6ET1,6,Teal,TRUE
+3505,Honda,Accord,1985,JHMZE2,4,Crimson,TRUE
+3506,Dodge,Caravan,2010,YV4902,6,Green,TRUE
+3507,Cadillac,Seville,1997,1N6BF0,4,Goldenrod,TRUE
+3508,Mitsubishi,Endeavor,2005,KNAFU6,6,Fuscia,TRUE
+3509,GMC,Savana,2008,3D73M4,6,Purple,TRUE
+3510,Subaru,Impreza,1994,WA1CGB,6,Puce,TRUE
+3511,Mitsubishi,Outlander,2010,JTDKTU,6,Mauv,TRUE
+3512,Dodge,Ram 3500,2006,1FAHP3,6,Maroon,TRUE
+3513,Mercedes-Benz,CL-Class,2003,WA1YD6,4,Goldenrod,TRUE
+3514,Mazda,Mazda3,2010,5XYKT3,5,Maroon,TRUE
+3515,Acura,TL,2011,WBAUP7,5,Yellow,TRUE
+3516,Mercedes-Benz,CL-Class,2000,1G4GC5,3,Teal,TRUE
+3517,Ford,Thunderbird,1980,JTHBL1,6,Puce,TRUE
+3518,Mazda,MX-6,1992,2C3CCA,3,Red,TRUE
+3519,Kia,Soul,2010,3D7TT2,5,Green,TRUE
+3520,BMW,Z4,2008,WAUKH7,5,Teal,TRUE
+3521,Mazda,MX-3,1993,JH4CU2,6,Turquoise,TRUE
+3522,GMC,Suburban 1500,1999,WBAPH7,5,Turquoise,TRUE
+3523,Ford,Escort,2004,WAUGL6,6,Green,TRUE
+3524,GMC,Yukon XL 2500,2013,WVGAV3,4,Red,TRUE
+3525,Nissan,Quest,2009,3VWF17,6,Pink,TRUE
+3526,Isuzu,VehiCROSS,1999,WDDEJ7,4,Orange,TRUE
+3527,GMC,Safari,1994,5NPEB4,5,Indigo,TRUE
+3528,Dodge,Neon,1999,1GD312,4,Violet,TRUE
+3529,Dodge,Grand Caravan,1996,3C4PDC,4,Violet,TRUE
+3530,Chevrolet,Tracker,1999,1GTG5A,4,Teal,TRUE
+3531,Land Rover,Range Rover,1991,WBALM7,4,Aquamarine,TRUE
+3532,Geo,Prizm,1997,SCBBR9,4,Orange,TRUE
+3533,Jaguar,XK Series,2013,1G6DV1,5,Blue,TRUE
+3534,Mazda,626,1992,WDDGF5,3,Violet,TRUE
+3535,Aston Martin,V8 Vantage,2010,WAUKFB,5,Teal,TRUE
+3536,Subaru,Leone,1986,1G6YX3,6,Mauv,TRUE
+3537,Oldsmobile,Cutlass Supreme,1994,WVWAN7,5,Orange,TRUE
+3538,Honda,Accord,2000,WBSKG9,6,Orange,TRUE
+3539,BMW,Z4 M,2007,WDDNG7,6,Orange,TRUE
+3540,Honda,Odyssey,2008,YV4952,5,Khaki,TRUE
+3541,Plymouth,Colt Vista,1992,WBA3C1,4,Orange,TRUE
+3542,Lotus,Esprit,2004,WAU32A,4,Orange,TRUE
+3543,Lincoln,Continental Mark VII,1990,WDDEJ7,6,Violet,TRUE
+3544,Audi,S5,2012,1FMJU1,6,Crimson,TRUE
+3545,Mazda,B-Series,1993,JH4DC4,6,Khaki,TRUE
+3546,Nissan,Altima,2009,1GYUKF,5,Indigo,TRUE
+3547,Subaru,Outback,2003,WAUHFB,6,Red,TRUE
+3548,Ford,Escape,2008,JTDJTU,3,Blue,TRUE
+3549,Buick,LaCrosse,2007,SCFAD0,6,Orange,TRUE
+3550,Toyota,Corolla,2005,3D4PG5,5,Orange,TRUE
+3551,Nissan,Titan,2009,YV1902,3,Goldenrod,TRUE
+3552,Mitsubishi,Eclipse,1995,1GYS4D,3,Purple,TRUE
+3553,Mitsubishi,Pajero,2005,WBAPK7,4,Violet,TRUE
+3554,Kia,Sorento,2007,WAUJT5,4,Puce,TRUE
+3555,Suzuki,Swift,1996,1GYS4H,4,Goldenrod,TRUE
+3556,Toyota,Camry,1994,5YMGZ0,5,Pink,TRUE
+3557,Infiniti,I,2000,WBAYA6,4,Violet,TRUE
+3558,Mercedes-Benz,M-Class,2003,WAULT6,3,Red,TRUE
+3559,Audi,A4,2007,SALWG2,4,Maroon,TRUE
+3560,Porsche,Cayenne,2003,WAUDG5,3,Goldenrod,TRUE
+3561,Mazda,626,1985,WA1WGA,6,Aquamarine,TRUE
+3562,Hyundai,Santa Fe,2001,KMHFC4,5,Yellow,TRUE
+3563,Nissan,Altima,2007,WAUDFA,4,Goldenrod,TRUE
+3564,GMC,Safari,1992,WAUHF6,6,Purple,TRUE
+3565,Mitsubishi,Montero,2004,4T1BF1,4,Yellow,TRUE
+3566,Dodge,Ram 1500 Club,2000,5N1AN0,6,Mauv,TRUE
+3567,Land Rover,Range Rover Sport,2009,3VW1K7,3,Puce,TRUE
+3568,Dodge,Dakota Club,1994,4A4JM2,3,Khaki,TRUE
+3569,Subaru,Justy,1992,WAUJGB,6,Puce,TRUE
+3570,GMC,Canyon,2006,WAUA2A,4,Khaki,TRUE
+3571,GMC,Yukon XL 2500,2005,WBAYE0,5,Teal,TRUE
+3572,Buick,Lucerne,2006,5GAER2,3,Indigo,TRUE
+3573,Suzuki,X-90,1996,WP0AA2,6,Purple,TRUE
+3574,Buick,Riviera,1991,JM1CW2,3,Aquamarine,TRUE
+3575,Ford,F150,1995,KNDJT2,5,Pink,TRUE
+3576,Porsche,Boxster,1997,JN1AZ4,4,Mauv,TRUE
+3577,Nissan,Maxima,1993,SCBBB7,6,Yellow,TRUE
+3578,Scion,xB,2010,3D4PH1,5,Goldenrod,TRUE
+3579,Ford,E150,2005,JN8AZ2,4,Mauv,TRUE
+3580,Lotus,Elan,1991,2C3CDX,3,Fuscia,TRUE
+3581,Mazda,RX-7,1990,1G6KD5,4,Orange,TRUE
+3582,Pontiac,Solstice,2009,5FNRL5,5,Mauv,TRUE
+3583,Cadillac,Escalade ESV,2010,WP0CB2,4,Khaki,TRUE
+3584,Hyundai,Equus,2013,KNAFU6,5,Blue,TRUE
+3585,Ford,Explorer,1991,3C4PDC,3,Yellow,TRUE
+3586,Mitsubishi,Pajero,1988,WVGAV7,5,Pink,TRUE
+3587,Kia,Spectra,2000,1NXBE4,6,Teal,TRUE
+3588,Dodge,Dakota,2002,KM8JT3,5,Pink,TRUE
+3589,Mercedes-Benz,E-Class,1987,KNAFK4,5,Fuscia,TRUE
+3590,Isuzu,Hombre Space,1997,1G6DV8,3,Violet,TRUE
+3591,Hyundai,Elantra,2009,JN1CV6,4,Crimson,TRUE
+3592,Subaru,Outback,2005,1G4PR5,4,Yellow,TRUE
+3593,Geo,Storm,1993,WBAKC8,4,Indigo,TRUE
+3594,GMC,Yukon XL 2500,2011,WBABS3,3,Mauv,TRUE
+3595,Dodge,Ram Van 3500,2000,JN8AF5,6,Red,TRUE
+3596,BMW,Alpina B7,2008,3VWF17,6,Maroon,TRUE
+3597,Dodge,Stealth,1995,WBA6B4,3,Teal,TRUE
+3598,Aston Martin,DB9,2007,1FTEW1,6,Teal,TRUE
+3599,Geo,Tracker,1992,2T1BU4,6,Indigo,TRUE
+3600,Kia,Rio5,2008,WAUHF9,3,Puce,TRUE
+3601,Volvo,XC70,2008,2C3CA4,5,Purple,TRUE
+3602,Chrysler,300,1999,JM1NC2,5,Yellow,TRUE
+3603,Mazda,RX-7,1987,WAUFGB,6,Mauv,TRUE
+3604,Volkswagen,rio,1999,2C3CCA,5,Violet,TRUE
+3605,Pontiac,Bonneville,1997,WAURMA,4,Crimson,TRUE
+3606,Mercury,Mystique,2000,1G4GD5,6,Mauv,TRUE
+3607,Ferrari,F430,2007,JM1NC2,3,Aquamarine,TRUE
+3608,Suzuki,Esteem,1998,WP0AB2,6,Crimson,TRUE
+3609,GMC,Sonoma Club Coupe,1997,2C3CDY,4,Yellow,TRUE
+3610,Panoz,Esperante,2006,1D7RV1,5,Violet,TRUE
+3611,Chevrolet,Avalanche 1500,2002,SCBLE3,4,Orange,TRUE
+3612,Buick,LaCrosse,2008,5N1AT2,4,Puce,TRUE
+3613,Toyota,Previa,1996,3N1CN7,5,Indigo,TRUE
+3614,Mazda,B2600,1987,2G4G05,3,Khaki,TRUE
+3615,GMC,3500 Club Coupe,1995,WBSBL9,6,Teal,TRUE
+3616,Chevrolet,Silverado 3500,2009,JH4CU2,5,Green,TRUE
+3617,Land Rover,Discovery,2011,5GAKRB,5,Fuscia,TRUE
+3618,Alfa Romeo,Spider,1993,WBADX1,4,Goldenrod,TRUE
+3619,Ford,Laser,1984,1FADP5,5,Purple,TRUE
+3620,Kia,Rondo,2010,3D73M4,5,Maroon,TRUE
+3621,Dodge,Ram Van 2500,1999,2C4RDG,3,Fuscia,TRUE
+3622,Ford,Taurus X,2009,3C6JD6,5,Mauv,TRUE
+3623,Suzuki,Cultus,1985,WAUFFA,6,Puce,TRUE
+3624,Kia,Optima,2004,WAUEV9,4,Indigo,TRUE
+3625,Toyota,Yaris,2011,3C6TD5,4,Blue,TRUE
+3626,Volvo,V70,2002,SALAG2,6,Violet,TRUE
+3627,Ford,Escape,2013,5N1AZ2,4,Aquamarine,TRUE
+3628,Volkswagen,Golf,1986,1G6KD5,5,Pink,TRUE
+3629,MINI,Cooper Clubman,2008,WBANA5,3,Indigo,TRUE
+3630,Toyota,Supra,1995,WAUEF9,3,Pink,TRUE
+3631,Honda,Element,2005,KMHCM3,6,Fuscia,TRUE
+3632,Lamborghini,Diablo,1995,JTHBL1,6,Red,TRUE
+3633,Suzuki,Swift,1996,1FTSX2,4,Indigo,TRUE
+3634,Pontiac,Grand Prix,1981,WAUDH7,4,Goldenrod,TRUE
+3635,Infiniti,M,1992,WAULT6,6,Khaki,TRUE
+3636,Austin,Mini,1959,1GYS3F,4,Mauv,TRUE
+3637,Mercedes-Benz,E-Class,1986,JTEBU4,6,Blue,TRUE
+3638,Nissan,Quest,1999,5TDDCR,4,Turquoise,TRUE
+3639,GMC,Yukon,1993,1G4GD5,4,Red,TRUE
+3640,Acura,TL,2003,5N1BA0,5,Mauv,TRUE
+3641,Hyundai,Genesis Coupe,2010,JH4KB1,3,Red,TRUE
+3642,Pontiac,Firebird Formula,1999,JM1NC2,6,Pink,TRUE
+3643,Mazda,Miata MX-5,1994,WP0CA2,4,Violet,TRUE
+3644,Volvo,XC90,2004,3VW1K7,4,Teal,TRUE
+3645,Jeep,Wrangler,2012,1G4GA5,5,Pink,TRUE
+3646,Buick,LeSabre,1998,3C4PDC,5,Indigo,TRUE
+3647,Honda,Civic,1990,1D7RV1,3,Goldenrod,TRUE
+3648,Mercedes-Benz,500SL,1993,5UXWX5,5,Khaki,TRUE
+3649,Volkswagen,Cabriolet,1995,1N6AF0,4,Maroon,TRUE
+3650,BMW,M5,1992,WBAUN7,6,Red,TRUE
+3651,Dodge,Caravan,2008,1G6AY5,6,Yellow,TRUE
+3652,Dodge,Challenger,2011,WBAUC7,5,Crimson,TRUE
+3653,Chevrolet,S10,1994,5UXFA1,4,Mauv,TRUE
+3654,Ford,Econoline E350,1998,5GAKRD,4,Violet,TRUE
+3655,Hyundai,Santa Fe,2004,JN8AE2,4,Mauv,TRUE
+3656,Dodge,Dakota Club,2006,JTHBE1,6,Blue,TRUE
+3657,Land Rover,Freelander,2001,1C4RDH,3,Fuscia,TRUE
+3658,Nissan,Altima,2002,WAUHF7,3,Red,TRUE
+3659,Mercury,Cougar,1991,SAJWA4,5,Puce,TRUE
+3660,Plymouth,Reliant,1981,WBAFZ9,5,Red,TRUE
+3661,Ford,Ranger,2009,1GYS4C,3,Turquoise,TRUE
+3662,Oldsmobile,Aurora,2003,ZFF75V,3,Puce,TRUE
+3663,BMW,7 Series,2004,5J8TB4,4,Blue,TRUE
+3664,Lexus,ES,1990,KMHHT6,3,Red,TRUE
+3665,Chevrolet,Express 3500,2003,WBAPM7,4,Mauv,TRUE
+3666,Mazda,B-Series,2005,1GYFK6,6,Yellow,TRUE
+3667,GMC,Yukon,2010,JM1GJ1,5,Orange,TRUE
+3668,Pontiac,Fiero,1987,3GYEK6,6,Purple,TRUE
+3669,Lexus,RX,2006,3GYFNG,4,Crimson,TRUE
+3670,Toyota,TundraMax,2011,JTDKDT,4,Blue,TRUE
+3671,Subaru,Forester,2009,JTMHY7,3,Teal,TRUE
+3672,Infiniti,QX,2008,YV4902,4,Turquoise,TRUE
+3673,Toyota,MR2,1993,1D7RE3,5,Green,TRUE
+3674,Chevrolet,K5 Blazer,1995,WBA3B5,3,Green,TRUE
+3675,Toyota,TundraMax,2011,2G61R5,3,Mauv,TRUE
+3676,Chevrolet,Corvette,1955,1FMJK1,5,Yellow,TRUE
+3677,Land Rover,Discovery,1997,4T1BK1,5,Turquoise,TRUE
+3678,Porsche,928,1985,JN8AZ1,6,Turquoise,TRUE
+3679,Ford,F250,2002,WAUVC5,5,Orange,TRUE
+3680,Mitsubishi,Eclipse,1994,KNDPB3,5,Fuscia,TRUE
+3681,Volkswagen,Passat,2001,WBANE7,5,Puce,TRUE
+3682,Toyota,Highlander,2012,WAUWGA,3,Indigo,TRUE
+3683,Mercury,Mountaineer,2007,1C3CDF,4,Crimson,TRUE
+3684,BMW,5 Series,2009,1GD11Z,6,Crimson,TRUE
+3685,Lexus,RX Hybrid,2011,1FMJK1,4,Maroon,TRUE
+3686,Dodge,Durango,2011,WA1VMB,4,Green,TRUE
+3687,Isuzu,Hombre,1997,1N6AA0,6,Yellow,TRUE
+3688,MINI,Cooper,2012,JN8AZ1,5,Mauv,TRUE
+3689,Toyota,MR2,2004,WAUJC6,5,Orange,TRUE
+3690,Mercury,Topaz,1990,WBA4A7,5,Purple,TRUE
+3691,Dodge,Avenger,1998,WBAVL1,3,Mauv,TRUE
+3692,Lincoln,Town Car,1997,KM8JT3,4,Red,TRUE
+3693,Dodge,Neon,1999,WBAGL6,3,Puce,TRUE
+3694,Honda,S2000,2005,1FTEW1,6,Teal,TRUE
+3695,Mercury,Grand Marquis,1996,WBA5M2,6,Blue,TRUE
+3696,Lotus,Elise,2004,WBADT5,4,Aquamarine,TRUE
+3697,Subaru,Tribeca,2011,WBAPH5,4,Maroon,TRUE
+3698,GMC,3500 Club Coupe,1998,4T1BF3,5,Indigo,TRUE
+3699,Cadillac,Escalade,2000,JN8AE2,5,Indigo,TRUE
+3700,Dodge,Viper,1997,WBA3B1,3,Fuscia,TRUE
+3701,Acura,RL,2000,1G6KF5,5,Crimson,TRUE
+3702,Mercedes-Benz,SLR McLaren,2005,WBAUN7,3,Green,TRUE
+3703,Toyota,4Runner,2004,ML32A3,5,Pink,TRUE
+3704,Honda,Element,2006,WBSKG9,3,Goldenrod,TRUE
+3705,Audi,riolet,1994,JTEBU5,4,Crimson,TRUE
+3706,Infiniti,G37,2009,2T1BU4,3,Turquoise,TRUE
+3707,Volvo,960,1996,WAUDF9,3,Yellow,TRUE
+3708,Mercury,Monterey,2005,SAJWA4,3,Violet,TRUE
+3709,Mazda,RX-8,2010,3D7LP2,6,Khaki,TRUE
+3710,Kia,Amanti,2005,1G6KE5,6,Blue,TRUE
+3711,Mercedes-Benz,CLK-Class,2000,WAUNF9,5,Teal,TRUE
+3712,Volvo,S60,2013,1FBSS3,4,Pink,TRUE
+3713,Ford,Ranger,1986,WAUDH7,4,Blue,TRUE
+3714,Ford,F350,2005,WAUDV7,5,Orange,TRUE
+3715,Volkswagen,GTI,2001,5NPEB4,6,Pink,TRUE
+3716,Mercedes-Benz,E-Class,1999,5TFBW5,4,Goldenrod,TRUE
+3717,Ford,Festiva,1993,5N1AR2,4,Purple,TRUE
+3718,Buick,Riviera,1993,3MZBM1,4,Khaki,TRUE
+3719,Ford,E150,2006,2C3CDY,6,Pink,TRUE
+3720,Ford,F250,2003,SALAB2,4,Mauv,TRUE
+3721,Acura,TL,1999,2HNYD2,6,Indigo,TRUE
+3722,Toyota,Celica,1984,JTDJTU,4,Maroon,TRUE
+3723,Jaguar,S-Type,2007,1GKS1K,6,Maroon,TRUE
+3724,Mazda,626,1995,SAJWA4,6,Violet,TRUE
+3725,Mitsubishi,Mirage,2001,WVWAN7,6,Pink,TRUE
+3726,Mitsubishi,Lancer,2010,1G6KD5,6,Yellow,TRUE
+3727,Nissan,Altima,1995,WAUBH7,3,Mauv,TRUE
+3728,Aston Martin,V8 Vantage S,2011,KMHTC6,6,Green,TRUE
+3729,Chevrolet,Cobalt,2010,1GYFC5,5,Puce,TRUE
+3730,Chrysler,Sebring,2001,5UXFG4,5,Turquoise,TRUE
+3731,Saab,900,1988,5LMJJ3,4,Yellow,TRUE
+3732,Ford,Windstar,2001,WAUMF9,4,Mauv,TRUE
+3733,Isuzu,i-280,2006,WBA3D3,6,Yellow,TRUE
+3734,Buick,Skylark,1995,1G6AZ5,4,Mauv,TRUE
+3735,Studebaker,Avanti,1963,JTDJTU,3,Indigo,TRUE
+3736,Buick,Riviera,1996,3D7TT2,3,Teal,TRUE
+3737,Ford,Freestar,2005,1G6AL5,4,Teal,TRUE
+3738,Hummer,H2,2004,YV1612,3,Orange,TRUE
+3739,Ford,Expedition,1997,WBAAW3,6,Yellow,TRUE
+3740,Dodge,Ram 1500,1999,WAUKF9,3,Mauv,TRUE
+3741,Chevrolet,Silverado 2500,2011,WAUKFB,5,Violet,TRUE
+3742,Kia,Sportage,1996,1GD010,6,Pink,TRUE
+3743,Pontiac,GTO,1967,1N4AA5,6,Aquamarine,TRUE
+3744,Subaru,Loyale,1993,3D73M4,4,Orange,TRUE
+3745,Toyota,Camry Solara,2006,3C4PDD,5,Turquoise,TRUE
+3746,Dodge,Omni,1978,JTDZN3,3,Red,TRUE
+3747,Honda,FCX Clarity,2012,WAURVA,3,Teal,TRUE
+3748,BMW,7 Series,2003,JN8AZ2,4,Red,TRUE
+3749,Chevrolet,Sportvan G30,1996,SCBZB2,6,Maroon,TRUE
+3750,Buick,Rainier,2005,WBAVC7,5,Purple,TRUE
+3751,Lincoln,Aviator,2003,2G4GR5,5,Turquoise,TRUE
+3752,Chevrolet,HHR,2010,YV4902,3,Violet,TRUE
+3753,Acura,MDX,2001,2C3CCA,5,Indigo,TRUE
+3754,Dodge,Viper,2010,2LMHJ5,5,Purple,TRUE
+3755,Lincoln,Mark VII,1984,1G6DP1,5,Khaki,TRUE
+3756,Chevrolet,Tahoe,1995,WBABN3,6,Yellow,TRUE
+3757,Chevrolet,Express 3500,2002,1FTFW1,4,Mauv,TRUE
+3758,Volkswagen,Rabbit,2007,WAUSH9,6,Yellow,TRUE
+3759,Dodge,Dakota Club,2000,1GTCSB,5,Yellow,TRUE
+3760,Chevrolet,2500,2000,JTEBU5,4,Teal,TRUE
+3761,GMC,Vandura 3500,1992,JH4DC2,5,Violet,TRUE
+3762,Honda,Civic Si,2005,JM1NC2,4,Maroon,TRUE
+3763,Nissan,JUKE,2012,1N6AF0,6,Mauv,TRUE
+3764,BMW,M6,2008,1GD311,3,Red,TRUE
+3765,Pontiac,Grand Am,2002,JTHCL5,4,Indigo,TRUE
+3766,BMW,M6,2007,2G61W5,4,Puce,TRUE
+3767,Lexus,IS,2011,1D7CE3,6,Turquoise,TRUE
+3768,Toyota,Tacoma,2004,SCFFDA,4,Mauv,TRUE
+3769,Audi,RS 4,2008,1G6DL1,6,Aquamarine,TRUE
+3770,MINI,Cooper,2002,WVGAV7,3,Maroon,TRUE
+3771,Mercedes-Benz,W126,1981,JN8AS5,3,Yellow,TRUE
+3772,Porsche,911,1990,JA32X8,6,Khaki,TRUE
+3773,Chevrolet,Traverse,2012,KNAFZ6,5,Mauv,TRUE
+3774,Acura,RDX,2008,JTDZN3,5,Maroon,TRUE
+3775,Dodge,Ramcharger,1992,3FADP4,5,Blue,TRUE
+3776,Isuzu,Oasis,1996,WAU4FA,3,Aquamarine,TRUE
+3777,Kia,Spectra,2007,WP0AD2,4,Orange,TRUE
+3778,Ford,Club Wagon,1992,WAUSH7,5,Maroon,TRUE
+3779,Mercedes-Benz,CL-Class,2005,JTDKDT,5,Yellow,TRUE
+3780,Toyota,Prius,2008,2C3CCA,3,Aquamarine,TRUE
+3781,Suzuki,Swift,1993,WVGAV7,5,Puce,TRUE
+3782,Volvo,240,1993,1C6RD6,6,Khaki,TRUE
+3783,Acura,CL,1999,5TDBW5,4,Aquamarine,TRUE
+3784,Chevrolet,Express,2012,1D7RW2,3,Goldenrod,TRUE
+3785,Jeep,Cherokee,1992,2G4GY5,3,Pink,TRUE
+3786,Audi,TT,2005,3D73M4,5,Orange,TRUE
+3787,Rolls-Royce,Phantom,2012,WBALL5,5,Blue,TRUE
+3788,Ford,Lightning,1994,WAUVT5,6,Purple,TRUE
+3789,Jeep,Wrangler,2007,SALFR2,4,Goldenrod,TRUE
+3790,Lotus,Elan,1993,5YMGY0,6,Blue,TRUE
+3791,Dodge,Ram 50,1993,SCBLF3,4,Yellow,TRUE
+3792,Mitsubishi,RVR,1993,WA1CV9,3,Puce,TRUE
+3793,Toyota,4Runner,2011,JHMFB4,3,Teal,TRUE
+3794,Saturn,Outlook,2008,WAUFL4,5,Blue,TRUE
+3795,Chevrolet,Silverado 3500,2003,3N1CN7,3,Khaki,TRUE
+3796,Mitsubishi,Galant,1995,WBS3R9,3,Yellow,TRUE
+3797,Acura,MDX,2004,WAUNE7,3,Crimson,TRUE
+3798,GMC,Sierra 3500,2007,5GADX2,4,Crimson,TRUE
+3799,Ford,Mustang,1971,WBAET3,3,Orange,TRUE
+3800,Mazda,Miata MX-5,1996,WAU4FA,4,Mauv,TRUE
+3801,Ford,Festiva,1993,WDCYC3,3,Indigo,TRUE
+3802,Chevrolet,Corvette,2000,WAU4FB,6,Violet,TRUE
+3803,Volkswagen,Fox,1989,JH4CW2,6,Khaki,TRUE
+3804,BMW,X3,2008,JN1AZ4,6,Crimson,TRUE
+3805,Toyota,Avalon,2012,19UUA9,6,Khaki,TRUE
+3806,Acura,TL,2008,WBAFU9,3,Mauv,TRUE
+3807,Toyota,Avalon,1998,1FTEW1,5,Orange,TRUE
+3808,Land Rover,Discovery,2002,WA1CV9,5,Puce,TRUE
+3809,Volvo,S40,2003,1G4GA5,3,Violet,TRUE
+3810,Subaru,Forester,2004,5UXFF0,3,Fuscia,TRUE
+3811,Volkswagen,Type 2,1991,1C6RD6,4,Indigo,TRUE
+3812,Saab,3-Sep,1999,1GD11Z,5,Goldenrod,TRUE
+3813,BMW,5 Series,2004,1G6DG5,3,Orange,TRUE
+3814,Bugatti,Veyron,2009,19UUB2,3,Red,TRUE
+3815,Hyundai,Veloster,2012,JTJBM7,5,Aquamarine,TRUE
+3816,BMW,Z4,2011,19VDE1,5,Crimson,TRUE
+3817,Daewoo,Nubira,2002,1FTSX2,6,Indigo,TRUE
+3818,Saab,900,1987,WBAUC7,3,Pink,TRUE
+3819,GMC,Rally Wagon G3500,1995,KNAFT4,4,Fuscia,TRUE
+3820,Eagle,Talon,1991,WAUJT5,3,Fuscia,TRUE
+3821,Lexus,SC,1998,WAUAVA,3,Indigo,TRUE
+3822,Jensen,Interceptor,1967,ZHWGU6,3,Crimson,TRUE
+3823,Dodge,Viper,2003,1FTEW1,5,Crimson,TRUE
+3824,Dodge,Intrepid,1993,1GYFK1,3,Aquamarine,TRUE
+3825,Cadillac,DTS,2008,WBAEN3,5,Maroon,TRUE
+3826,Toyota,Land Cruiser,1996,TRUTX2,3,Purple,TRUE
+3827,Chevrolet,Suburban 2500,2010,WAUDH7,5,Red,TRUE
+3828,Mazda,B-Series,1993,KNAFX5,3,Puce,TRUE
+3829,Chevrolet,Camaro,1982,WAUAFA,4,Mauv,TRUE
+3830,Audi,A4,2012,YV126M,4,Indigo,TRUE
+3831,Saab,3-Sep,2011,3A4GY5,5,Crimson,TRUE
+3832,Chrysler,New Yorker,1994,WAUVT6,4,Green,TRUE
+3833,Mitsubishi,Galant,1984,WBXPA9,3,Goldenrod,TRUE
+3834,Mercedes-Benz,S-Class,1992,5N1AZ2,3,Turquoise,TRUE
+3835,Mercedes-Benz,C-Class,1993,JM1NC2,3,Turquoise,TRUE
+3836,Jaguar,X-Type,2004,1LNHL9,4,Aquamarine,TRUE
+3837,Dodge,Viper RT/10,1994,2C3CDX,3,Khaki,TRUE
+3838,Toyota,Corolla,2002,SCBDP3,4,Red,TRUE
+3839,BMW,X6,2011,JTDZN3,4,Red,TRUE
+3840,Nissan,Altima,1996,WAUVC5,4,Orange,TRUE
+3841,Mitsubishi,Chariot,1990,4F2CY0,3,Puce,TRUE
+3842,Pontiac,Fiero,1985,1N4AA5,6,Orange,TRUE
+3843,Lincoln,Continental Mark VII,1992,WA1DGA,5,Red,TRUE
+3844,Lexus,ES,2012,1FTEW1,5,Khaki,TRUE
+3845,Chevrolet,Camaro,1980,WAUVT5,4,Fuscia,TRUE
+3846,Nissan,Frontier,2003,JHMZE2,6,Puce,TRUE
+3847,GMC,Savana,2012,WBA3F9,6,Khaki,TRUE
+3848,Subaru,Forester,2010,WDDPK4,4,Yellow,TRUE
+3849,MINI,Cooper Countryman,2011,JA32U2,3,Mauv,TRUE
+3850,Toyota,RAV4,1996,2T1BUR,5,Goldenrod,TRUE
+3851,Scion,tC,2007,WBAVB7,5,Turquoise,TRUE
+3852,Jeep,Comanche,1992,WAUFEB,4,Indigo,TRUE
+3853,GMC,1500,1998,1N6AF0,6,Teal,TRUE
+3854,Scion,tC,2008,YV4902,3,Pink,TRUE
+3855,Pontiac,Bonneville,1989,5YMGZ0,4,Purple,TRUE
+3856,Ford,E150,2005,2C3CDX,5,Yellow,TRUE
+3857,BMW,7 Series,2006,1GTC5L,5,Blue,TRUE
+3858,Honda,Odyssey,1995,WBA4C9,4,Violet,TRUE
+3859,Dodge,Nitro,2011,1HGCP2,3,Maroon,TRUE
+3860,Mazda,Miata MX-5,1994,WBAVB7,3,Maroon,TRUE
+3861,Toyota,TundraMax,2008,3GYFNK,6,Teal,TRUE
+3862,Chevrolet,Silverado,2003,WAULT6,4,Puce,TRUE
+3863,BMW,6 Series,2004,WAUWGA,5,Fuscia,TRUE
+3864,Hyundai,Santa Fe,2001,SCFFDA,6,Red,TRUE
+3865,Isuzu,Hombre Space,1999,1FTSW3,6,Goldenrod,TRUE
+3866,Lexus,LX,2002,WBADS4,4,Teal,TRUE
+3867,Ford,Probe,1994,JM1DE1,3,Indigo,TRUE
+3868,Pontiac,Aztek,2003,1FMJK1,5,Purple,TRUE
+3869,Ford,Taurus,1992,WBANU5,4,Indigo,TRUE
+3870,Dodge,Ram 2500,2009,1C3BC2,4,Purple,TRUE
+3871,Land Rover,Range Rover,2010,1GD11Z,3,Mauv,TRUE
+3872,GMC,Jimmy,1993,4A4AP3,3,Mauv,TRUE
+3873,Chevrolet,Impala,2005,3C6JD6,6,Fuscia,TRUE
+3874,Toyota,Prius,2010,WP0CB2,3,Mauv,TRUE
+3875,Bentley,Brooklands,2010,1FTWW3,6,Aquamarine,TRUE
+3876,Chevrolet,Suburban 2500,2012,1C4RDH,3,Khaki,TRUE
+3877,Honda,Civic,2005,1HGCP2,4,Turquoise,TRUE
+3878,Tesla,Roadster,2011,19UUA5,3,Crimson,TRUE
+3879,Mazda,MX-6,1990,SCBFU7,4,Yellow,TRUE
+3880,GMC,Sonoma,1997,3G5DB0,4,Orange,TRUE
+3881,Dodge,Stratus,2004,2GKALM,6,Mauv,TRUE
+3882,Chevrolet,Avalanche,2007,1N6AA0,6,Puce,TRUE
+3883,Toyota,RAV4,2010,WAUDFA,5,Aquamarine,TRUE
+3884,Hummer,H1,1998,JN8AZ1,4,Yellow,TRUE
+3885,Oldsmobile,88,1995,1D4RD2,6,Aquamarine,TRUE
+3886,Mercury,Villager,1997,KNAFK4,6,Teal,TRUE
+3887,Ford,E-350 Super Duty Van,2006,JTDKDT,4,Violet,TRUE
+3888,Honda,Accord Crosstour,2011,1G6AF5,3,Fuscia,TRUE
+3889,Buick,Skyhawk,1987,1G6KS5,5,Goldenrod,TRUE
+3890,Ford,F250,2009,5N1AR1,4,Violet,TRUE
+3891,Suzuki,Grand Vitara,2007,5UXFG4,4,Mauv,TRUE
+3892,BMW,7 Series,1997,1G4GD5,4,Mauv,TRUE
+3893,Nissan,Frontier,2001,WAUPEA,6,Khaki,TRUE
+3894,Mitsubishi,L300,1989,1NXBU4,3,Violet,TRUE
+3895,Ford,F-Series Super Duty,2007,1GYS4C,4,Violet,TRUE
+3896,BMW,M3,2010,WVGEP9,3,Maroon,TRUE
+3897,Lincoln,MKS,2009,1FMEU6,5,Indigo,TRUE
+3898,Chevrolet,Caprice Classic,1994,JN1CV6,5,Orange,TRUE
+3899,Chrysler,LHS,2000,SCFAD2,4,Teal,TRUE
+3900,Saab,3-Sep,2001,1GTN1T,4,Goldenrod,TRUE
+3901,Lexus,SC,1999,WA1WKB,4,Violet,TRUE
+3902,Mazda,MX-5,2010,2G4GS5,4,Yellow,TRUE
+3903,Lotus,Esprit,2000,19XFB4,3,Violet,TRUE
+3904,Pontiac,Trans Sport,1996,WAULV9,6,Crimson,TRUE
+3905,Toyota,Solara,2008,1GD21Z,3,Turquoise,TRUE
+3906,Chevrolet,Impala,2011,WAU3GA,6,Indigo,TRUE
+3907,Nissan,Xterra,2005,JTHBE5,3,Fuscia,TRUE
+3908,GMC,Sierra 2500,2010,1ZVBP8,6,Crimson,TRUE
+3909,Lincoln,Mark VIII,1993,WBAYB6,4,Blue,TRUE
+3910,Mitsubishi,Tredia,1984,3N1CN7,5,Fuscia,TRUE
+3911,Ford,Explorer Sport Trac,2006,WAUBFB,4,Violet,TRUE
+3912,Chrysler,New Yorker,1992,3C63DP,4,Purple,TRUE
+3913,Cadillac,Seville,1999,2HNYD1,6,Crimson,TRUE
+3914,Jaguar,XK Series,1998,WBAYA6,4,Violet,TRUE
+3915,Ford,F350,2004,JTEBU5,3,Yellow,TRUE
+3916,Cadillac,DeVille,1995,1G4HP5,4,Orange,TRUE
+3917,Oldsmobile,Achieva,1995,WAUNF9,5,Green,TRUE
+3918,Toyota,Celica,1998,WAUDV9,4,Indigo,TRUE
+3919,Honda,Civic,2009,WAUKG6,4,Yellow,TRUE
+3920,BMW,6 Series,2006,WBADT5,4,Teal,TRUE
+3921,Ford,Transit Connect,2013,1G6AV5,4,Aquamarine,TRUE
+3922,Mercedes-Benz,SLK-Class,1997,JTDKN3,6,Turquoise,TRUE
+3923,Dodge,Ram 3500,2009,KNADM4,6,Teal,TRUE
+3924,Mitsubishi,Tundra,2009,3C63DR,3,Crimson,TRUE
+3925,Lexus,IS,2012,ZFBCFA,3,Violet,TRUE
+3926,Buick,Rendezvous,2002,SCFBF0,6,Khaki,TRUE
+3927,Oldsmobile,Cutlass,1999,1GYS3A,6,Green,TRUE
+3928,Suzuki,Swift,1992,3C3CFF,6,Orange,TRUE
+3929,Chrysler,New Yorker,1993,YV4902,3,Pink,TRUE
+3930,Alfa Romeo,164,1995,WBA3B1,5,Indigo,TRUE
+3931,Subaru,Forester,2006,WA1AY9,4,Pink,TRUE
+3932,Toyota,4Runner,1992,WP1AA2,6,Yellow,TRUE
+3933,Bentley,Continental,2008,WA1UFA,6,Yellow,TRUE
+3934,Cadillac,STS,2008,1GD02Z,3,Blue,TRUE
+3935,Ford,E-Series,1990,WAUFGB,5,Blue,TRUE
+3936,Ford,Mustang,2011,1FTMF1,5,Aquamarine,TRUE
+3937,Kia,Carens,2008,5N1BA0,6,Green,TRUE
+3938,Ford,F350,2001,WBA1M1,3,Green,TRUE
+3939,Toyota,Prius,2009,WBAPK7,4,Aquamarine,TRUE
+3940,Suzuki,Daewoo Lacetti,2004,3D73M3,4,Turquoise,TRUE
+3941,Lincoln,Navigator,2005,1G4PR5,6,Orange,TRUE
+3942,Honda,Ridgeline,2008,1FTSW2,5,Teal,TRUE
+3943,Porsche,Panamera,2011,WBSBL9,3,Violet,TRUE
+3944,Saab,3-Sep,2009,5GAKRA,4,Blue,TRUE
+3945,Oldsmobile,Cutlass Supreme,1995,WAUVT6,3,Orange,TRUE
+3946,Buick,Century,2003,1GT010,6,Puce,TRUE
+3947,Chevrolet,Express 1500,1999,3D73M3,5,Yellow,TRUE
+3948,Volvo,XC70,2012,1FMJK1,3,Goldenrod,TRUE
+3949,Toyota,Tacoma,1999,1N6AA0,3,Maroon,TRUE
+3950,Maybach,62,2011,1C3BCB,5,Blue,TRUE
+3951,Dodge,Stratus,2002,2T1BU4,5,Purple,TRUE
+3952,Suzuki,Swift,1990,WP0AB2,5,Mauv,TRUE
+3953,Toyota,Avalon,2006,3D73Y4,5,Blue,TRUE
+3954,BMW,5 Series,1994,1GYS4G,4,Maroon,TRUE
+3955,Mitsubishi,Chariot,1990,1G6KE5,5,Maroon,TRUE
+3956,Dodge,D250,1992,1G6EL1,5,Aquamarine,TRUE
+3957,Dodge,Dakota,2007,1N6AF0,5,Pink,TRUE
+3958,Ford,Explorer Sport Trac,2010,5N1AA0,5,Orange,TRUE
+3959,Volkswagen,Eurovan,1993,1FTEW1,5,Mauv,TRUE
+3960,Ford,Bronco II,1989,WAUWFA,5,Crimson,TRUE
+3961,Honda,Odyssey,1997,19XFB2,6,Puce,TRUE
+3962,Chrysler,Cirrus,1999,3VW8S7,6,Khaki,TRUE
+3963,Cadillac,DTS,2008,WBAVT1,3,Green,TRUE
+3964,Ford,Explorer Sport,2002,WAUEKA,5,Pink,TRUE
+3965,Volkswagen,GTI,1996,1C3CCB,4,Fuscia,TRUE
+3966,Volkswagen,rio,2002,WAUVC6,4,Teal,TRUE
+3967,Land Rover,Discovery,2011,WAUVC6,3,Red,TRUE
+3968,Dodge,Ram Van 2500,2000,WAU3GA,4,Turquoise,TRUE
+3969,Chevrolet,Camaro,1973,WAUAFA,6,Blue,TRUE
+3970,Dodge,Challenger,2009,2T1BUR,3,Blue,TRUE
+3971,Ford,E-350 Super Duty,2006,WVWAN7,3,Blue,TRUE
+3972,Chevrolet,Silverado 3500,2009,1GT01Z,5,Puce,TRUE
+3973,Nissan,200SX,1995,SCFAB2,5,Red,TRUE
+3974,Infiniti,J,1994,WBAYF4,6,Orange,TRUE
+3975,Dodge,D150 Club,1993,4T1BF1,3,Red,TRUE
+3976,BMW,1 Series,2012,5J8TB1,3,Blue,TRUE
+3977,Audi,5000CS,1987,1N6AF0,3,Aquamarine,TRUE
+3978,Buick,LeSabre,2003,WAUCKA,5,Purple,TRUE
+3979,GMC,Yukon XL 1500,2002,KMHTC6,5,Turquoise,TRUE
+3980,Ford,Mustang,1974,KMHHT6,5,Blue,TRUE
+3981,Ford,Ranger,1991,WBAFU7,6,Orange,TRUE
+3982,Honda,Civic,2004,1GYUKA,4,Maroon,TRUE
+3983,Mercedes-Benz,S-Class,1998,WAU4GB,4,Green,TRUE
+3984,Ford,E-Series,2008,WBA3A9,6,Fuscia,TRUE
+3985,Ford,F350,2010,WBA3N5,5,Turquoise,TRUE
+3986,BMW,645,2005,1FTSW3,3,Fuscia,TRUE
+3987,Volvo,XC90,2013,1FBNE3,5,Puce,TRUE
+3988,Cadillac,Seville,1992,JH4CL9,6,Yellow,TRUE
+3989,Pontiac,Grand Prix,1964,JTHBK1,4,Puce,TRUE
+3990,Suzuki,Esteem,2000,WAUKH9,4,Purple,TRUE
+3991,Mercedes-Benz,G-Class,2011,5TFBW5,4,Red,TRUE
+3992,Hyundai,Excel,1993,5TDBK3,4,Indigo,TRUE
+3993,Pontiac,Montana,2002,SCFHDD,6,Red,TRUE
+3994,Lincoln,Blackwood,2002,2G61N5,6,Turquoise,TRUE
+3995,Lincoln,MKZ,2012,WAUBFA,3,Fuscia,TRUE
+3996,Mercury,Cougar,2000,JH4CU4,4,Red,TRUE
+3997,Geo,Prizm,1995,5J6TF1,3,Turquoise,TRUE
+3998,Volkswagen,rio,1999,5GAKVB,3,Puce,TRUE
+3999,Audi,S4,2000,1FMCU4,4,Violet,TRUE
+4000,Maybach,62,2005,YV1902,3,Crimson,TRUE

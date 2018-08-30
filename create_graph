@@ -1,0 +1,7 @@
+CREATE CONSTRAINT ON (p:Person) ASSERT p.phone_no IS UNIQUE
+
+CREATE CONSTRAINT ON (c:Car) ASSERT c.plate_no IS UNIQUE
+
+CREATE CONSTRAINT ON (c:Car) ASSERT c.plate_no IS UNIQUE
+
+CREATE (p1:Person {name:'Rounak',dob:})
